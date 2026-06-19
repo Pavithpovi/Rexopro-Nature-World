@@ -1,0 +1,3058 @@
+{
+  "land": [
+    {
+      "id": "land-antelope",
+      "name": "Antelope",
+      "scientificName": "Antilocapra americana",
+      "habitat": "Grasslands",
+      "conservationStatus": "Endangered",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "10-15 years",
+        "size": "1.0m",
+        "weight": "50kg",
+        "speed": "88 km/h"
+      },
+      "description": "An extremely swift mammal found in open grasslands, featuring beautiful curved horns.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,antelope/all?lock=80519",
+        "https://loremflickr.com/800/600/animal,wildlife,antelope/all?lock=20004",
+        "https://loremflickr.com/800/600/animal,wildlife,antelope/all?lock=32350",
+        "https://loremflickr.com/800/600/animal,wildlife,antelope/all?lock=20006",
+        "https://loremflickr.com/600/800/animal,wildlife,antelope/all?lock=20007",
+        "https://loremflickr.com/800/600/animal,wildlife,antelope/all?lock=20008",
+        "https://loremflickr.com/600/800/animal,wildlife,antelope/all?lock=20009",
+        "https://loremflickr.com/800/600/animal,wildlife,antelope/all?lock=20010"
+      ]
+    },
+    {
+      "id": "land-badger",
+      "name": "Badger",
+      "scientificName": "Meles meles",
+      "habitat": "Forest/Grassland",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "10-12 years",
+        "size": "0.75m",
+        "weight": "11kg",
+        "speed": "30 km/h"
+      },
+      "description": "A stout, burrowing carnivore recognized by its striking black and white striped head.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,badger/all?lock=86174",
+        "https://loremflickr.com/600/800/animal,wildlife,badger/all?lock=52713",
+        "https://loremflickr.com/800/600/animal,wildlife,badger/all?lock=45628",
+        "https://loremflickr.com/600/800/animal,wildlife,badger/all?lock=65975",
+        "https://loremflickr.com/800/600/animal,wildlife,badger/all?lock=55803",
+        "https://loremflickr.com/600/800/animal,wildlife,badger/all?lock=45631",
+        "https://loremflickr.com/800/600/animal,wildlife,badger/all?lock=55805",
+        "https://loremflickr.com/600/800/animal,wildlife,badger/all?lock=32373"
+      ]
+    },
+    {
+      "id": "land-bat",
+      "name": "Bat",
+      "scientificName": "Microchiroptera",
+      "habitat": "Caves/Forests",
+      "conservationStatus": "Endangered",
+      "diet": "Insectivore",
+      "stats": {
+        "lifespan": "10-20 years",
+        "size": "0.15m",
+        "weight": "0.1kg",
+        "speed": "40 km/h"
+      },
+      "description": "The only mammal capable of true sustained flight, navigating using advanced echolocation.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,bat/all?lock=70446",
+        "https://loremflickr.com/600/800/animal,wildlife,bat/all?lock=42555",
+        "https://loremflickr.com/800/600/animal,wildlife,bat/all?lock=52729",
+        "https://loremflickr.com/600/800/animal,wildlife,bat/all?lock=78335",
+        "https://loremflickr.com/800/600/animal,wildlife,bat/all?lock=32385",
+        "https://loremflickr.com/600/800/animal,wildlife,bat/all?lock=32386",
+        "https://loremflickr.com/800/600/animal,wildlife,bat/all?lock=45647",
+        "https://loremflickr.com/600/800/animal,wildlife,bat/all?lock=52734"
+      ]
+    },
+    {
+      "id": "land-bear",
+      "name": "Bear",
+      "scientificName": "Ursus",
+      "habitat": "Forest/Tundra",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "20-25 years",
+        "size": "1.2m (height)",
+        "weight": "250kg",
+        "speed": "48 km/h"
+      },
+      "description": "A large, powerful omnivore with a thick coat of fur and heavy claws used for digging.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,bear/all?lock=70496",
+        "https://loremflickr.com/600/800/animal,wildlife,bear/all?lock=20054",
+        "https://loremflickr.com/800/600/animal,wildlife,bear/all?lock=78351",
+        "https://loremflickr.com/600/800/animal,wildlife,bear/all?lock=20056",
+        "https://loremflickr.com/800/600/animal,wildlife,bear/all?lock=32402",
+        "https://loremflickr.com/600/800/animal,wildlife,bear/all?lock=32403",
+        "https://loremflickr.com/800/600/animal,wildlife,bear/all?lock=32404",
+        "https://loremflickr.com/600/800/animal,wildlife,bear/all?lock=32405"
+      ]
+    },
+    {
+      "id": "land-bee",
+      "name": "Bee",
+      "scientificName": "Apis",
+      "habitat": "Gardens/Meadows",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "5-6 weeks",
+        "size": "0.015m",
+        "weight": "0.0001kg",
+        "speed": "20 km/h"
+      },
+      "description": "A crucial pollinator that lives in complex social colonies, producing sweet honey.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,bee/all?lock=80719",
+        "https://loremflickr.com/600/800/animal,wildlife,bee/all?lock=30201",
+        "https://loremflickr.com/800/600/animal,wildlife,bee/all?lock=20070",
+        "https://loremflickr.com/600/800/animal,wildlife,bee/all?lock=20071",
+        "https://loremflickr.com/800/600/animal,wildlife,bee/all?lock=20072",
+        "https://loremflickr.com/600/800/animal,wildlife,bee/all?lock=20073",
+        "https://loremflickr.com/800/600/animal,wildlife,bee/all?lock=20074",
+        "https://loremflickr.com/600/800/animal,wildlife,bee/all?lock=52766"
+      ]
+    },
+    {
+      "id": "land-beetle",
+      "name": "Beetle",
+      "scientificName": "Coleoptera",
+      "habitat": "Leaf Litter/Soil",
+      "conservationStatus": "Vulnerable",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "1-2 years",
+        "size": "0.03m",
+        "weight": "0.005kg",
+        "speed": "5 km/h"
+      },
+      "description": "An incredibly diverse insect with a hardened pair of front wings acting as a protective shell.",
+      "images": [
+        "https://loremflickr.com/600/800/animal,wildlife,beetle/all?lock=20086",
+        "https://loremflickr.com/800/600/animal,wildlife,beetle/all?lock=20087",
+        "https://loremflickr.com/800/600/animal,wildlife,beetle/all?lock=32433",
+        "https://loremflickr.com/600/800/animal,wildlife,beetle/all?lock=32434",
+        "https://loremflickr.com/800/600/animal,wildlife,beetle/all?lock=45695",
+        "https://loremflickr.com/800/600/animal,wildlife,beetle/all?lock=20091",
+        "https://loremflickr.com/800/600/animal,wildlife,beetle/all?lock=52783",
+        "https://loremflickr.com/600/800/animal,wildlife,beetle/all?lock=98735"
+      ]
+    },
+    {
+      "id": "land-bison",
+      "name": "Bison",
+      "scientificName": "Bison bison",
+      "habitat": "Grasslands/Plains",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "15-20 years",
+        "size": "1.8m",
+        "weight": "900kg",
+        "speed": "56 km/h"
+      },
+      "description": "A massive hump-shouldered wild ox that once roamed North American plains in giant herds.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,bison/all?lock=30300",
+        "https://loremflickr.com/600/800/animal,wildlife,bison/all?lock=80820",
+        "https://loremflickr.com/800/600/animal,wildlife,bison/all?lock=58057",
+        "https://loremflickr.com/800/600/animal,wildlife,bison/all?lock=20108",
+        "https://loremflickr.com/800/600/animal,wildlife,bison/all?lock=42627",
+        "https://loremflickr.com/600/800/animal,wildlife,bison/all?lock=52801",
+        "https://loremflickr.com/800/600/animal,wildlife,bison/all?lock=32456",
+        "https://loremflickr.com/600/800/animal,wildlife,bison/all?lock=32457"
+      ]
+    },
+    {
+      "id": "land-boar",
+      "name": "Boar",
+      "scientificName": "Sus scrofa",
+      "habitat": "Boreal Forest",
+      "conservationStatus": "Endangered",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "10-14 years",
+        "size": "0.9m",
+        "weight": "80kg",
+        "speed": "40 km/h"
+      },
+      "description": "A wild ancestor of the domestic pig, equipped with sharp canine tusks and a tough bristly coat.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,boar/all?lock=50696",
+        "https://loremflickr.com/600/800/animal,wildlife,boar/all?lock=20122",
+        "https://loremflickr.com/800/600/animal,wildlife,boar/all?lock=66074",
+        "https://loremflickr.com/600/800/animal,wildlife,boar/all?lock=52815",
+        "https://loremflickr.com/800/600/animal,wildlife,boar/all?lock=88594",
+        "https://loremflickr.com/600/800/animal,wildlife,boar/all?lock=47903",
+        "https://loremflickr.com/800/600/animal,wildlife,boar/all?lock=32472",
+        "https://loremflickr.com/600/800/animal,wildlife,boar/all?lock=52819"
+      ]
+    },
+    {
+      "id": "land-butterfly",
+      "name": "Butterfly",
+      "scientificName": "Lepidoptera",
+      "habitat": "Meadows/Gardens",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "2-4 weeks",
+        "size": "0.05m",
+        "weight": "0.001kg",
+        "speed": "12 km/h"
+      },
+      "description": "A beautiful insect with colorful, scale-covered wings that undergoes complete metamorphosis.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,butterfly/all?lock=80919",
+        "https://loremflickr.com/600/800/animal,wildlife,butterfly/all?lock=52831",
+        "https://loremflickr.com/800/600/animal,wildlife,butterfly/all?lock=42659",
+        "https://loremflickr.com/800/600/animal,wildlife,butterfly/all?lock=20142",
+        "https://loremflickr.com/600/800/animal,wildlife,butterfly/all?lock=20143",
+        "https://loremflickr.com/600/800/animal,wildlife,butterfly/all?lock=32489",
+        "https://loremflickr.com/600/800/animal,wildlife,butterfly/all?lock=20145",
+        "https://loremflickr.com/600/800/animal,wildlife,butterfly/all?lock=52837"
+      ]
+    },
+    {
+      "id": "land-cat",
+      "name": "Cat",
+      "scientificName": "Felis catus",
+      "habitat": "Domestic/Urban",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "12-15 years",
+        "size": "0.25m",
+        "weight": "4.5kg",
+        "speed": "48 km/h"
+      },
+      "description": "A small, agile domesticated carnivore prized by humans for companionship and pest control.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,cat/all?lock=50796",
+        "https://loremflickr.com/600/800/animal,wildlife,cat/all?lock=32501",
+        "https://loremflickr.com/800/600/animal,wildlife,cat/all?lock=32502",
+        "https://loremflickr.com/600/800/animal,wildlife,cat/all?lock=32503",
+        "https://loremflickr.com/800/600/animal,wildlife,cat/all?lock=20159",
+        "https://loremflickr.com/600/800/animal,wildlife,cat/all?lock=42678",
+        "https://loremflickr.com/800/600/animal,wildlife,cat/all?lock=52852",
+        "https://loremflickr.com/600/800/animal,wildlife,cat/all?lock=42680"
+      ]
+    },
+    {
+      "id": "land-caterpillar",
+      "name": "Caterpillar",
+      "scientificName": "Lepidoptera larva",
+      "habitat": "Vegetation",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "2-4 weeks",
+        "size": "0.04m",
+        "weight": "0.002kg",
+        "speed": "0.1 km/h"
+      },
+      "description": "The worm-like larval stage of butterflies and moths, possessing an insatiable appetite for leaves.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,caterpillar/all?lock=30500",
+        "https://loremflickr.com/600/800/animal,wildlife,caterpillar/all?lock=81020",
+        "https://loremflickr.com/800/600/animal,wildlife,caterpillar/all?lock=50502",
+        "https://loremflickr.com/600/800/animal,wildlife,caterpillar/all?lock=32519",
+        "https://loremflickr.com/800/600/animal,wildlife,caterpillar/all?lock=32520",
+        "https://loremflickr.com/800/600/animal,wildlife,caterpillar/all?lock=20176",
+        "https://loremflickr.com/600/800/animal,wildlife,caterpillar/all?lock=20177",
+        "https://loremflickr.com/800/600/animal,wildlife,caterpillar/all?lock=20178"
+      ]
+    },
+    {
+      "id": "land-chimpanzee",
+      "name": "Chimpanzee",
+      "scientificName": "Pan troglodytes",
+      "habitat": "Rainforest",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "35-40 years",
+        "size": "1.2m",
+        "weight": "45kg",
+        "speed": "40 km/h"
+      },
+      "description": "One of humanity's closest genetic relatives, highly intelligent and skilled in tool usage.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,chimpanzee/all?lock=42710",
+        "https://loremflickr.com/800/600/animal,wildlife,chimpanzee/all?lock=20193",
+        "https://loremflickr.com/800/600/animal,wildlife,chimpanzee/all?lock=32539",
+        "https://loremflickr.com/800/600/animal,wildlife,chimpanzee/all?lock=20195",
+        "https://loremflickr.com/800/600/animal,wildlife,chimpanzee/all?lock=32541",
+        "https://loremflickr.com/600/800/animal,wildlife,chimpanzee/all?lock=42715",
+        "https://loremflickr.com/600/800/animal,wildlife,chimpanzee/all?lock=20198",
+        "https://loremflickr.com/600/800/animal,wildlife,chimpanzee/all?lock=66150"
+      ]
+    },
+    {
+      "id": "land-cockroach",
+      "name": "Cockroach",
+      "scientificName": "Blattodea",
+      "habitat": "Crevices/Dark places",
+      "conservationStatus": "Vulnerable",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "1-2 years",
+        "size": "0.04m",
+        "weight": "0.003kg",
+        "speed": "5 km/h"
+      },
+      "description": "An incredibly resilient insect capable of surviving extreme conditions and environments.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,cockroach/all?lock=66378",
+        "https://loremflickr.com/600/800/animal,wildlife,cockroach/all?lock=56206",
+        "https://loremflickr.com/800/600/animal,wildlife,cockroach/all?lock=50602",
+        "https://loremflickr.com/600/800/animal,wildlife,cockroach/all?lock=35640",
+        "https://loremflickr.com/800/600/animal,wildlife,cockroach/all?lock=35641",
+        "https://loremflickr.com/600/800/animal,wildlife,cockroach/all?lock=42728",
+        "https://loremflickr.com/800/600/animal,wildlife,cockroach/all?lock=52902",
+        "https://loremflickr.com/600/800/animal,wildlife,cockroach/all?lock=55990"
+      ]
+    },
+    {
+      "id": "land-cow",
+      "name": "Cow",
+      "scientificName": "Bos taurus",
+      "habitat": "Pasture/Farms",
+      "conservationStatus": "Endangered",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "15-20 years",
+        "size": "1.4m",
+        "weight": "700kg",
+        "speed": "25 km/h"
+      },
+      "description": "A common domesticated herbivore raised globally for milk, meat, and agricultural labor.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,cow/all?lock=40823",
+        "https://loremflickr.com/600/800/animal,wildlife,cow/all?lock=52917",
+        "https://loremflickr.com/800/600/animal,wildlife,cow/all?lock=20227",
+        "https://loremflickr.com/600/800/animal,wildlife,cow/all?lock=42746",
+        "https://loremflickr.com/800/600/animal,wildlife,cow/all?lock=20229",
+        "https://loremflickr.com/600/800/animal,wildlife,cow/all?lock=20230",
+        "https://loremflickr.com/800/600/animal,wildlife,cow/all?lock=32576",
+        "https://loremflickr.com/600/800/animal,wildlife,cow/all?lock=52923"
+      ]
+    },
+    {
+      "id": "land-coyote",
+      "name": "Coyote",
+      "scientificName": "Canis latrans",
+      "habitat": "Grassland/Desert",
+      "conservationStatus": "Endangered",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "10-14 years",
+        "size": "0.6m",
+        "weight": "15kg",
+        "speed": "65 km/h"
+      },
+      "description": "An adaptable North American canine known for its distinctive midnight howling and clever hunting.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,coyote/all?lock=52932",
+        "https://loremflickr.com/600/800/animal,wildlife,coyote/all?lock=58192",
+        "https://loremflickr.com/800/600/animal,wildlife,coyote/all?lock=88712",
+        "https://loremflickr.com/600/800/animal,wildlife,coyote/all?lock=52935",
+        "https://loremflickr.com/800/600/animal,wildlife,coyote/all?lock=52936",
+        "https://loremflickr.com/600/800/animal,wildlife,coyote/all?lock=32591",
+        "https://loremflickr.com/800/600/animal,wildlife,coyote/all?lock=52938",
+        "https://loremflickr.com/600/800/animal,wildlife,coyote/all?lock=52939"
+      ]
+    },
+    {
+      "id": "land-deer",
+      "name": "Deer",
+      "scientificName": "Cervidae",
+      "habitat": "Forest/Meadow",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "10-12 years",
+        "size": "0.9m",
+        "weight": "80kg",
+        "speed": "50 km/h"
+      },
+      "description": "A graceful hoofed herbivore, the males of which grow and shed branched antlers annually.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,deer/all?lock=71096",
+        "https://loremflickr.com/600/800/animal,wildlife,deer/all?lock=32606",
+        "https://loremflickr.com/800/600/animal,wildlife,deer/all?lock=52953",
+        "https://loremflickr.com/600/800/animal,wildlife,deer/all?lock=35695",
+        "https://loremflickr.com/800/600/animal,wildlife,deer/all?lock=52955",
+        "https://loremflickr.com/600/800/animal,wildlife,deer/all?lock=42783",
+        "https://loremflickr.com/600/800/animal,wildlife,deer/all?lock=20266",
+        "https://loremflickr.com/600/800/animal,wildlife,deer/all?lock=42785"
+      ]
+    },
+    {
+      "id": "land-dog",
+      "name": "Dog",
+      "scientificName": "Canis lupus familiaris",
+      "habitat": "Domestic/Urban",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "10-13 years",
+        "size": "0.5m",
+        "weight": "25kg",
+        "speed": "48 km/h"
+      },
+      "description": "The first domesticated animal, bred into hundreds of unique shapes and sizes for work and companionship.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,dog/all?lock=30800",
+        "https://loremflickr.com/600/800/animal,wildlife,dog/all?lock=32621",
+        "https://loremflickr.com/800/600/animal,wildlife,dog/all?lock=32622",
+        "https://loremflickr.com/600/800/animal,wildlife,dog/all?lock=42796",
+        "https://loremflickr.com/600/800/animal,wildlife,dog/all?lock=20279",
+        "https://loremflickr.com/600/800/animal,wildlife,dog/all?lock=52971",
+        "https://loremflickr.com/800/600/animal,wildlife,dog/all?lock=42799",
+        "https://loremflickr.com/800/600/animal,wildlife,dog/all?lock=20282"
+      ]
+    },
+    {
+      "id": "land-donkey",
+      "name": "Donkey",
+      "scientificName": "Equus asinus",
+      "habitat": "Arid/Farms",
+      "conservationStatus": "Endangered",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "25-30 years",
+        "size": "1.1m",
+        "weight": "200kg",
+        "speed": "24 km/h"
+      },
+      "description": "A sturdy, patient pack animal related to horses, known for its long ears and distinct bray.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,donkey/all?lock=50850",
+        "https://loremflickr.com/600/800/animal,wildlife,donkey/all?lock=81370",
+        "https://loremflickr.com/800/600/animal,wildlife,donkey/all?lock=42809",
+        "https://loremflickr.com/600/800/animal,wildlife,donkey/all?lock=52983",
+        "https://loremflickr.com/800/600/animal,wildlife,donkey/all?lock=42811",
+        "https://loremflickr.com/600/800/animal,wildlife,donkey/all?lock=42812",
+        "https://loremflickr.com/800/600/animal,wildlife,donkey/all?lock=32640",
+        "https://loremflickr.com/600/800/animal,wildlife,donkey/all?lock=32641"
+      ]
+    },
+    {
+      "id": "land-dragonfly",
+      "name": "Dragonfly",
+      "scientificName": "Anisoptera",
+      "habitat": "Wetlands/Ponds",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "6 months",
+        "size": "0.08m",
+        "weight": "0.001kg",
+        "speed": "54 km/h"
+      },
+      "description": "An ancient aerial predator with large multifaceted eyes and four powerful wings that hover with agility.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,dragonfly/all?lock=71246",
+        "https://loremflickr.com/600/800/animal,wildlife,dragonfly/all?lock=81420",
+        "https://loremflickr.com/800/600/animal,wildlife,dragonfly/all?lock=50902",
+        "https://loremflickr.com/600/800/animal,wildlife,dragonfly/all?lock=20309",
+        "https://loremflickr.com/800/600/animal,wildlife,dragonfly/all?lock=42828",
+        "https://loremflickr.com/600/800/animal,wildlife,dragonfly/all?lock=32656",
+        "https://loremflickr.com/800/600/animal,wildlife,dragonfly/all?lock=32657",
+        "https://loremflickr.com/600/800/animal,wildlife,dragonfly/all?lock=32658"
+      ]
+    },
+    {
+      "id": "land-elephant",
+      "name": "Elephant",
+      "scientificName": "Loxodonta africana",
+      "habitat": "Savannah",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "60-70 years",
+        "size": "3.3m",
+        "weight": "5500kg",
+        "speed": "40 km/h"
+      },
+      "description": "The largest living land animal, characterized by its long trunk, large ears, and ivory tusks.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,elephant/all?lock=71296",
+        "https://loremflickr.com/600/800/animal,wildlife,elephant/all?lock=20326",
+        "https://loremflickr.com/800/600/animal,wildlife,elephant/all?lock=32672",
+        "https://loremflickr.com/600/800/animal,wildlife,elephant/all?lock=32673",
+        "https://loremflickr.com/800/600/animal,wildlife,elephant/all?lock=66280",
+        "https://loremflickr.com/600/800/animal,wildlife,elephant/all?lock=32675",
+        "https://loremflickr.com/800/600/animal,wildlife,elephant/all?lock=32676",
+        "https://loremflickr.com/600/800/animal,wildlife,elephant/all?lock=53023"
+      ]
+    },
+    {
+      "id": "land-fly",
+      "name": "Fly",
+      "scientificName": "Diptera",
+      "habitat": "Global",
+      "conservationStatus": "Vulnerable",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "2-4 weeks",
+        "size": "0.008m",
+        "weight": "0.0001kg",
+        "speed": "8 km/h"
+      },
+      "description": "A common insect with a single pair of flight wings and specialized sponge-like mouthparts.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,fly/all?lock=31000",
+        "https://loremflickr.com/600/800/animal,wildlife,fly/all?lock=42860",
+        "https://loremflickr.com/800/600/animal,wildlife,fly/all?lock=32688",
+        "https://loremflickr.com/600/800/animal,wildlife,fly/all?lock=32689",
+        "https://loremflickr.com/800/600/animal,wildlife,fly/all?lock=32690",
+        "https://loremflickr.com/600/800/animal,wildlife,fly/all?lock=53037",
+        "https://loremflickr.com/800/600/animal,wildlife,fly/all?lock=53038",
+        "https://loremflickr.com/600/800/animal,wildlife,fly/all?lock=42866"
+      ]
+    },
+    {
+      "id": "land-fox",
+      "name": "Fox",
+      "scientificName": "Vulpes vulpes",
+      "habitat": "Woodlands/Urban",
+      "conservationStatus": "Vulnerable",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "3-5 years",
+        "size": "0.4m",
+        "weight": "6kg",
+        "speed": "50 km/h"
+      },
+      "description": "An adaptable, clever carnivore with a bushy white-tipped tail and a sharp snout.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,fox/all?lock=35792",
+        "https://loremflickr.com/600/800/animal,wildlife,fox/all?lock=53052",
+        "https://loremflickr.com/800/600/animal,wildlife,fox/all?lock=42880",
+        "https://loremflickr.com/600/800/animal,wildlife,fox/all?lock=53054",
+        "https://loremflickr.com/800/600/animal,wildlife,fox/all?lock=53055",
+        "https://loremflickr.com/600/800/animal,wildlife,fox/all?lock=88834",
+        "https://loremflickr.com/600/800/animal,wildlife,fox/all?lock=20366",
+        "https://loremflickr.com/600/800/animal,wildlife,fox/all?lock=32712"
+      ]
+    },
+    {
+      "id": "land-goat",
+      "name": "Goat",
+      "scientificName": "Capra hircus",
+      "habitat": "Mountain Slopes",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "10-15 years",
+        "size": "0.7m",
+        "weight": "50kg",
+        "speed": "15 km/h"
+      },
+      "description": "A hardy, sure-footed domesticated ruminant capable of climbing steep mountain faces.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,goat/all?lock=31100",
+        "https://loremflickr.com/600/800/animal,wildlife,goat/all?lock=20375",
+        "https://loremflickr.com/800/600/animal,wildlife,goat/all?lock=58326",
+        "https://loremflickr.com/600/800/animal,wildlife,goat/all?lock=20377",
+        "https://loremflickr.com/800/600/animal,wildlife,goat/all?lock=66329",
+        "https://loremflickr.com/600/800/animal,wildlife,goat/all?lock=20379",
+        "https://loremflickr.com/800/600/animal,wildlife,goat/all?lock=20380",
+        "https://loremflickr.com/600/800/animal,wildlife,goat/all?lock=35813"
+      ]
+    },
+    {
+      "id": "land-gorilla",
+      "name": "Gorilla",
+      "scientificName": "Gorilla",
+      "habitat": "Cloud Forest",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "35-40 years",
+        "size": "1.6m",
+        "weight": "150kg",
+        "speed": "40 km/h"
+      },
+      "description": "A massive, powerful ape that lives in closely bonded family groups led by a silverback.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,gorilla/all?lock=51496",
+        "https://loremflickr.com/800/600/animal,wildlife,gorilla/all?lock=20395",
+        "https://loremflickr.com/800/600/animal,wildlife,gorilla/all?lock=42914",
+        "https://loremflickr.com/800/600/animal,wildlife,gorilla/all?lock=20397",
+        "https://loremflickr.com/800/600/animal,wildlife,gorilla/all?lock=42916",
+        "https://loremflickr.com/800/600/animal,wildlife,gorilla/all?lock=20399",
+        "https://loremflickr.com/800/600/animal,wildlife,gorilla/all?lock=78696",
+        "https://loremflickr.com/600/800/animal,wildlife,gorilla/all?lock=32746"
+      ]
+    },
+    {
+      "id": "land-grasshopper",
+      "name": "Grasshopper",
+      "scientificName": "Caelifera",
+      "habitat": "Grasslands/Fields",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "1 year",
+        "size": "0.05m",
+        "weight": "0.002kg",
+        "speed": "8 km/h"
+      },
+      "description": "A plant-eating insect equipped with powerful hind legs for jumping long distances.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,grasshopper/all?lock=56805",
+        "https://loremflickr.com/600/800/animal,wildlife,grasshopper/all?lock=46015",
+        "https://loremflickr.com/800/600/animal,wildlife,grasshopper/all?lock=78707",
+        "https://loremflickr.com/600/800/animal,wildlife,grasshopper/all?lock=32757",
+        "https://loremflickr.com/800/600/animal,wildlife,grasshopper/all?lock=35845",
+        "https://loremflickr.com/800/600/animal,wildlife,grasshopper/all?lock=20414",
+        "https://loremflickr.com/800/600/animal,wildlife,grasshopper/all?lock=32760",
+        "https://loremflickr.com/600/800/animal,wildlife,grasshopper/all?lock=53107"
+      ]
+    },
+    {
+      "id": "land-hamster",
+      "name": "Hamster",
+      "scientificName": "Cricetinae",
+      "habitat": "Grasslands/Domestic",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "2-3 years",
+        "size": "0.12m",
+        "weight": "0.12kg",
+        "speed": "5 km/h"
+      },
+      "description": "A small, nocturnal rodent featuring expandable cheek pouches used to carry food to its burrow.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,hamster/all?lock=51250",
+        "https://loremflickr.com/800/600/animal,wildlife,hamster/all?lock=20429",
+        "https://loremflickr.com/800/600/animal,wildlife,hamster/all?lock=42948",
+        "https://loremflickr.com/600/800/animal,wildlife,hamster/all?lock=66382",
+        "https://loremflickr.com/800/600/animal,wildlife,hamster/all?lock=42950",
+        "https://loremflickr.com/600/800/animal,wildlife,hamster/all?lock=53124",
+        "https://loremflickr.com/800/600/animal,wildlife,hamster/all?lock=42952",
+        "https://loremflickr.com/600/800/animal,wildlife,hamster/all?lock=53126"
+      ]
+    },
+    {
+      "id": "land-hare",
+      "name": "Hare",
+      "scientificName": "Lepus",
+      "habitat": "Open Meadows",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "4-8 years",
+        "size": "0.55m",
+        "weight": "4kg",
+        "speed": "72 km/h"
+      },
+      "description": "A swift, long-eared mammal related to rabbits, living in simple nests rather than burrows.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,hare/all?lock=31300",
+        "https://loremflickr.com/600/800/animal,wildlife,hare/all?lock=32790",
+        "https://loremflickr.com/800/600/animal,wildlife,hare/all?lock=56224",
+        "https://loremflickr.com/600/800/animal,wildlife,hare/all?lock=20447",
+        "https://loremflickr.com/800/600/animal,wildlife,hare/all?lock=20448",
+        "https://loremflickr.com/600/800/animal,wildlife,hare/all?lock=32794",
+        "https://loremflickr.com/800/600/animal,wildlife,hare/all?lock=20450",
+        "https://loremflickr.com/600/800/animal,wildlife,hare/all?lock=42969"
+      ]
+    },
+    {
+      "id": "land-hedgehog",
+      "name": "Hedgehog",
+      "scientificName": "Erinaceinae",
+      "habitat": "Woodlands/Gardens",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "3-6 years",
+        "size": "0.22m",
+        "weight": "0.6kg",
+        "speed": "6 km/h"
+      },
+      "description": "A small spiny mammal that rolls into a tight protective ball when threatened.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,hedgehog/all?lock=41523",
+        "https://loremflickr.com/600/800/animal,wildlife,hedgehog/all?lock=20462",
+        "https://loremflickr.com/800/600/animal,wildlife,hedgehog/all?lock=20463",
+        "https://loremflickr.com/600/800/animal,wildlife,hedgehog/all?lock=20464",
+        "https://loremflickr.com/800/600/animal,wildlife,hedgehog/all?lock=20465",
+        "https://loremflickr.com/600/800/animal,wildlife,hedgehog/all?lock=20466",
+        "https://loremflickr.com/800/600/animal,wildlife,hedgehog/all?lock=20467",
+        "https://loremflickr.com/600/800/animal,wildlife,hedgehog/all?lock=20468"
+      ]
+    },
+    {
+      "id": "land-hippopotamus",
+      "name": "Hippopotamus",
+      "scientificName": "Hippopotamus amphibius",
+      "habitat": "Rivers/Swamps",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "40-50 years",
+        "size": "1.5m",
+        "weight": "1500kg",
+        "speed": "30 km/h"
+      },
+      "description": "A massive semi-aquatic mammal, known for its territorial behavior and large canine tusks.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,hippopotamus/all?lock=97697",
+        "https://loremflickr.com/800/600/animal,wildlife,hippopotamus/all?lock=20478",
+        "https://loremflickr.com/600/800/animal,wildlife,hippopotamus/all?lock=20479",
+        "https://loremflickr.com/800/600/animal,wildlife,hippopotamus/all?lock=20480",
+        "https://loremflickr.com/600/800/animal,wildlife,hippopotamus/all?lock=20481",
+        "https://loremflickr.com/800/600/animal,wildlife,hippopotamus/all?lock=20482",
+        "https://loremflickr.com/800/600/animal,wildlife,hippopotamus/all?lock=43001",
+        "https://loremflickr.com/800/600/animal,wildlife,hippopotamus/all?lock=20484"
+      ]
+    },
+    {
+      "id": "land-horse",
+      "name": "Horse",
+      "scientificName": "Equus caballus",
+      "habitat": "Grasslands/Farms",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "25-30 years",
+        "size": "1.6m",
+        "weight": "500kg",
+        "speed": "70 km/h"
+      },
+      "description": "An elegant, powerful herd mammal domesticated by humans for transport and agriculture.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,horse/all?lock=71796",
+        "https://loremflickr.com/600/800/animal,wildlife,horse/all?lock=51797",
+        "https://loremflickr.com/800/600/animal,wildlife,horse/all?lock=20499",
+        "https://loremflickr.com/600/800/animal,wildlife,horse/all?lock=20500",
+        "https://loremflickr.com/800/600/animal,wildlife,horse/all?lock=20501",
+        "https://loremflickr.com/600/800/animal,wildlife,horse/all?lock=53193",
+        "https://loremflickr.com/800/600/animal,wildlife,horse/all?lock=32848",
+        "https://loremflickr.com/600/800/animal,wildlife,horse/all?lock=53195"
+      ]
+    },
+    {
+      "id": "land-hyena",
+      "name": "Hyena",
+      "scientificName": "Hyaenidae",
+      "habitat": "Savannah",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "12-15 years",
+        "size": "0.85m",
+        "weight": "60kg",
+        "speed": "60 km/h"
+      },
+      "description": "A scavenger-predator with extremely strong jaws and a distinctive cackling laugh vocalization.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,hyena/all?lock=32857",
+        "https://loremflickr.com/600/800/animal,wildlife,hyena/all?lock=20513",
+        "https://loremflickr.com/800/600/animal,wildlife,hyena/all?lock=32859",
+        "https://loremflickr.com/600/800/animal,wildlife,hyena/all?lock=20515",
+        "https://loremflickr.com/800/600/animal,wildlife,hyena/all?lock=53207",
+        "https://loremflickr.com/600/800/animal,wildlife,hyena/all?lock=32862",
+        "https://loremflickr.com/800/600/animal,wildlife,hyena/all?lock=58468",
+        "https://loremflickr.com/600/800/animal,wildlife,hyena/all?lock=46124"
+      ]
+    },
+    {
+      "id": "land-kangaroo",
+      "name": "Kangaroo",
+      "scientificName": "Macropodidae",
+      "habitat": "Australian Outback",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "15-20 years",
+        "size": "1.5m",
+        "weight": "80kg",
+        "speed": "56 km/h"
+      },
+      "description": "A large hopping marsupial that raises its young in a front belly pouch.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,kangaroo/all?lock=41723",
+        "https://loremflickr.com/600/800/animal,wildlife,kangaroo/all?lock=41724",
+        "https://loremflickr.com/800/600/animal,wildlife,kangaroo/all?lock=43048",
+        "https://loremflickr.com/600/800/animal,wildlife,kangaroo/all?lock=32876",
+        "https://loremflickr.com/600/800/animal,wildlife,kangaroo/all?lock=20532",
+        "https://loremflickr.com/800/600/animal,wildlife,kangaroo/all?lock=20533",
+        "https://loremflickr.com/600/800/animal,wildlife,kangaroo/all?lock=20534",
+        "https://loremflickr.com/600/800/animal,wildlife,kangaroo/all?lock=48312"
+      ]
+    },
+    {
+      "id": "land-koala",
+      "name": "Koala",
+      "scientificName": "Phascolarctos cinereus",
+      "habitat": "Eucalyptus Forest",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "13-18 years",
+        "size": "0.8m",
+        "weight": "10kg",
+        "speed": "10 km/h"
+      },
+      "description": "An arboreal Australian marsupial that feeds almost exclusively on eucalyptus leaves.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,koala/all?lock=32890",
+        "https://loremflickr.com/600/800/animal,wildlife,koala/all?lock=32891",
+        "https://loremflickr.com/800/600/animal,wildlife,koala/all?lock=32892",
+        "https://loremflickr.com/600/800/animal,wildlife,koala/all?lock=53239",
+        "https://loremflickr.com/800/600/animal,wildlife,koala/all?lock=53240",
+        "https://loremflickr.com/800/600/animal,wildlife,koala/all?lock=20550",
+        "https://loremflickr.com/600/800/animal,wildlife,koala/all?lock=20551",
+        "https://loremflickr.com/600/800/animal,wildlife,koala/all?lock=32897"
+      ]
+    },
+    {
+      "id": "land-ladybugs",
+      "name": "Ladybug",
+      "scientificName": "Coccinellidae",
+      "habitat": "Gardens/Fields",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "1 year",
+        "size": "0.008m",
+        "weight": "0.0001kg",
+        "speed": "5 km/h"
+      },
+      "description": "A small dome-shaped beetle, red with black spots, prized by gardeners for eating pests.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,ladybug/all?lock=51650",
+        "https://loremflickr.com/600/800/animal,wildlife,ladybug/all?lock=61824",
+        "https://loremflickr.com/800/600/animal,wildlife,ladybug/all?lock=43082",
+        "https://loremflickr.com/800/600/animal,wildlife,ladybug/all?lock=20565",
+        "https://loremflickr.com/600/800/animal,wildlife,ladybug/all?lock=20566",
+        "https://loremflickr.com/800/600/animal,wildlife,ladybug/all?lock=20567",
+        "https://loremflickr.com/800/600/animal,wildlife,ladybug/all?lock=32913",
+        "https://loremflickr.com/800/600/animal,wildlife,ladybug/all?lock=20569"
+      ]
+    },
+    {
+      "id": "land-leopard",
+      "name": "Leopard",
+      "scientificName": "Panthera pardus",
+      "habitat": "Forests/Savannah",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "12-17 years",
+        "size": "0.7m",
+        "weight": "60kg",
+        "speed": "58 km/h"
+      },
+      "description": "A solitary, athletic wild cat that drags its heavy prey high up into tree branches.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,leopard/all?lock=82219",
+        "https://loremflickr.com/600/800/animal,wildlife,leopard/all?lock=32926",
+        "https://loremflickr.com/800/600/animal,wildlife,leopard/all?lock=56360",
+        "https://loremflickr.com/600/800/animal,wildlife,leopard/all?lock=68706",
+        "https://loremflickr.com/800/600/animal,wildlife,leopard/all?lock=32929",
+        "https://loremflickr.com/600/800/animal,wildlife,leopard/all?lock=32930",
+        "https://loremflickr.com/800/600/animal,wildlife,leopard/all?lock=20586",
+        "https://loremflickr.com/600/800/animal,wildlife,leopard/all?lock=53278"
+      ]
+    },
+    {
+      "id": "land-lion",
+      "name": "Lion",
+      "scientificName": "Panthera leo",
+      "habitat": "Savannah",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "10-14 years",
+        "size": "1.2m",
+        "weight": "190kg",
+        "speed": "80 km/h"
+      },
+      "description": "A majestic social cat known for the male's dark mane and coordinated pride hunting.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,lion/all?lock=20597",
+        "https://loremflickr.com/600/800/animal,wildlife,lion/all?lock=68721",
+        "https://loremflickr.com/800/600/animal,wildlife,lion/all?lock=32944",
+        "https://loremflickr.com/600/800/animal,wildlife,lion/all?lock=68723",
+        "https://loremflickr.com/800/600/animal,wildlife,lion/all?lock=32946",
+        "https://loremflickr.com/600/800/animal,wildlife,lion/all?lock=20602",
+        "https://loremflickr.com/800/600/animal,wildlife,lion/all?lock=20603",
+        "https://loremflickr.com/600/800/animal,wildlife,lion/all?lock=53295"
+      ]
+    },
+    {
+      "id": "land-lizard",
+      "name": "Lizard",
+      "scientificName": "Lacertilia",
+      "habitat": "Forests/Deserts",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "5-10 years",
+        "size": "0.25m",
+        "weight": "0.3kg",
+        "speed": "15 km/h"
+      },
+      "description": "A diverse reptile with a scaly skin, four legs, and the ability to shed its tail to escape predators.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,lizard/all?lock=51800",
+        "https://loremflickr.com/600/800/animal,wildlife,lizard/all?lock=51801",
+        "https://loremflickr.com/800/600/animal,wildlife,lizard/all?lock=61975",
+        "https://loremflickr.com/600/800/animal,wildlife,lizard/all?lock=20617",
+        "https://loremflickr.com/800/600/animal,wildlife,lizard/all?lock=20618",
+        "https://loremflickr.com/600/800/animal,wildlife,lizard/all?lock=20619",
+        "https://loremflickr.com/800/600/animal,wildlife,lizard/all?lock=48397",
+        "https://loremflickr.com/600/800/animal,wildlife,lizard/all?lock=32966"
+      ]
+    },
+    {
+      "id": "land-mosquito",
+      "name": "Mosquito",
+      "scientificName": "Culicidae",
+      "habitat": "Swamps/Global",
+      "conservationStatus": "Vulnerable",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "2-4 weeks",
+        "size": "0.006m",
+        "weight": "0.000002kg",
+        "speed": "2 km/h"
+      },
+      "description": "A small fly whose females pierce skin to feed on blood to develop their eggs.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,mosquito/all?lock=51850",
+        "https://loremflickr.com/600/800/animal,wildlife,mosquito/all?lock=82370",
+        "https://loremflickr.com/800/600/animal,wildlife,mosquito/all?lock=82371",
+        "https://loremflickr.com/600/800/animal,wildlife,mosquito/all?lock=68756",
+        "https://loremflickr.com/800/600/animal,wildlife,mosquito/all?lock=58584",
+        "https://loremflickr.com/600/800/animal,wildlife,mosquito/all?lock=89104",
+        "https://loremflickr.com/800/600/animal,wildlife,mosquito/all?lock=53327",
+        "https://loremflickr.com/800/600/animal,wildlife,mosquito/all?lock=20637"
+      ]
+    },
+    {
+      "id": "land-moth",
+      "name": "Moth",
+      "scientificName": "Lepidoptera",
+      "habitat": "Woodlands/Global",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "1-2 months",
+        "size": "0.03m",
+        "weight": "0.001kg",
+        "speed": "10 km/h"
+      },
+      "description": "A nocturnal cousin of the butterfly, featuring feathered antennae and muted wing camouflages.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,moth/all?lock=77851",
+        "https://loremflickr.com/600/800/animal,wildlife,moth/all?lock=32994",
+        "https://loremflickr.com/800/600/animal,wildlife,moth/all?lock=32995",
+        "https://loremflickr.com/600/800/animal,wildlife,moth/all?lock=20651",
+        "https://loremflickr.com/800/600/animal,wildlife,moth/all?lock=20652",
+        "https://loremflickr.com/600/800/animal,wildlife,moth/all?lock=53344",
+        "https://loremflickr.com/800/600/animal,wildlife,moth/all?lock=32999",
+        "https://loremflickr.com/600/800/animal,wildlife,moth/all?lock=33000"
+      ]
+    },
+    {
+      "id": "land-mouse",
+      "name": "Mouse",
+      "scientificName": "Mus musculus",
+      "habitat": "Fields/Urban",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "1-2 years",
+        "size": "0.08m",
+        "weight": "0.02kg",
+        "speed": "12 km/h"
+      },
+      "description": "A small, adaptable rodent with large rounded ears and a long hairless tail.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,mouse/all?lock=82469",
+        "https://loremflickr.com/600/800/animal,wildlife,mouse/all?lock=58616",
+        "https://loremflickr.com/800/600/animal,wildlife,mouse/all?lock=43185",
+        "https://loremflickr.com/600/800/animal,wildlife,mouse/all?lock=33013",
+        "https://loremflickr.com/800/600/animal,wildlife,mouse/all?lock=53360",
+        "https://loremflickr.com/600/800/animal,wildlife,mouse/all?lock=53361",
+        "https://loremflickr.com/800/600/animal,wildlife,mouse/all?lock=33016",
+        "https://loremflickr.com/600/800/animal,wildlife,mouse/all?lock=33017"
+      ]
+    },
+    {
+      "id": "land-okapi",
+      "name": "Okapi",
+      "scientificName": "Okapia johnstoni",
+      "habitat": "Rainforest",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "20-30 years",
+        "size": "1.5m",
+        "weight": "250kg",
+        "speed": "60 km/h"
+      },
+      "description": "A solitary forest animal related to giraffes, featuring zebra-like stripes on its legs.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,okapi/all?lock=82519",
+        "https://loremflickr.com/600/800/animal,wildlife,okapi/all?lock=52347",
+        "https://loremflickr.com/800/600/animal,wildlife,okapi/all?lock=43202",
+        "https://loremflickr.com/600/800/animal,wildlife,okapi/all?lock=78981",
+        "https://loremflickr.com/800/600/animal,wildlife,okapi/all?lock=43204",
+        "https://loremflickr.com/600/800/animal,wildlife,okapi/all?lock=68810",
+        "https://loremflickr.com/800/600/animal,wildlife,okapi/all?lock=20688",
+        "https://loremflickr.com/600/800/animal,wildlife,okapi/all?lock=20689"
+      ]
+    },
+    {
+      "id": "land-orangutan",
+      "name": "Orangutan",
+      "scientificName": "Pongo",
+      "habitat": "Rainforest Canopy",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "35-45 years",
+        "size": "1.3m",
+        "weight": "75kg",
+        "speed": "5 km/h"
+      },
+      "description": "A red-haired arboreal ape known for its long arms and intelligent nest-building habits.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,orangutan/all?lock=82569",
+        "https://loremflickr.com/600/800/animal,wildlife,orangutan/all?lock=53392",
+        "https://loremflickr.com/800/600/animal,wildlife,orangutan/all?lock=33047",
+        "https://loremflickr.com/600/800/animal,wildlife,orangutan/all?lock=33048",
+        "https://loremflickr.com/800/600/animal,wildlife,orangutan/all?lock=53395",
+        "https://loremflickr.com/600/800/animal,wildlife,orangutan/all?lock=66656",
+        "https://loremflickr.com/600/800/animal,wildlife,orangutan/all?lock=20706",
+        "https://loremflickr.com/800/600/animal,wildlife,orangutan/all?lock=20707"
+      ]
+    },
+    {
+      "id": "land-ox",
+      "name": "Ox",
+      "scientificName": "Bos taurus",
+      "habitat": "Farms/Fields",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "15-20 years",
+        "size": "1.6m",
+        "weight": "900kg",
+        "speed": "10 km/h"
+      },
+      "description": "A powerful, castrated domestic bull trained as a draft animal for pulling plows.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,ox/all?lock=43236",
+        "https://loremflickr.com/600/800/animal,wildlife,ox/all?lock=53410",
+        "https://loremflickr.com/800/600/animal,wildlife,ox/all?lock=53411",
+        "https://loremflickr.com/600/800/animal,wildlife,ox/all?lock=53412",
+        "https://loremflickr.com/800/600/animal,wildlife,ox/all?lock=20722",
+        "https://loremflickr.com/600/800/animal,wildlife,ox/all?lock=20723",
+        "https://loremflickr.com/800/600/animal,wildlife,ox/all?lock=53415",
+        "https://loremflickr.com/600/800/animal,wildlife,ox/all?lock=33070"
+      ]
+    },
+    {
+      "id": "land-panda",
+      "name": "Panda",
+      "scientificName": "Ailuropoda melanoleuca",
+      "habitat": "Bamboo Forest",
+      "conservationStatus": "Endangered",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "15-20 years",
+        "size": "0.9m",
+        "weight": "110kg",
+        "speed": "32 km/h"
+      },
+      "description": "A beloved black-and-white bear that feeds almost exclusively on bamboo stalks.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,panda/all?lock=32150",
+        "https://loremflickr.com/600/800/animal,wildlife,panda/all?lock=53424",
+        "https://loremflickr.com/800/600/animal,wildlife,panda/all?lock=53425",
+        "https://loremflickr.com/800/600/animal,wildlife,panda/all?lock=20735",
+        "https://loremflickr.com/800/600/animal,wildlife,panda/all?lock=53427",
+        "https://loremflickr.com/800/600/animal,wildlife,panda/all?lock=20737",
+        "https://loremflickr.com/600/800/animal,wildlife,panda/all?lock=20738",
+        "https://loremflickr.com/600/800/animal,wildlife,panda/all?lock=33084"
+      ]
+    },
+    {
+      "id": "land-pig",
+      "name": "Pig",
+      "scientificName": "Sus domesticus",
+      "habitat": "Farms/Fields",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "15-20 years",
+        "size": "0.9m",
+        "weight": "150kg",
+        "speed": "18 km/h"
+      },
+      "description": "An extremely intelligent domesticated mammal with an excellent sense of smell.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,pig/all?lock=82719",
+        "https://loremflickr.com/600/800/animal,wildlife,pig/all?lock=62374",
+        "https://loremflickr.com/800/600/animal,wildlife,pig/all?lock=52202",
+        "https://loremflickr.com/600/800/animal,wildlife,pig/all?lock=43270",
+        "https://loremflickr.com/800/600/animal,wildlife,pig/all?lock=43271",
+        "https://loremflickr.com/600/800/animal,wildlife,pig/all?lock=33099",
+        "https://loremflickr.com/800/600/animal,wildlife,pig/all?lock=43273",
+        "https://loremflickr.com/800/600/animal,wildlife,pig/all?lock=20756"
+      ]
+    },
+    {
+      "id": "land-porcupine",
+      "name": "Porcupine",
+      "scientificName": "Erethizontidae",
+      "habitat": "Forests/Deserts",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "15-18 years",
+        "size": "0.75m",
+        "weight": "12kg",
+        "speed": "6 km/h"
+      },
+      "description": "A slow-moving rodent covered in thousands of sharp, defensive barbed quills.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,porcupine/all?lock=33113",
+        "https://loremflickr.com/800/600/animal,wildlife,porcupine/all?lock=20769",
+        "https://loremflickr.com/600/800/animal,wildlife,porcupine/all?lock=20770",
+        "https://loremflickr.com/800/600/animal,wildlife,porcupine/all?lock=20771",
+        "https://loremflickr.com/800/600/animal,wildlife,porcupine/all?lock=53463",
+        "https://loremflickr.com/600/800/animal,wildlife,porcupine/all?lock=53464",
+        "https://loremflickr.com/800/600/animal,wildlife,porcupine/all?lock=33119",
+        "https://loremflickr.com/800/600/animal,wildlife,porcupine/all?lock=20775"
+      ]
+    },
+    {
+      "id": "land-possum",
+      "name": "Possum",
+      "scientificName": "Phalangeriformes",
+      "habitat": "Woodlands",
+      "conservationStatus": "Endangered",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "4-8 years",
+        "size": "0.45m",
+        "weight": "4kg",
+        "speed": "15 km/h"
+      },
+      "description": "A nocturnal marsupial native to Australia, featuring a long prehensile tail.",
+      "images": [
+        "https://loremflickr.com/600/800/animal,wildlife,possum/all?lock=20783",
+        "https://loremflickr.com/600/800/animal,wildlife,possum/all?lock=33129",
+        "https://loremflickr.com/800/600/animal,wildlife,possum/all?lock=53476",
+        "https://loremflickr.com/600/800/animal,wildlife,possum/all?lock=53477",
+        "https://loremflickr.com/800/600/animal,wildlife,possum/all?lock=33132",
+        "https://loremflickr.com/600/800/animal,wildlife,possum/all?lock=53479",
+        "https://loremflickr.com/800/600/animal,wildlife,possum/all?lock=33134",
+        "https://loremflickr.com/800/600/animal,wildlife,possum/all?lock=20790"
+      ]
+    },
+    {
+      "id": "land-raccoon",
+      "name": "Raccoon",
+      "scientificName": "Procyon lotor",
+      "habitat": "Forests/Suburbs",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "3-5 years",
+        "size": "0.5m",
+        "weight": "8kg",
+        "speed": "24 km/h"
+      },
+      "description": "A clever mammal with a black mask around its eyes and a ringed tail, famous for washing food.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,raccoon/all?lock=52696",
+        "https://loremflickr.com/800/600/animal,wildlife,raccoon/all?lock=20801",
+        "https://loremflickr.com/800/600/animal,wildlife,raccoon/all?lock=33147",
+        "https://loremflickr.com/800/600/animal,wildlife,raccoon/all?lock=20803",
+        "https://loremflickr.com/800/600/animal,wildlife,raccoon/all?lock=53495",
+        "https://loremflickr.com/600/800/animal,wildlife,raccoon/all?lock=53496",
+        "https://loremflickr.com/600/800/animal,wildlife,raccoon/all?lock=20806",
+        "https://loremflickr.com/800/600/animal,wildlife,raccoon/all?lock=20807"
+      ]
+    },
+    {
+      "id": "land-rat",
+      "name": "Rat",
+      "scientificName": "Rattus",
+      "habitat": "Fields/Cities",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "2-3 years",
+        "size": "0.2m",
+        "weight": "0.3kg",
+        "speed": "12 km/h"
+      },
+      "description": "An extremely adaptable, successful rodent with a long hairless tail and high intelligence.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,rat/all?lock=52400",
+        "https://loremflickr.com/600/800/animal,wildlife,rat/all?lock=52401",
+        "https://loremflickr.com/600/800/animal,wildlife,rat/all?lock=20821",
+        "https://loremflickr.com/800/600/animal,wildlife,rat/all?lock=20822",
+        "https://loremflickr.com/600/800/animal,wildlife,rat/all?lock=20823",
+        "https://loremflickr.com/800/600/animal,wildlife,rat/all?lock=20824",
+        "https://loremflickr.com/800/600/animal,wildlife,rat/all?lock=53516",
+        "https://loremflickr.com/600/800/animal,wildlife,rat/all?lock=68949"
+      ]
+    },
+    {
+      "id": "land-reindeer",
+      "name": "Reindeer",
+      "scientificName": "Rangifer tarandus",
+      "habitat": "Tundra/Taiga",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "15-18 years",
+        "size": "1.1m",
+        "weight": "150kg",
+        "speed": "60 km/h"
+      },
+      "description": "An arctic deer species, where both males and females grow antlers, adapted to freezing cold.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,reindeer/all?lock=82969",
+        "https://loremflickr.com/600/800/animal,wildlife,reindeer/all?lock=52797",
+        "https://loremflickr.com/800/600/animal,wildlife,reindeer/all?lock=20837",
+        "https://loremflickr.com/600/800/animal,wildlife,reindeer/all?lock=20838",
+        "https://loremflickr.com/800/600/animal,wildlife,reindeer/all?lock=20839",
+        "https://loremflickr.com/600/800/animal,wildlife,reindeer/all?lock=53531",
+        "https://loremflickr.com/800/600/animal,wildlife,reindeer/all?lock=33186",
+        "https://loremflickr.com/600/800/animal,wildlife,reindeer/all?lock=53533"
+      ]
+    },
+    {
+      "id": "land-rhinoceros",
+      "name": "Rhinoceros",
+      "scientificName": "Rhinocerotidae",
+      "habitat": "Savannah/Forest",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "35-45 years",
+        "size": "1.6m",
+        "weight": "1800kg",
+        "speed": "50 km/h"
+      },
+      "description": "A thick-skinned giant herbivore with one or two horns composed of compacted keratin.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,rhinoceros/all?lock=42673",
+        "https://loremflickr.com/600/800/animal,wildlife,rhinoceros/all?lock=20857",
+        "https://loremflickr.com/800/600/animal,wildlife,rhinoceros/all?lock=20858",
+        "https://loremflickr.com/600/800/animal,wildlife,rhinoceros/all?lock=20859",
+        "https://loremflickr.com/800/600/animal,wildlife,rhinoceros/all?lock=43378",
+        "https://loremflickr.com/600/800/animal,wildlife,rhinoceros/all?lock=20861",
+        "https://loremflickr.com/800/600/animal,wildlife,rhinoceros/all?lock=20862",
+        "https://loremflickr.com/600/800/animal,wildlife,rhinoceros/all?lock=43381"
+      ]
+    },
+    {
+      "id": "land-sheep",
+      "name": "Sheep",
+      "scientificName": "Ovis aries",
+      "habitat": "Pastures/Farms",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "10-12 years",
+        "size": "0.9m",
+        "weight": "70kg",
+        "speed": "30 km/h"
+      },
+      "description": "A domesticated woolly ruminant raised globally for meat, milk, and soft textile fibers.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,sheep/all?lock=42723",
+        "https://loremflickr.com/600/800/animal,wildlife,sheep/all?lock=33217",
+        "https://loremflickr.com/800/600/animal,wildlife,sheep/all?lock=20873",
+        "https://loremflickr.com/600/800/animal,wildlife,sheep/all?lock=20874",
+        "https://loremflickr.com/800/600/animal,wildlife,sheep/all?lock=20875",
+        "https://loremflickr.com/600/800/animal,wildlife,sheep/all?lock=43394",
+        "https://loremflickr.com/800/600/animal,wildlife,sheep/all?lock=53568",
+        "https://loremflickr.com/600/800/animal,wildlife,sheep/all?lock=43396"
+      ]
+    },
+    {
+      "id": "land-snake",
+      "name": "Snake",
+      "scientificName": "Serpentes",
+      "habitat": "Forests/Deserts",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "10-15 years",
+        "size": "1.5m",
+        "weight": "3kg",
+        "speed": "10 km/h"
+      },
+      "description": "A legless, scaly reptile that swallows prey whole and senses surroundings using a forked tongue.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,snake/all?lock=83119",
+        "https://loremflickr.com/800/600/animal,wildlife,snake/all?lock=20886",
+        "https://loremflickr.com/600/800/animal,wildlife,snake/all?lock=20887",
+        "https://loremflickr.com/600/800/animal,wildlife,snake/all?lock=53579",
+        "https://loremflickr.com/800/600/animal,wildlife,snake/all?lock=43407",
+        "https://loremflickr.com/600/800/animal,wildlife,snake/all?lock=53581",
+        "https://loremflickr.com/800/600/animal,wildlife,snake/all?lock=53582",
+        "https://loremflickr.com/600/800/animal,wildlife,snake/all?lock=53583"
+      ]
+    },
+    {
+      "id": "land-squirrel",
+      "name": "Squirrel",
+      "scientificName": "Sciuridae",
+      "habitat": "Woodlands/Parks",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "5-8 years",
+        "size": "0.25m",
+        "weight": "0.5kg",
+        "speed": "30 km/h"
+      },
+      "description": "A lively tree-dwelling rodent with a bushy tail, known for caching nuts for winter.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,squirrel/all?lock=53596",
+        "https://loremflickr.com/600/800/animal,wildlife,squirrel/all?lock=33251",
+        "https://loremflickr.com/800/600/animal,wildlife,squirrel/all?lock=53598",
+        "https://loremflickr.com/600/800/animal,wildlife,squirrel/all?lock=20908",
+        "https://loremflickr.com/800/600/animal,wildlife,squirrel/all?lock=20909",
+        "https://loremflickr.com/600/800/animal,wildlife,squirrel/all?lock=33255",
+        "https://loremflickr.com/800/600/animal,wildlife,squirrel/all?lock=20911",
+        "https://loremflickr.com/600/800/animal,wildlife,squirrel/all?lock=53603"
+      ]
+    },
+    {
+      "id": "land-tiger",
+      "name": "Tiger",
+      "scientificName": "Panthera tigris",
+      "habitat": "Rainforest",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "10-15 years",
+        "size": "1.1m",
+        "weight": "220kg",
+        "speed": "65 km/h"
+      },
+      "description": "The largest of all wild cats, recognized by its bold vertical dark stripes on orange fur.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,tiger/all?lock=32700",
+        "https://loremflickr.com/600/800/animal,wildlife,tiger/all?lock=53613",
+        "https://loremflickr.com/800/600/animal,wildlife,tiger/all?lock=53614",
+        "https://loremflickr.com/800/600/animal,wildlife,tiger/all?lock=20924",
+        "https://loremflickr.com/800/600/animal,wildlife,tiger/all?lock=33270",
+        "https://loremflickr.com/600/800/animal,wildlife,tiger/all?lock=33271",
+        "https://loremflickr.com/800/600/animal,wildlife,tiger/all?lock=53618",
+        "https://loremflickr.com/600/800/animal,wildlife,tiger/all?lock=66879"
+      ]
+    },
+    {
+      "id": "land-wolf",
+      "name": "Wolf",
+      "scientificName": "Canis lupus",
+      "habitat": "Forests/Tundra",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "6-8 years",
+        "size": "0.8m",
+        "weight": "40kg",
+        "speed": "60 km/h"
+      },
+      "description": "A pack-hunting wild canine with complex social hierarchies and critical ecosystem roles.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,wolf/all?lock=52750",
+        "https://loremflickr.com/600/800/animal,wildlife,wolf/all?lock=43458",
+        "https://loremflickr.com/800/600/animal,wildlife,wolf/all?lock=20941",
+        "https://loremflickr.com/600/800/animal,wildlife,wolf/all?lock=20942",
+        "https://loremflickr.com/800/600/animal,wildlife,wolf/all?lock=20943",
+        "https://loremflickr.com/600/800/animal,wildlife,wolf/all?lock=20944",
+        "https://loremflickr.com/800/600/animal,wildlife,wolf/all?lock=53636",
+        "https://loremflickr.com/600/800/animal,wildlife,wolf/all?lock=33291"
+      ]
+    },
+    {
+      "id": "land-wombat",
+      "name": "Wombat",
+      "scientificName": "Vombatidae",
+      "habitat": "Australian Forests",
+      "conservationStatus": "Vulnerable",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "10-15 years",
+        "size": "0.9m",
+        "weight": "25kg",
+        "speed": "40 km/h"
+      },
+      "description": "A burrowing Australian marsupial known for its cube-shaped droppings and tough rear shield.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,wombat/all?lock=53146",
+        "https://loremflickr.com/600/800/animal,wildlife,wombat/all?lock=83320",
+        "https://loremflickr.com/800/600/animal,wildlife,wombat/all?lock=33301",
+        "https://loremflickr.com/600/800/animal,wildlife,wombat/all?lock=53648",
+        "https://loremflickr.com/800/600/animal,wildlife,wombat/all?lock=89427",
+        "https://loremflickr.com/600/800/animal,wildlife,wombat/all?lock=20959",
+        "https://loremflickr.com/800/600/animal,wildlife,wombat/all?lock=20960",
+        "https://loremflickr.com/600/800/animal,wildlife,wombat/all?lock=20961"
+      ]
+    },
+    {
+      "id": "land-zebra",
+      "name": "Zebra",
+      "scientificName": "Equus quagga",
+      "habitat": "Savannah",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "20-25 years",
+        "size": "1.3m",
+        "weight": "300kg",
+        "speed": "65 km/h"
+      },
+      "description": "A wild horse relative from Africa, famous for its unique vertical black-and-white stripes.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,zebra/all?lock=73196",
+        "https://loremflickr.com/600/800/animal,wildlife,zebra/all?lock=53197",
+        "https://loremflickr.com/600/800/animal,wildlife,zebra/all?lock=20972",
+        "https://loremflickr.com/600/800/animal,wildlife,zebra/all?lock=33318",
+        "https://loremflickr.com/600/800/animal,wildlife,zebra/all?lock=20974",
+        "https://loremflickr.com/600/800/animal,wildlife,zebra/all?lock=53666",
+        "https://loremflickr.com/600/800/animal,wildlife,zebra/all?lock=20976",
+        "https://loremflickr.com/600/800/animal,wildlife,zebra/all?lock=33322"
+      ]
+    },
+    {
+      "id": "land-extra-1",
+      "name": "African Lion",
+      "scientificName": "Panthera leo",
+      "habitat": "Savannah",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "10-14 years",
+        "size": "1.2m",
+        "weight": "190kg",
+        "speed": "80 km/h"
+      },
+      "description": "A majestic social predator known for its impressive mane and powerful pride structure.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,african,lion/all?lock=23185",
+        "https://loremflickr.com/600/800/animal,wildlife,african,lion/all?lock=43532",
+        "https://loremflickr.com/800/600/animal,wildlife,african,lion/all?lock=43533",
+        "https://loremflickr.com/600/800/animal,wildlife,african,lion/all?lock=33361",
+        "https://loremflickr.com/800/600/animal,wildlife,african,lion/all?lock=43535",
+        "https://loremflickr.com/600/800/animal,wildlife,african,lion/all?lock=43536",
+        "https://loremflickr.com/800/600/animal,wildlife,african,lion/all?lock=10846",
+        "https://loremflickr.com/600/800/animal,wildlife,african,lion/all?lock=23192"
+      ]
+    },
+    {
+      "id": "land-extra-2",
+      "name": "Bengal Tiger",
+      "scientificName": "Panthera tigris",
+      "habitat": "Rainforest",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "10-15 years",
+        "size": "1.1m",
+        "weight": "220kg",
+        "speed": "65 km/h"
+      },
+      "description": "The largest of all wild cats, recognized by its dark vertical stripes on reddish-orange fur.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,bengal,tiger/all?lock=10848",
+        "https://loremflickr.com/600/800/animal,wildlife,bengal,tiger/all?lock=33367",
+        "https://loremflickr.com/800/600/animal,wildlife,bengal,tiger/all?lock=33368",
+        "https://loremflickr.com/600/800/animal,wildlife,bengal,tiger/all?lock=43542",
+        "https://loremflickr.com/800/600/animal,wildlife,bengal,tiger/all?lock=23197",
+        "https://loremflickr.com/600/800/animal,wildlife,bengal,tiger/all?lock=43544",
+        "https://loremflickr.com/800/600/animal,wildlife,bengal,tiger/all?lock=33372",
+        "https://loremflickr.com/600/800/animal,wildlife,bengal,tiger/all?lock=33373"
+      ]
+    },
+    {
+      "id": "land-extra-3",
+      "name": "African Elephant",
+      "scientificName": "Loxodonta africana",
+      "habitat": "Savannah/Forest",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "60-70 years",
+        "size": "3.3m",
+        "weight": "6000kg",
+        "speed": "40 km/h"
+      },
+      "description": "The largest terrestrial mammal, boasting large ears, a long trunk, and prominent tusks.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,african,elephant/all?lock=10856",
+        "https://loremflickr.com/600/800/animal,wildlife,african,elephant/all?lock=33375",
+        "https://loremflickr.com/800/600/animal,wildlife,african,elephant/all?lock=10858",
+        "https://loremflickr.com/600/800/animal,wildlife,african,elephant/all?lock=89501",
+        "https://loremflickr.com/800/600/animal,wildlife,african,elephant/all?lock=33378",
+        "https://loremflickr.com/600/800/animal,wildlife,african,elephant/all?lock=89503",
+        "https://loremflickr.com/800/600/animal,wildlife,african,elephant/all?lock=10862",
+        "https://loremflickr.com/600/800/animal,wildlife,african,elephant/all?lock=58986"
+      ]
+    },
+    {
+      "id": "land-extra-4",
+      "name": "Grizzly Bear",
+      "scientificName": "Ursus arctos horribilis",
+      "habitat": "Temperate Forest",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "20-25 years",
+        "size": "1.5m (shoulder)",
+        "weight": "360kg",
+        "speed": "56 km/h"
+      },
+      "description": "A powerful subspecies of brown bear with a distinctive shoulder hump and long claws.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,grizzly,bear/all?lock=33382",
+        "https://loremflickr.com/600/800/animal,wildlife,grizzly,bear/all?lock=46643",
+        "https://loremflickr.com/800/600/animal,wildlife,grizzly,bear/all?lock=58989",
+        "https://loremflickr.com/600/800/animal,wildlife,grizzly,bear/all?lock=48817",
+        "https://loremflickr.com/800/600/animal,wildlife,grizzly,bear/all?lock=10868",
+        "https://loremflickr.com/600/800/animal,wildlife,grizzly,bear/all?lock=10869",
+        "https://loremflickr.com/800/600/animal,wildlife,grizzly,bear/all?lock=10870",
+        "https://loremflickr.com/600/800/animal,wildlife,grizzly,bear/all?lock=43562"
+      ]
+    },
+    {
+      "id": "land-extra-5",
+      "name": "Red Kangaroo",
+      "scientificName": "Osphranter rufus",
+      "habitat": "Arid Grassland",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "15-20 years",
+        "size": "1.6m",
+        "weight": "90kg",
+        "speed": "56 km/h"
+      },
+      "description": "The largest marsupial, native to Australia, famous for its powerful hind legs and hopping locomotion.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,red,kangaroo/all?lock=43563",
+        "https://loremflickr.com/600/800/animal,wildlife,red,kangaroo/all?lock=10873",
+        "https://loremflickr.com/800/600/animal,wildlife,red,kangaroo/all?lock=33392",
+        "https://loremflickr.com/600/800/animal,wildlife,red,kangaroo/all?lock=43566",
+        "https://loremflickr.com/800/600/animal,wildlife,red,kangaroo/all?lock=43567",
+        "https://loremflickr.com/600/800/animal,wildlife,red,kangaroo/all?lock=43568",
+        "https://loremflickr.com/800/600/animal,wildlife,red,kangaroo/all?lock=43569",
+        "https://loremflickr.com/600/800/animal,wildlife,red,kangaroo/all?lock=43570"
+      ]
+    },
+    {
+      "id": "land-extra-6",
+      "name": "Gray Wolf",
+      "scientificName": "Canis lupus",
+      "habitat": "Tundra/Forest",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "6-8 years",
+        "size": "0.8m",
+        "weight": "40kg",
+        "speed": "60 km/h"
+      },
+      "description": "A highly social pack predator with an essential role in maintaining ecological balance.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,gray,wolf/all?lock=10880",
+        "https://loremflickr.com/600/800/animal,wildlife,gray,wolf/all?lock=10881",
+        "https://loremflickr.com/800/600/animal,wildlife,gray,wolf/all?lock=33400",
+        "https://loremflickr.com/600/800/animal,wildlife,gray,wolf/all?lock=23228",
+        "https://loremflickr.com/800/600/animal,wildlife,gray,wolf/all?lock=10884",
+        "https://loremflickr.com/600/800/animal,wildlife,gray,wolf/all?lock=23230",
+        "https://loremflickr.com/800/600/animal,wildlife,gray,wolf/all?lock=10886",
+        "https://loremflickr.com/600/800/animal,wildlife,gray,wolf/all?lock=43578"
+      ]
+    },
+    {
+      "id": "land-extra-7",
+      "name": "Giant Panda",
+      "scientificName": "Ailuropoda melanoleuca",
+      "habitat": "Bamboo Forest",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "15-20 years",
+        "size": "0.9m",
+        "weight": "110kg",
+        "speed": "32 km/h"
+      },
+      "description": "A beloved black-and-white bear that feeds almost exclusively on bamboo shoots and leaves.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,giant,panda/all?lock=10888",
+        "https://loremflickr.com/600/800/animal,wildlife,giant,panda/all?lock=10889",
+        "https://loremflickr.com/800/600/animal,wildlife,giant,panda/all?lock=10890",
+        "https://loremflickr.com/600/800/animal,wildlife,giant,panda/all?lock=33409",
+        "https://loremflickr.com/800/600/animal,wildlife,giant,panda/all?lock=10892",
+        "https://loremflickr.com/600/800/animal,wildlife,giant,panda/all?lock=10893",
+        "https://loremflickr.com/800/600/animal,wildlife,giant,panda/all?lock=33412",
+        "https://loremflickr.com/600/800/animal,wildlife,giant,panda/all?lock=43586"
+      ]
+    },
+    {
+      "id": "land-extra-9",
+      "name": "Reticulated Giraffe",
+      "scientificName": "Giraffa camelopardalis reticulata",
+      "habitat": "Savannah",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "20-25 years",
+        "size": "5.5m",
+        "weight": "1200kg",
+        "speed": "60 km/h"
+      },
+      "description": "The tallest living land animal, instantly recognizable by its long neck and patched coat.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,reticulated,giraffe/all?lock=10896",
+        "https://loremflickr.com/600/800/animal,wildlife,reticulated,giraffe/all?lock=43588",
+        "https://loremflickr.com/800/600/animal,wildlife,reticulated,giraffe/all?lock=33416",
+        "https://loremflickr.com/600/800/animal,wildlife,reticulated,giraffe/all?lock=43590",
+        "https://loremflickr.com/800/600/animal,wildlife,reticulated,giraffe/all?lock=10900",
+        "https://loremflickr.com/600/800/animal,wildlife,reticulated,giraffe/all?lock=10901",
+        "https://loremflickr.com/800/600/animal,wildlife,reticulated,giraffe/all?lock=43593",
+        "https://loremflickr.com/600/800/animal,wildlife,reticulated,giraffe/all?lock=10903"
+      ]
+    },
+    {
+      "id": "land-extra-10",
+      "name": "Cheetah",
+      "scientificName": "Acinonyx jubatus",
+      "habitat": "Grassland",
+      "conservationStatus": "Endangered",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "10-12 years",
+        "size": "0.9m",
+        "weight": "50kg",
+        "speed": "120 km/h"
+      },
+      "description": "The fastest land animal on Earth, built for short, high-speed sprints with a slender body.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,cheetah/all?lock=33422",
+        "https://loremflickr.com/600/800/animal,wildlife,cheetah/all?lock=10905",
+        "https://loremflickr.com/800/600/animal,wildlife,cheetah/all?lock=10906",
+        "https://loremflickr.com/600/800/animal,wildlife,cheetah/all?lock=10907",
+        "https://loremflickr.com/800/600/animal,wildlife,cheetah/all?lock=10908",
+        "https://loremflickr.com/600/800/animal,wildlife,cheetah/all?lock=43600",
+        "https://loremflickr.com/800/600/animal,wildlife,cheetah/all?lock=10910",
+        "https://loremflickr.com/600/800/animal,wildlife,cheetah/all?lock=23256"
+      ]
+    },
+    {
+      "id": "land-extra-12",
+      "name": "White Rhinoceros",
+      "scientificName": "Ceratotherium simum",
+      "habitat": "Grassland",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "40-50 years",
+        "size": "1.8m",
+        "weight": "2300kg",
+        "speed": "50 km/h"
+      },
+      "description": "A giant herbivore with a wide mouth and two prominent horns made of keratin.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,white,rhinoceros/all?lock=10912",
+        "https://loremflickr.com/600/800/animal,wildlife,white,rhinoceros/all?lock=23258",
+        "https://loremflickr.com/800/600/animal,wildlife,white,rhinoceros/all?lock=10914",
+        "https://loremflickr.com/600/800/animal,wildlife,white,rhinoceros/all?lock=69211",
+        "https://loremflickr.com/800/600/animal,wildlife,white,rhinoceros/all?lock=23261",
+        "https://loremflickr.com/600/800/animal,wildlife,white,rhinoceros/all?lock=10917",
+        "https://loremflickr.com/800/600/animal,wildlife,white,rhinoceros/all?lock=59041",
+        "https://loremflickr.com/600/800/animal,wildlife,white,rhinoceros/all?lock=10919"
+      ]
+    },
+    {
+      "id": "land-extra-13",
+      "name": "Mountain Gorilla",
+      "scientificName": "Gorilla beringei beringei",
+      "habitat": "Cloud Forest",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "35-40 years",
+        "size": "1.7m",
+        "weight": "160kg",
+        "speed": "40 km/h"
+      },
+      "description": "A critically endangered ape that lives in close-knit family groups led by a silverback.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,mountain,gorilla/all?lock=43611",
+        "https://loremflickr.com/600/800/animal,wildlife,mountain,gorilla/all?lock=43612",
+        "https://loremflickr.com/800/600/animal,wildlife,mountain,gorilla/all?lock=10922",
+        "https://loremflickr.com/600/800/animal,wildlife,mountain,gorilla/all?lock=33441",
+        "https://loremflickr.com/800/600/animal,wildlife,mountain,gorilla/all?lock=23269",
+        "https://loremflickr.com/600/800/animal,wildlife,mountain,gorilla/all?lock=10925",
+        "https://loremflickr.com/800/600/animal,wildlife,mountain,gorilla/all?lock=10926",
+        "https://loremflickr.com/600/800/animal,wildlife,mountain,gorilla/all?lock=23272"
+      ]
+    },
+    {
+      "id": "land-extra-15",
+      "name": "Red Fox",
+      "scientificName": "Vulpes vulpes",
+      "habitat": "Forest/Urban",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "3-5 years",
+        "size": "0.4m",
+        "weight": "7kg",
+        "speed": "50 km/h"
+      },
+      "description": "An adaptable, clever predator found globally, featuring a bushy white-tipped tail.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,red,fox/all?lock=10928",
+        "https://loremflickr.com/600/800/animal,wildlife,red,fox/all?lock=10929",
+        "https://loremflickr.com/800/600/animal,wildlife,red,fox/all?lock=33448",
+        "https://loremflickr.com/600/800/animal,wildlife,red,fox/all?lock=33449",
+        "https://loremflickr.com/800/600/animal,wildlife,red,fox/all?lock=10932",
+        "https://loremflickr.com/600/800/animal,wildlife,red,fox/all?lock=43624",
+        "https://loremflickr.com/800/600/animal,wildlife,red,fox/all?lock=23279",
+        "https://loremflickr.com/600/800/animal,wildlife,red,fox/all?lock=23280"
+      ]
+    },
+    {
+      "id": "land-extra-16",
+      "name": "Platypus",
+      "scientificName": "Ornithorhynchus anatinus",
+      "habitat": "Freshwater Rivers",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "10-15 years",
+        "size": "0.5m",
+        "weight": "1.5kg",
+        "speed": "8 km/h"
+      },
+      "description": "A unique egg-laying mammal with a duck-like bill, beaver-like tail, and otter-like webbed feet.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,platypus/all?lock=43627",
+        "https://loremflickr.com/600/800/animal,wildlife,platypus/all?lock=33455",
+        "https://loremflickr.com/800/600/animal,wildlife,platypus/all?lock=23283",
+        "https://loremflickr.com/600/800/animal,wildlife,platypus/all?lock=23284",
+        "https://loremflickr.com/800/600/animal,wildlife,platypus/all?lock=33458",
+        "https://loremflickr.com/600/800/animal,wildlife,platypus/all?lock=59064",
+        "https://loremflickr.com/800/600/animal,wildlife,platypus/all?lock=10942",
+        "https://loremflickr.com/600/800/animal,wildlife,platypus/all?lock=48893"
+      ]
+    },
+    {
+      "id": "land-extra-17",
+      "name": "Fennec Fox",
+      "scientificName": "Vulpes zerda",
+      "habitat": "Desert",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "10-14 years",
+        "size": "0.2m",
+        "weight": "1.5kg",
+        "speed": "32 km/h"
+      },
+      "description": "A small desert fox with oversized ears that help dissipate heat and locate prey underground.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,fennec,fox/all?lock=43635",
+        "https://loremflickr.com/600/800/animal,wildlife,fennec,fox/all?lock=23290",
+        "https://loremflickr.com/800/600/animal,wildlife,fennec,fox/all?lock=23291",
+        "https://loremflickr.com/600/800/animal,wildlife,fennec,fox/all?lock=10947",
+        "https://loremflickr.com/800/600/animal,wildlife,fennec,fox/all?lock=23293",
+        "https://loremflickr.com/600/800/animal,wildlife,fennec,fox/all?lock=10949",
+        "https://loremflickr.com/800/600/animal,wildlife,fennec,fox/all?lock=10950",
+        "https://loremflickr.com/600/800/animal,wildlife,fennec,fox/all?lock=10951"
+      ]
+    },
+    {
+      "id": "land-extra-18",
+      "name": "Sloth",
+      "scientificName": "Bradypus tridactylus",
+      "habitat": "Rainforest Canopy",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "20-30 years",
+        "size": "0.6m",
+        "weight": "4.5kg",
+        "speed": "0.25 km/h"
+      },
+      "description": "A famously slow-moving mammal that hosts green algae in its fur for camouflage.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,sloth/all?lock=43643",
+        "https://loremflickr.com/600/800/animal,wildlife,sloth/all?lock=23298",
+        "https://loremflickr.com/800/600/animal,wildlife,sloth/all?lock=10954",
+        "https://loremflickr.com/600/800/animal,wildlife,sloth/all?lock=33473",
+        "https://loremflickr.com/800/600/animal,wildlife,sloth/all?lock=33474",
+        "https://loremflickr.com/600/800/animal,wildlife,sloth/all?lock=10957",
+        "https://loremflickr.com/800/600/animal,wildlife,sloth/all?lock=23303",
+        "https://loremflickr.com/600/800/animal,wildlife,sloth/all?lock=10959"
+      ]
+    },
+    {
+      "id": "land-extra-19",
+      "name": "Honey Badger",
+      "scientificName": "Mellivora capensis",
+      "habitat": "Dry Savannah",
+      "conservationStatus": "Endangered",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "7-8 years",
+        "size": "0.3m",
+        "weight": "12kg",
+        "speed": "30 km/h"
+      },
+      "description": "A fearless, thick-skinned creature known to fend off leopards, lions, and venomous snakes.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,honey,badger/all?lock=43651",
+        "https://loremflickr.com/600/800/animal,wildlife,honey,badger/all?lock=43652",
+        "https://loremflickr.com/800/600/animal,wildlife,honey,badger/all?lock=43653",
+        "https://loremflickr.com/600/800/animal,wildlife,honey,badger/all?lock=43654",
+        "https://loremflickr.com/800/600/animal,wildlife,honey,badger/all?lock=43655",
+        "https://loremflickr.com/600/800/animal,wildlife,honey,badger/all?lock=43656",
+        "https://loremflickr.com/800/600/animal,wildlife,honey,badger/all?lock=43657",
+        "https://loremflickr.com/600/800/animal,wildlife,honey,badger/all?lock=43658"
+      ]
+    },
+    {
+      "id": "land-extra-20",
+      "name": "Capybara",
+      "scientificName": "Hydrochoerus hydrochaeris",
+      "habitat": "Wetlands",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "8-10 years",
+        "size": "0.6m",
+        "weight": "50kg",
+        "speed": "35 km/h"
+      },
+      "description": "The world's largest rodent, exceptionally social and excellent at swimming in rivers.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,capybara/all?lock=10968",
+        "https://loremflickr.com/600/800/animal,wildlife,capybara/all?lock=33487",
+        "https://loremflickr.com/800/600/animal,wildlife,capybara/all?lock=10970",
+        "https://loremflickr.com/600/800/animal,wildlife,capybara/all?lock=10971",
+        "https://loremflickr.com/800/600/animal,wildlife,capybara/all?lock=10972",
+        "https://loremflickr.com/600/800/animal,wildlife,capybara/all?lock=10973",
+        "https://loremflickr.com/800/600/animal,wildlife,capybara/all?lock=10974",
+        "https://loremflickr.com/600/800/animal,wildlife,capybara/all?lock=10975"
+      ]
+    }
+  ],
+  "marine": [
+    {
+      "id": "marine-crab",
+      "name": "Crab",
+      "scientificName": "Brachyura",
+      "habitat": "Coastal Shallows",
+      "conservationStatus": "Vulnerable",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "3-5 years",
+        "size": "0.3m",
+        "weight": "1.2kg",
+        "speed": "6 km/h"
+      },
+      "description": "A decapod crustacean equipped with a thick exoskeleton and a pair of powerful pinching claws.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,crab/all?lock=30000",
+        "https://loremflickr.com/600/800/animal,wildlife,crab/all?lock=21278",
+        "https://loremflickr.com/800/600/animal,wildlife,crab/all?lock=21279",
+        "https://loremflickr.com/600/800/animal,wildlife,crab/all?lock=33625",
+        "https://loremflickr.com/800/600/animal,wildlife,crab/all?lock=21281",
+        "https://loremflickr.com/600/800/animal,wildlife,crab/all?lock=43800",
+        "https://loremflickr.com/800/600/animal,wildlife,crab/all?lock=21283",
+        "https://loremflickr.com/600/800/animal,wildlife,crab/all?lock=21284"
+      ]
+    },
+    {
+      "id": "marine-dolphin",
+      "name": "Dolphin",
+      "scientificName": "Delphinidae",
+      "habitat": "Coastal Waters",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "40-50 years",
+        "size": "2.5m",
+        "weight": "200kg",
+        "speed": "35 km/h"
+      },
+      "description": "A highly intelligent semi-aquatic mammal known for its playful social behavior and echolocation.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,dolphin/all?lock=60223",
+        "https://loremflickr.com/600/800/animal,wildlife,dolphin/all?lock=50051",
+        "https://loremflickr.com/800/600/animal,wildlife,dolphin/all?lock=33640",
+        "https://loremflickr.com/800/600/animal,wildlife,dolphin/all?lock=21296",
+        "https://loremflickr.com/800/600/animal,wildlife,dolphin/all?lock=33642",
+        "https://loremflickr.com/600/800/animal,wildlife,dolphin/all?lock=33643",
+        "https://loremflickr.com/600/800/animal,wildlife,dolphin/all?lock=21299",
+        "https://loremflickr.com/600/800/animal,wildlife,dolphin/all?lock=43818"
+      ]
+    },
+    {
+      "id": "marine-goldfish",
+      "name": "Goldfish",
+      "scientificName": "Carassius auratus",
+      "habitat": "Freshwater",
+      "conservationStatus": "Endangered",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "5-10 years",
+        "size": "0.15m",
+        "weight": "0.1kg",
+        "speed": "4 km/h"
+      },
+      "description": "A small, colorful domestic carp that has been selectively bred for aquariums for centuries.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,goldfish/all?lock=50100",
+        "https://loremflickr.com/600/800/animal,wildlife,goldfish/all?lock=30101",
+        "https://loremflickr.com/800/600/animal,wildlife,goldfish/all?lock=21313",
+        "https://loremflickr.com/600/800/animal,wildlife,goldfish/all?lock=21314",
+        "https://loremflickr.com/800/600/animal,wildlife,goldfish/all?lock=21315",
+        "https://loremflickr.com/600/800/animal,wildlife,goldfish/all?lock=21316",
+        "https://loremflickr.com/800/600/animal,wildlife,goldfish/all?lock=21317",
+        "https://loremflickr.com/600/800/animal,wildlife,goldfish/all?lock=21318"
+      ]
+    },
+    {
+      "id": "marine-jellyfish",
+      "name": "Jellyfish",
+      "scientificName": "Medusozoa",
+      "habitat": "Open Ocean",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "1 year",
+        "size": "0.4m",
+        "weight": "2kg",
+        "speed": "2 km/h"
+      },
+      "description": "A gelatinous drift animal with stinging tentacles used to capture small fish and plankton.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,jellyfish/all?lock=43846",
+        "https://loremflickr.com/600/800/animal,wildlife,jellyfish/all?lock=21329",
+        "https://loremflickr.com/800/600/animal,wildlife,jellyfish/all?lock=33675",
+        "https://loremflickr.com/600/800/animal,wildlife,jellyfish/all?lock=21331",
+        "https://loremflickr.com/800/600/animal,wildlife,jellyfish/all?lock=33677",
+        "https://loremflickr.com/600/800/animal,wildlife,jellyfish/all?lock=21333",
+        "https://loremflickr.com/800/600/animal,wildlife,jellyfish/all?lock=54025",
+        "https://loremflickr.com/600/800/animal,wildlife,jellyfish/all?lock=33680"
+      ]
+    },
+    {
+      "id": "marine-lobster",
+      "name": "Lobster",
+      "scientificName": "Nephropidae",
+      "habitat": "Rocky Seabed",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "30-50 years",
+        "size": "0.4m",
+        "weight": "4kg",
+        "speed": "4 km/h"
+      },
+      "description": "A bottom-dwelling marine crustacean with large, unequal claws used for capturing food.",
+      "images": [
+        "https://loremflickr.com/600/800/animal,wildlife,lobster/all?lock=21346",
+        "https://loremflickr.com/600/800/animal,wildlife,lobster/all?lock=43865",
+        "https://loremflickr.com/800/600/animal,wildlife,lobster/all?lock=33693",
+        "https://loremflickr.com/600/800/animal,wildlife,lobster/all?lock=99991",
+        "https://loremflickr.com/800/600/animal,wildlife,lobster/all?lock=33695",
+        "https://loremflickr.com/600/800/animal,wildlife,lobster/all?lock=43869",
+        "https://loremflickr.com/800/600/animal,wildlife,lobster/all?lock=33697",
+        "https://loremflickr.com/600/800/animal,wildlife,lobster/all?lock=99995"
+      ]
+    },
+    {
+      "id": "marine-octopus",
+      "name": "Octopus",
+      "scientificName": "Octopoda",
+      "habitat": "Coral Reefs",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "1-3 years",
+        "size": "1.2m",
+        "weight": "15kg",
+        "speed": "40 km/h"
+      },
+      "description": "A highly intelligent, eight-armed cephalopod capable of advanced camouflage and problem solving.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,octopus/all?lock=80769",
+        "https://loremflickr.com/600/800/animal,wildlife,octopus/all?lock=50597",
+        "https://loremflickr.com/800/600/animal,wildlife,octopus/all?lock=54056",
+        "https://loremflickr.com/600/800/animal,wildlife,octopus/all?lock=43884",
+        "https://loremflickr.com/800/600/animal,wildlife,octopus/all?lock=33712",
+        "https://loremflickr.com/600/800/animal,wildlife,octopus/all?lock=54059",
+        "https://loremflickr.com/800/600/animal,wildlife,octopus/all?lock=33714",
+        "https://loremflickr.com/600/800/animal,wildlife,octopus/all?lock=54061"
+      ]
+    },
+    {
+      "id": "marine-otter",
+      "name": "Otter",
+      "scientificName": "Lutrinae",
+      "habitat": "Rivers/Coasts",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "10-15 years",
+        "size": "1.1m",
+        "weight": "12kg",
+        "speed": "9 km/h"
+      },
+      "description": "A playful semi-aquatic mammal with dense waterproof fur and webbed feet.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,otter/all?lock=50300",
+        "https://loremflickr.com/600/800/animal,wildlife,otter/all?lock=45733",
+        "https://loremflickr.com/600/800/animal,wildlife,otter/all?lock=21380",
+        "https://loremflickr.com/800/600/animal,wildlife,otter/all?lock=21381",
+        "https://loremflickr.com/600/800/animal,wildlife,otter/all?lock=21382",
+        "https://loremflickr.com/600/800/animal,wildlife,otter/all?lock=33728",
+        "https://loremflickr.com/600/800/animal,wildlife,otter/all?lock=21384",
+        "https://loremflickr.com/600/800/animal,wildlife,otter/all?lock=33730"
+      ]
+    },
+    {
+      "id": "marine-oyster",
+      "name": "Oyster",
+      "scientificName": "Ostreidae",
+      "habitat": "Estuary Beds",
+      "conservationStatus": "Vulnerable",
+      "diet": "Filter Feeder",
+      "stats": {
+        "lifespan": "10-20 years",
+        "size": "0.1m",
+        "weight": "0.2kg",
+        "speed": "0 km/h"
+      },
+      "description": "A bivalve mollusk that filters organic particles from water and can secrete pearls.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,oyster/all?lock=50696",
+        "https://loremflickr.com/600/800/animal,wildlife,oyster/all?lock=43914",
+        "https://loremflickr.com/600/800/animal,wildlife,oyster/all?lock=21397",
+        "https://loremflickr.com/600/800/animal,wildlife,oyster/all?lock=54089",
+        "https://loremflickr.com/800/600/animal,wildlife,oyster/all?lock=54090",
+        "https://loremflickr.com/600/800/animal,wildlife,oyster/all?lock=54091",
+        "https://loremflickr.com/600/800/animal,wildlife,oyster/all?lock=21401",
+        "https://loremflickr.com/600/800/animal,wildlife,oyster/all?lock=54093"
+      ]
+    },
+    {
+      "id": "marine-seahorse",
+      "name": "Seahorse",
+      "scientificName": "Hippocampus",
+      "habitat": "Seagrass Beds",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "1-5 years",
+        "size": "0.12m",
+        "weight": "0.05kg",
+        "speed": "1.5 km/h"
+      },
+      "description": "A small, unique marine fish with an upright posture, horse-like head, and prehensile tail.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,seahorse/all?lock=60573",
+        "https://loremflickr.com/600/800/animal,wildlife,seahorse/all?lock=50747",
+        "https://loremflickr.com/800/600/animal,wildlife,seahorse/all?lock=21415",
+        "https://loremflickr.com/600/800/animal,wildlife,seahorse/all?lock=21416",
+        "https://loremflickr.com/800/600/animal,wildlife,seahorse/all?lock=43935",
+        "https://loremflickr.com/600/800/animal,wildlife,seahorse/all?lock=54109",
+        "https://loremflickr.com/800/600/animal,wildlife,seahorse/all?lock=54110",
+        "https://loremflickr.com/600/800/animal,wildlife,seahorse/all?lock=54111"
+      ]
+    },
+    {
+      "id": "marine-seal",
+      "name": "Seal",
+      "scientificName": "Pinnipedia",
+      "habitat": "Rocky Coasts",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "25-30 years",
+        "size": "1.6m",
+        "weight": "120kg",
+        "speed": "25 km/h"
+      },
+      "description": "A sleek semi-aquatic marine mammal with webbed flippers that swims with speed.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,seal/all?lock=60623",
+        "https://loremflickr.com/600/800/animal,wildlife,seal/all?lock=60624",
+        "https://loremflickr.com/600/800/animal,wildlife,seal/all?lock=21433",
+        "https://loremflickr.com/800/600/animal,wildlife,seal/all?lock=21434",
+        "https://loremflickr.com/800/600/animal,wildlife,seal/all?lock=33780",
+        "https://loremflickr.com/800/600/animal,wildlife,seal/all?lock=21436",
+        "https://loremflickr.com/600/800/animal,wildlife,seal/all?lock=21437",
+        "https://loremflickr.com/800/600/animal,wildlife,seal/all?lock=21438"
+      ]
+    },
+    {
+      "id": "marine-shark",
+      "name": "Shark",
+      "scientificName": "Selachimorpha",
+      "habitat": "Oceans",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "30-70 years",
+        "size": "3.5m",
+        "weight": "500kg",
+        "speed": "40 km/h"
+      },
+      "description": "An ancient cartilaginous predator equipped with multiple rows of replaceable teeth.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,shark/all?lock=50500",
+        "https://loremflickr.com/600/800/animal,wildlife,shark/all?lock=21448",
+        "https://loremflickr.com/800/600/animal,wildlife,shark/all?lock=21449",
+        "https://loremflickr.com/600/800/animal,wildlife,shark/all?lock=21450",
+        "https://loremflickr.com/800/600/animal,wildlife,shark/all?lock=33796",
+        "https://loremflickr.com/600/800/animal,wildlife,shark/all?lock=33797",
+        "https://loremflickr.com/800/600/animal,wildlife,shark/all?lock=54144",
+        "https://loremflickr.com/600/800/animal,wildlife,shark/all?lock=21454"
+      ]
+    },
+    {
+      "id": "marine-squid",
+      "name": "Squid",
+      "scientificName": "Teuthida",
+      "habitat": "Deep Ocean",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "1-2 years",
+        "size": "0.6m",
+        "weight": "3kg",
+        "speed": "30 km/h"
+      },
+      "description": "A fast-swimming cephalopod with ten arms, large eyes, and a siphon used for jet propulsion.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,squid/all?lock=60723",
+        "https://loremflickr.com/600/800/animal,wildlife,squid/all?lock=21463",
+        "https://loremflickr.com/800/600/animal,wildlife,squid/all?lock=21464",
+        "https://loremflickr.com/600/800/animal,wildlife,squid/all?lock=67416",
+        "https://loremflickr.com/800/600/animal,wildlife,squid/all?lock=54157",
+        "https://loremflickr.com/600/800/animal,wildlife,squid/all?lock=21467",
+        "https://loremflickr.com/800/600/animal,wildlife,squid/all?lock=21468",
+        "https://loremflickr.com/600/800/animal,wildlife,squid/all?lock=67420"
+      ]
+    },
+    {
+      "id": "marine-starfish",
+      "name": "Starfish",
+      "scientificName": "Asteroidea",
+      "habitat": "Seabeds",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "5-10 years",
+        "size": "0.2m",
+        "weight": "0.5kg",
+        "speed": "0.1 km/h"
+      },
+      "description": "A star-shaped marine invertebrate capable of regenerating lost arms, feeding using a reversible stomach.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,starfish/all?lock=81119",
+        "https://loremflickr.com/600/800/animal,wildlife,starfish/all?lock=96898",
+        "https://loremflickr.com/800/600/animal,wildlife,starfish/all?lock=81121",
+        "https://loremflickr.com/600/800/animal,wildlife,starfish/all?lock=50949",
+        "https://loremflickr.com/800/600/animal,wildlife,starfish/all?lock=21485",
+        "https://loremflickr.com/600/800/animal,wildlife,starfish/all?lock=47091",
+        "https://loremflickr.com/800/600/animal,wildlife,starfish/all?lock=100129",
+        "https://loremflickr.com/600/800/animal,wildlife,starfish/all?lock=21488"
+      ]
+    },
+    {
+      "id": "marine-turtle",
+      "name": "Turtle",
+      "scientificName": "Testudines",
+      "habitat": "Oceans/Ponds",
+      "conservationStatus": "Vulnerable",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "50-100 years",
+        "size": "1.0m",
+        "weight": "120kg",
+        "speed": "12 km/h"
+      },
+      "description": "An ancient reptile protected by a bony shell, with marine species possessing paddle-like flippers.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,turtle/all?lock=50650",
+        "https://loremflickr.com/600/800/animal,wildlife,turtle/all?lock=70997",
+        "https://loremflickr.com/600/800/animal,wildlife,turtle/all?lock=21503",
+        "https://loremflickr.com/600/800/animal,wildlife,turtle/all?lock=54195",
+        "https://loremflickr.com/600/800/animal,wildlife,turtle/all?lock=21505",
+        "https://loremflickr.com/800/600/animal,wildlife,turtle/all?lock=21506",
+        "https://loremflickr.com/800/600/animal,wildlife,turtle/all?lock=49284",
+        "https://loremflickr.com/800/600/animal,wildlife,turtle/all?lock=21508"
+      ]
+    },
+    {
+      "id": "marine-whale",
+      "name": "Whale",
+      "scientificName": "Cetacea",
+      "habitat": "Open Ocean",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "70-90 years",
+        "size": "20m",
+        "weight": "80000kg",
+        "speed": "30 km/h"
+      },
+      "description": "A colossal warm-blooded marine mammal that breathes air through blowholes.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,whale/all?lock=51046",
+        "https://loremflickr.com/600/800/animal,wildlife,whale/all?lock=50701",
+        "https://loremflickr.com/800/600/animal,wildlife,whale/all?lock=50702",
+        "https://loremflickr.com/600/800/animal,wildlife,whale/all?lock=21518",
+        "https://loremflickr.com/800/600/animal,wildlife,whale/all?lock=21519",
+        "https://loremflickr.com/600/800/animal,wildlife,whale/all?lock=21520",
+        "https://loremflickr.com/800/600/animal,wildlife,whale/all?lock=21521",
+        "https://loremflickr.com/600/800/animal,wildlife,whale/all?lock=21522"
+      ]
+    },
+    {
+      "id": "marine-extra-1",
+      "name": "Blue Whale",
+      "scientificName": "Balaenoptera musculus",
+      "habitat": "Deep Ocean",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "80-90 years",
+        "size": "30m",
+        "weight": "170000kg",
+        "speed": "30 km/h"
+      },
+      "description": "The largest creature ever known to have lived on Earth, feeding primarily on tiny krill.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,blue,whale/all?lock=11184",
+        "https://loremflickr.com/600/800/animal,wildlife,blue,whale/all?lock=11185",
+        "https://loremflickr.com/800/600/animal,wildlife,blue,whale/all?lock=23531",
+        "https://loremflickr.com/600/800/animal,wildlife,blue,whale/all?lock=11187",
+        "https://loremflickr.com/800/600/animal,wildlife,blue,whale/all?lock=11188",
+        "https://loremflickr.com/600/800/animal,wildlife,blue,whale/all?lock=11189",
+        "https://loremflickr.com/800/600/animal,wildlife,blue,whale/all?lock=43881",
+        "https://loremflickr.com/600/800/animal,wildlife,blue,whale/all?lock=11191"
+      ]
+    },
+    {
+      "id": "marine-extra-2",
+      "name": "Humpback Whale",
+      "scientificName": "Megaptera novaeangliae",
+      "habitat": "Coastal Oceans",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "45-50 years",
+        "size": "16m",
+        "weight": "36000kg",
+        "speed": "25 km/h"
+      },
+      "description": "Renowned for its spectacular breaching displays and complex, haunting vocal songs.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,humpback,whale/all?lock=23537",
+        "https://loremflickr.com/600/800/animal,wildlife,humpback,whale/all?lock=57144",
+        "https://loremflickr.com/800/600/animal,wildlife,humpback,whale/all?lock=11194",
+        "https://loremflickr.com/600/800/animal,wildlife,humpback,whale/all?lock=46973",
+        "https://loremflickr.com/800/600/animal,wildlife,humpback,whale/all?lock=11196",
+        "https://loremflickr.com/600/800/animal,wildlife,humpback,whale/all?lock=57148",
+        "https://loremflickr.com/800/600/animal,wildlife,humpback,whale/all?lock=11198",
+        "https://loremflickr.com/600/800/animal,wildlife,humpback,whale/all?lock=57150"
+      ]
+    },
+    {
+      "id": "marine-extra-3",
+      "name": "Orca (Killer Whale)",
+      "scientificName": "Orcinus orca",
+      "habitat": "Global Oceans",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "50-80 years",
+        "size": "8m",
+        "weight": "6000kg",
+        "speed": "56 km/h"
+      },
+      "description": "An apex predator and largest dolphin relative, hunting in highly organized family pods.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,orca,(killer,whale)/all?lock=43891",
+        "https://loremflickr.com/600/800/animal,wildlife,orca,(killer,whale)/all?lock=43892",
+        "https://loremflickr.com/800/600/animal,wildlife,orca,(killer,whale)/all?lock=43893",
+        "https://loremflickr.com/600/800/animal,wildlife,orca,(killer,whale)/all?lock=43894",
+        "https://loremflickr.com/800/600/animal,wildlife,orca,(killer,whale)/all?lock=43895",
+        "https://loremflickr.com/600/800/animal,wildlife,orca,(killer,whale)/all?lock=43896",
+        "https://loremflickr.com/800/600/animal,wildlife,orca,(killer,whale)/all?lock=43897",
+        "https://loremflickr.com/600/800/animal,wildlife,orca,(killer,whale)/all?lock=43898"
+      ]
+    },
+    {
+      "id": "marine-extra-4",
+      "name": "Bottlenose Dolphin",
+      "scientificName": "Tursiops truncatus",
+      "habitat": "Warm Oceans",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "40-50 years",
+        "size": "2.5m",
+        "weight": "300kg",
+        "speed": "35 km/h"
+      },
+      "description": "Highly intelligent marine mammals known for their playful behavior and echolocation.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,bottlenose,dolphin/all?lock=11208",
+        "https://loremflickr.com/600/800/animal,wildlife,bottlenose,dolphin/all?lock=23554",
+        "https://loremflickr.com/800/600/animal,wildlife,bottlenose,dolphin/all?lock=11210",
+        "https://loremflickr.com/600/800/animal,wildlife,bottlenose,dolphin/all?lock=11211",
+        "https://loremflickr.com/800/600/animal,wildlife,bottlenose,dolphin/all?lock=23557",
+        "https://loremflickr.com/600/800/animal,wildlife,bottlenose,dolphin/all?lock=11213",
+        "https://loremflickr.com/800/600/animal,wildlife,bottlenose,dolphin/all?lock=11214",
+        "https://loremflickr.com/600/800/animal,wildlife,bottlenose,dolphin/all?lock=11215"
+      ]
+    },
+    {
+      "id": "marine-extra-5",
+      "name": "Sperm Whale",
+      "scientificName": "Physeter macrocephalus",
+      "habitat": "Abyssal Zone",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "60-70 years",
+        "size": "16m",
+        "weight": "40000kg",
+        "speed": "30 km/h"
+      },
+      "description": "A deep-diving leviathan that hunts giant squid in the pitch-black ocean depths.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,sperm,whale/all?lock=43907",
+        "https://loremflickr.com/600/800/animal,wildlife,sperm,whale/all?lock=43908",
+        "https://loremflickr.com/800/600/animal,wildlife,sperm,whale/all?lock=43909",
+        "https://loremflickr.com/600/800/animal,wildlife,sperm,whale/all?lock=43910",
+        "https://loremflickr.com/800/600/animal,wildlife,sperm,whale/all?lock=43911",
+        "https://loremflickr.com/600/800/animal,wildlife,sperm,whale/all?lock=43912",
+        "https://loremflickr.com/800/600/animal,wildlife,sperm,whale/all?lock=43913",
+        "https://loremflickr.com/600/800/animal,wildlife,sperm,whale/all?lock=43914"
+      ]
+    },
+    {
+      "id": "marine-extra-6",
+      "name": "Beluga Whale",
+      "scientificName": "Delphinapterus leucas",
+      "habitat": "Arctic Seas",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "35-50 years",
+        "size": "4.5m",
+        "weight": "14000kg",
+        "speed": "22 km/h"
+      },
+      "description": "A social white whale with a bulbous, flexible forehead used for communication.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,beluga,whale/all?lock=11224",
+        "https://loremflickr.com/600/800/animal,wildlife,beluga,whale/all?lock=11225",
+        "https://loremflickr.com/800/600/animal,wildlife,beluga,whale/all?lock=11226",
+        "https://loremflickr.com/600/800/animal,wildlife,beluga,whale/all?lock=11227",
+        "https://loremflickr.com/800/600/animal,wildlife,beluga,whale/all?lock=11228",
+        "https://loremflickr.com/600/800/animal,wildlife,beluga,whale/all?lock=23574",
+        "https://loremflickr.com/800/600/animal,wildlife,beluga,whale/all?lock=11230",
+        "https://loremflickr.com/600/800/animal,wildlife,beluga,whale/all?lock=11231"
+      ]
+    },
+    {
+      "id": "marine-extra-7",
+      "name": "Narwhal",
+      "scientificName": "Monodon monoceros",
+      "habitat": "Arctic Ocean",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "40-50 years",
+        "size": "4.7m",
+        "weight": "1600kg",
+        "speed": "20 km/h"
+      },
+      "description": "The 'unicorn of the sea,' featuring a long spiral tusk which is actually an elongated tooth.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,narwhal/all?lock=11232",
+        "https://loremflickr.com/600/800/animal,wildlife,narwhal/all?lock=43924",
+        "https://loremflickr.com/800/600/animal,wildlife,narwhal/all?lock=11234",
+        "https://loremflickr.com/600/800/animal,wildlife,narwhal/all?lock=43926",
+        "https://loremflickr.com/800/600/animal,wildlife,narwhal/all?lock=23581",
+        "https://loremflickr.com/600/800/animal,wildlife,narwhal/all?lock=43928",
+        "https://loremflickr.com/800/600/animal,wildlife,narwhal/all?lock=43929",
+        "https://loremflickr.com/600/800/animal,wildlife,narwhal/all?lock=11239"
+      ]
+    },
+    {
+      "id": "marine-extra-8",
+      "name": "Manta Ray",
+      "scientificName": "Mobula birostris",
+      "habitat": "Tropical Oceans",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "40-50 years",
+        "size": "7m (wingspan)",
+        "weight": "1300kg",
+        "speed": "24 km/h"
+      },
+      "description": "A gentle giant ray that glides gracefully through water, filtering plankton with its mouth.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,manta,ray/all?lock=43931",
+        "https://loremflickr.com/600/800/animal,wildlife,manta,ray/all?lock=43932",
+        "https://loremflickr.com/800/600/animal,wildlife,manta,ray/all?lock=43933",
+        "https://loremflickr.com/600/800/animal,wildlife,manta,ray/all?lock=43934",
+        "https://loremflickr.com/800/600/animal,wildlife,manta,ray/all?lock=43935",
+        "https://loremflickr.com/600/800/animal,wildlife,manta,ray/all?lock=43936",
+        "https://loremflickr.com/800/600/animal,wildlife,manta,ray/all?lock=43937",
+        "https://loremflickr.com/600/800/animal,wildlife,manta,ray/all?lock=43938"
+      ]
+    },
+    {
+      "id": "marine-extra-9",
+      "name": "Whale Shark",
+      "scientificName": "Rhincodon typus",
+      "habitat": "Warm Oceans",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "70-100 years",
+        "size": "12m",
+        "weight": "19000kg",
+        "speed": "5 km/h"
+      },
+      "description": "The largest fish in the sea, decorated with a unique pattern of white spots and stripes.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,whale,shark/all?lock=11248",
+        "https://loremflickr.com/600/800/animal,wildlife,whale,shark/all?lock=11249",
+        "https://loremflickr.com/800/600/animal,wildlife,whale,shark/all?lock=11250",
+        "https://loremflickr.com/600/800/animal,wildlife,whale,shark/all?lock=11251",
+        "https://loremflickr.com/800/600/animal,wildlife,whale,shark/all?lock=11252",
+        "https://loremflickr.com/600/800/animal,wildlife,whale,shark/all?lock=11253",
+        "https://loremflickr.com/800/600/animal,wildlife,whale,shark/all?lock=11254",
+        "https://loremflickr.com/600/800/animal,wildlife,whale,shark/all?lock=11255"
+      ]
+    },
+    {
+      "id": "marine-extra-10",
+      "name": "Great White Shark",
+      "scientificName": "Carcharodon carcharias",
+      "habitat": "Temperate Seas",
+      "conservationStatus": "Endangered",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "70 years",
+        "size": "4.5m",
+        "weight": "1100kg",
+        "speed": "40 km/h"
+      },
+      "description": "A formidable predator equipped with rows of serrated teeth and acute sensory organs.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,great,white,shark/all?lock=43947",
+        "https://loremflickr.com/600/800/animal,wildlife,great,white,shark/all?lock=43948",
+        "https://loremflickr.com/800/600/animal,wildlife,great,white,shark/all?lock=43949",
+        "https://loremflickr.com/600/800/animal,wildlife,great,white,shark/all?lock=43950",
+        "https://loremflickr.com/800/600/animal,wildlife,great,white,shark/all?lock=43951",
+        "https://loremflickr.com/600/800/animal,wildlife,great,white,shark/all?lock=43952",
+        "https://loremflickr.com/800/600/animal,wildlife,great,white,shark/all?lock=43953",
+        "https://loremflickr.com/600/800/animal,wildlife,great,white,shark/all?lock=43954"
+      ]
+    }
+  ],
+  "birds": [
+    {
+      "id": "birds-crow",
+      "name": "Crow",
+      "scientificName": "Corvus",
+      "habitat": "Woodlands/Urban",
+      "conservationStatus": "Vulnerable",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "7-8 years",
+        "size": "0.45m",
+        "weight": "0.5kg",
+        "speed": "45 km/h"
+      },
+      "description": "An exceptionally intelligent bird known for problem-solving, memory, and complex communication.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,crow/all?lock=54392",
+        "https://loremflickr.com/800/600/animal,wildlife,crow/all?lock=21702",
+        "https://loremflickr.com/800/600/animal,wildlife,crow/all?lock=44221",
+        "https://loremflickr.com/600/800/animal,wildlife,crow/all?lock=34049",
+        "https://loremflickr.com/800/600/animal,wildlife,crow/all?lock=54396",
+        "https://loremflickr.com/600/800/animal,wildlife,crow/all?lock=54397",
+        "https://loremflickr.com/800/600/animal,wildlife,crow/all?lock=44225",
+        "https://loremflickr.com/600/800/animal,wildlife,crow/all?lock=34053"
+      ]
+    },
+    {
+      "id": "birds-duck",
+      "name": "Duck",
+      "scientificName": "Anatidae",
+      "habitat": "Wetlands/Lakes",
+      "conservationStatus": "Vulnerable",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "5-10 years",
+        "size": "0.5m",
+        "weight": "1.2kg",
+        "speed": "80 km/h"
+      },
+      "description": "A semi-aquatic waterfowl featuring webbed feet, a flat bill, and waterproof feathers.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,duck/all?lock=80569",
+        "https://loremflickr.com/600/800/animal,wildlife,duck/all?lock=50051",
+        "https://loremflickr.com/800/600/animal,wildlife,duck/all?lock=34066",
+        "https://loremflickr.com/600/800/animal,wildlife,duck/all?lock=54413",
+        "https://loremflickr.com/800/600/animal,wildlife,duck/all?lock=34068",
+        "https://loremflickr.com/600/800/animal,wildlife,duck/all?lock=54415",
+        "https://loremflickr.com/800/600/animal,wildlife,duck/all?lock=34070",
+        "https://loremflickr.com/600/800/animal,wildlife,duck/all?lock=34071"
+      ]
+    },
+    {
+      "id": "birds-eagle",
+      "name": "Eagle",
+      "scientificName": "Accipitridae",
+      "habitat": "Mountain Peaks",
+      "conservationStatus": "Endangered",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "20-25 years",
+        "size": "0.9m",
+        "weight": "4.5kg",
+        "speed": "160 km/h"
+      },
+      "description": "A powerful bird of prey possessing keen eyesight, sharp talons, and a hooked beak.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,eagle/all?lock=60273",
+        "https://loremflickr.com/600/800/animal,wildlife,eagle/all?lock=44255",
+        "https://loremflickr.com/800/600/animal,wildlife,eagle/all?lock=34083",
+        "https://loremflickr.com/600/800/animal,wildlife,eagle/all?lock=54430",
+        "https://loremflickr.com/800/600/animal,wildlife,eagle/all?lock=21740",
+        "https://loremflickr.com/600/800/animal,wildlife,eagle/all?lock=44259",
+        "https://loremflickr.com/800/600/animal,wildlife,eagle/all?lock=34087",
+        "https://loremflickr.com/600/800/animal,wildlife,eagle/all?lock=54434"
+      ]
+    },
+    {
+      "id": "birds-flamingo",
+      "name": "Flamingo",
+      "scientificName": "Phoenicopteridae",
+      "habitat": "Salt Lakes",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "30-40 years",
+        "size": "1.2m",
+        "weight": "3kg",
+        "speed": "50 km/h"
+      },
+      "description": "A tall, slender wading bird with pink feathers derived from carotenoid pigments in its diet.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,flamingo/all?lock=34098",
+        "https://loremflickr.com/600/800/animal,wildlife,flamingo/all?lock=21754",
+        "https://loremflickr.com/800/600/animal,wildlife,flamingo/all?lock=34100",
+        "https://loremflickr.com/600/800/animal,wildlife,flamingo/all?lock=54447",
+        "https://loremflickr.com/800/600/animal,wildlife,flamingo/all?lock=34102",
+        "https://loremflickr.com/600/800/animal,wildlife,flamingo/all?lock=44276",
+        "https://loremflickr.com/800/600/animal,wildlife,flamingo/all?lock=54450",
+        "https://loremflickr.com/600/800/animal,wildlife,flamingo/all?lock=44278"
+      ]
+    },
+    {
+      "id": "birds-goose",
+      "name": "Goose",
+      "scientificName": "Anserinae",
+      "habitat": "Lakes/Fields",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "10-15 years",
+        "size": "0.8m",
+        "weight": "4.5kg",
+        "speed": "60 km/h"
+      },
+      "description": "A large migratory waterfowl known for its protective nesting habits and loud honking.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,goose/all?lock=50200",
+        "https://loremflickr.com/600/800/animal,wildlife,goose/all?lock=21771",
+        "https://loremflickr.com/800/600/animal,wildlife,goose/all?lock=21772",
+        "https://loremflickr.com/600/800/animal,wildlife,goose/all?lock=44291",
+        "https://loremflickr.com/800/600/animal,wildlife,goose/all?lock=21774",
+        "https://loremflickr.com/600/800/animal,wildlife,goose/all?lock=54466",
+        "https://loremflickr.com/800/600/animal,wildlife,goose/all?lock=34121",
+        "https://loremflickr.com/600/800/animal,wildlife,goose/all?lock=21777"
+      ]
+    },
+    {
+      "id": "birds-hornbill",
+      "name": "Hornbill",
+      "scientificName": "Bucerotidae",
+      "habitat": "Tropical Forest",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "20-30 years",
+        "size": "0.8m",
+        "weight": "3kg",
+        "speed": "30 km/h"
+      },
+      "description": "A tropical bird characterized by a long, down-curved bill which often displays a decorative casque.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,hornbill/all?lock=80769",
+        "https://loremflickr.com/600/800/animal,wildlife,hornbill/all?lock=70597",
+        "https://loremflickr.com/800/600/animal,wildlife,hornbill/all?lock=37219",
+        "https://loremflickr.com/600/800/animal,wildlife,hornbill/all?lock=47393",
+        "https://loremflickr.com/800/600/animal,wildlife,hornbill/all?lock=54480",
+        "https://loremflickr.com/600/800/animal,wildlife,hornbill/all?lock=54481",
+        "https://loremflickr.com/800/600/animal,wildlife,hornbill/all?lock=54482",
+        "https://loremflickr.com/600/800/animal,wildlife,hornbill/all?lock=34137"
+      ]
+    },
+    {
+      "id": "birds-hummingbird",
+      "name": "Hummingbird",
+      "scientificName": "Trochilidae",
+      "habitat": "Forest Margins",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "3-5 years",
+        "size": "0.08m",
+        "weight": "0.004kg",
+        "speed": "48 km/h"
+      },
+      "description": "A tiny nectar feeder capable of hovering mid-air and flying backwards by beating wings rapidly.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,hummingbird/all?lock=44323",
+        "https://loremflickr.com/800/600/animal,wildlife,hummingbird/all?lock=21806",
+        "https://loremflickr.com/800/600/animal,wildlife,hummingbird/all?lock=80103",
+        "https://loremflickr.com/600/800/animal,wildlife,hummingbird/all?lock=54499",
+        "https://loremflickr.com/800/600/animal,wildlife,hummingbird/all?lock=44327",
+        "https://loremflickr.com/600/800/animal,wildlife,hummingbird/all?lock=54501",
+        "https://loremflickr.com/800/600/animal,wildlife,hummingbird/all?lock=44329",
+        "https://loremflickr.com/600/800/animal,wildlife,hummingbird/all?lock=44330"
+      ]
+    },
+    {
+      "id": "birds-owl",
+      "name": "Owl",
+      "scientificName": "Strigiformes",
+      "habitat": "Woodlands",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "10-15 years",
+        "size": "0.4m",
+        "weight": "1.5kg",
+        "speed": "60 km/h"
+      },
+      "description": "A nocturnal bird of prey with large forward-facing eyes and silent flight feathers.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,owl/all?lock=44338",
+        "https://loremflickr.com/800/600/animal,wildlife,owl/all?lock=21821",
+        "https://loremflickr.com/800/600/animal,wildlife,owl/all?lock=44340",
+        "https://loremflickr.com/800/600/animal,wildlife,owl/all?lock=21823",
+        "https://loremflickr.com/600/800/animal,wildlife,owl/all?lock=21824",
+        "https://loremflickr.com/800/600/animal,wildlife,owl/all?lock=21825",
+        "https://loremflickr.com/800/600/animal,wildlife,owl/all?lock=34171",
+        "https://loremflickr.com/800/600/animal,wildlife,owl/all?lock=21827"
+      ]
+    },
+    {
+      "id": "birds-parrot",
+      "name": "Parrot",
+      "scientificName": "Psittaciformes",
+      "habitat": "Tropical Forest",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "40-60 years",
+        "size": "0.4m",
+        "weight": "0.8kg",
+        "speed": "40 km/h"
+      },
+      "description": "A colorful, vocal bird known for its curved bill, intelligence, and mimicry of speech.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,parrot/all?lock=70746",
+        "https://loremflickr.com/600/800/animal,wildlife,parrot/all?lock=80920",
+        "https://loremflickr.com/800/600/animal,wildlife,parrot/all?lock=50402",
+        "https://loremflickr.com/800/600/animal,wildlife,parrot/all?lock=21840",
+        "https://loremflickr.com/800/600/animal,wildlife,parrot/all?lock=44359",
+        "https://loremflickr.com/600/800/animal,wildlife,parrot/all?lock=54533",
+        "https://loremflickr.com/800/600/animal,wildlife,parrot/all?lock=34188",
+        "https://loremflickr.com/600/800/animal,wildlife,parrot/all?lock=54535"
+      ]
+    },
+    {
+      "id": "birds-pelecaniformes",
+      "name": "Pelican",
+      "scientificName": "Pelecaniformes",
+      "habitat": "Coasts/Lakes",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "15-25 years",
+        "size": "1.2m",
+        "weight": "6kg",
+        "speed": "56 km/h"
+      },
+      "description": "A family of large waterbirds including pelicans, featuring throat pouches for scooping fish.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,pelican/all?lock=50450",
+        "https://loremflickr.com/600/800/animal,wildlife,pelican/all?lock=54545",
+        "https://loremflickr.com/800/600/animal,wildlife,pelican/all?lock=21855",
+        "https://loremflickr.com/600/800/animal,wildlife,pelican/all?lock=54547",
+        "https://loremflickr.com/800/600/animal,wildlife,pelican/all?lock=54548",
+        "https://loremflickr.com/600/800/animal,wildlife,pelican/all?lock=34203",
+        "https://loremflickr.com/800/600/animal,wildlife,pelican/all?lock=34204",
+        "https://loremflickr.com/600/800/animal,wildlife,pelican/all?lock=34205"
+      ]
+    },
+    {
+      "id": "birds-penguin",
+      "name": "Penguin",
+      "scientificName": "Spheniscidae",
+      "habitat": "Antarctic Coasts",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "15-20 years",
+        "size": "0.8m",
+        "weight": "15kg",
+        "speed": "8 km/h (swim)"
+      },
+      "description": "A flightless, tuxedoed marine bird that glides through sub-zero waters to catch fish.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,penguin/all?lock=54563",
+        "https://loremflickr.com/600/800/animal,wildlife,penguin/all?lock=34218",
+        "https://loremflickr.com/800/600/animal,wildlife,penguin/all?lock=34219",
+        "https://loremflickr.com/600/800/animal,wildlife,penguin/all?lock=34220",
+        "https://loremflickr.com/800/600/animal,wildlife,penguin/all?lock=44394",
+        "https://loremflickr.com/600/800/animal,wildlife,penguin/all?lock=44395",
+        "https://loremflickr.com/800/600/animal,wildlife,penguin/all?lock=44396",
+        "https://loremflickr.com/600/800/animal,wildlife,penguin/all?lock=21879"
+      ]
+    },
+    {
+      "id": "birds-pigeon",
+      "name": "Pigeon",
+      "scientificName": "Columbidae",
+      "habitat": "Cities/Forests",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "3-5 years",
+        "size": "0.3m",
+        "weight": "0.35kg",
+        "speed": "80 km/h"
+      },
+      "description": "A stout-bodied bird with a cooing voice, highly adapted to urban environments globally.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,pigeon/all?lock=50896",
+        "https://loremflickr.com/600/800/animal,wildlife,pigeon/all?lock=50897",
+        "https://loremflickr.com/800/600/animal,wildlife,pigeon/all?lock=70898",
+        "https://loremflickr.com/800/600/animal,wildlife,pigeon/all?lock=21891",
+        "https://loremflickr.com/600/800/animal,wildlife,pigeon/all?lock=21892",
+        "https://loremflickr.com/800/600/animal,wildlife,pigeon/all?lock=21893",
+        "https://loremflickr.com/800/600/animal,wildlife,pigeon/all?lock=54585",
+        "https://loremflickr.com/800/600/animal,wildlife,pigeon/all?lock=21895"
+      ]
+    },
+    {
+      "id": "birds-sandpiper",
+      "name": "Sandpiper",
+      "scientificName": "Scolopacidae",
+      "habitat": "Shorelines",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "5-10 years",
+        "size": "0.22m",
+        "weight": "0.1kg",
+        "speed": "45 km/h"
+      },
+      "description": "A small wading bird that runs along sandy beaches to peck at tiny shoreline invertebrates.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,sandpiper/all?lock=50600",
+        "https://loremflickr.com/600/800/animal,wildlife,sandpiper/all?lock=30601",
+        "https://loremflickr.com/800/600/animal,wildlife,sandpiper/all?lock=21910",
+        "https://loremflickr.com/600/800/animal,wildlife,sandpiper/all?lock=54602",
+        "https://loremflickr.com/800/600/animal,wildlife,sandpiper/all?lock=34257",
+        "https://loremflickr.com/600/800/animal,wildlife,sandpiper/all?lock=54604",
+        "https://loremflickr.com/800/600/animal,wildlife,sandpiper/all?lock=44432",
+        "https://loremflickr.com/600/800/animal,wildlife,sandpiper/all?lock=54606"
+      ]
+    },
+    {
+      "id": "birds-sparrow",
+      "name": "Sparrow",
+      "scientificName": "Passeridae",
+      "habitat": "Woodlands/Fields",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "3-5 years",
+        "size": "0.14m",
+        "weight": "0.03kg",
+        "speed": "38 km/h"
+      },
+      "description": "A small, common songbird with brown and grey feathers, nesting near human dwellings.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,sparrow/all?lock=21923",
+        "https://loremflickr.com/600/800/animal,wildlife,sparrow/all?lock=54615",
+        "https://loremflickr.com/800/600/animal,wildlife,sparrow/all?lock=21925",
+        "https://loremflickr.com/600/800/animal,wildlife,sparrow/all?lock=21926",
+        "https://loremflickr.com/800/600/animal,wildlife,sparrow/all?lock=21927",
+        "https://loremflickr.com/600/800/animal,wildlife,sparrow/all?lock=44446",
+        "https://loremflickr.com/800/600/animal,wildlife,sparrow/all?lock=44447",
+        "https://loremflickr.com/600/800/animal,wildlife,sparrow/all?lock=54621"
+      ]
+    },
+    {
+      "id": "birds-swan",
+      "name": "Swan",
+      "scientificName": "Cygnus",
+      "habitat": "Lakes/Ponds",
+      "conservationStatus": "Least Concern",
+      "diet": "Herbivore",
+      "stats": {
+        "lifespan": "15-20 years",
+        "size": "1.4m",
+        "weight": "11kg",
+        "speed": "45 km/h"
+      },
+      "description": "A large, elegant white waterfowl with a long neck, forming lifelong breeding pairs.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,swan/all?lock=54631",
+        "https://loremflickr.com/600/800/animal,wildlife,swan/all?lock=21941",
+        "https://loremflickr.com/800/600/animal,wildlife,swan/all?lock=21942",
+        "https://loremflickr.com/600/800/animal,wildlife,swan/all?lock=54634",
+        "https://loremflickr.com/800/600/animal,wildlife,swan/all?lock=54635",
+        "https://loremflickr.com/600/800/animal,wildlife,swan/all?lock=44463",
+        "https://loremflickr.com/800/600/animal,wildlife,swan/all?lock=21946",
+        "https://loremflickr.com/600/800/animal,wildlife,swan/all?lock=54638"
+      ]
+    },
+    {
+      "id": "birds-turkey",
+      "name": "Turkey",
+      "scientificName": "Meleagris gallopavo",
+      "habitat": "Forests/Farms",
+      "conservationStatus": "Least Concern",
+      "diet": "Omnivore",
+      "stats": {
+        "lifespan": "3-5 years",
+        "size": "1.0m",
+        "weight": "8kg",
+        "speed": "40 km/h"
+      },
+      "description": "A large forest bird native to North American woodlands, featuring a bare head and fan-shaped tail.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,turkey/all?lock=51096",
+        "https://loremflickr.com/600/800/animal,wildlife,turkey/all?lock=54649",
+        "https://loremflickr.com/800/600/animal,wildlife,turkey/all?lock=34304",
+        "https://loremflickr.com/600/800/animal,wildlife,turkey/all?lock=54651",
+        "https://loremflickr.com/800/600/animal,wildlife,turkey/all?lock=54652",
+        "https://loremflickr.com/600/800/animal,wildlife,turkey/all?lock=54653",
+        "https://loremflickr.com/800/600/animal,wildlife,turkey/all?lock=34308",
+        "https://loremflickr.com/600/800/animal,wildlife,turkey/all?lock=44482"
+      ]
+    },
+    {
+      "id": "birds-woodpecker",
+      "name": "Woodpecker",
+      "scientificName": "Picidae",
+      "habitat": "Woodlands",
+      "conservationStatus": "Least Concern",
+      "diet": "Insectivore",
+      "stats": {
+        "lifespan": "6-11 years",
+        "size": "0.25m",
+        "weight": "0.15kg",
+        "speed": "25 km/h"
+      },
+      "description": "A tree-climbing bird that taps trunks with its beak to find grubs and drums to communicate.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,woodpecker/all?lock=30800",
+        "https://loremflickr.com/600/800/animal,wildlife,woodpecker/all?lock=40974",
+        "https://loremflickr.com/800/600/animal,wildlife,woodpecker/all?lock=54668",
+        "https://loremflickr.com/600/800/animal,wildlife,woodpecker/all?lock=54669",
+        "https://loremflickr.com/800/600/animal,wildlife,woodpecker/all?lock=34324",
+        "https://loremflickr.com/600/800/animal,wildlife,woodpecker/all?lock=54671",
+        "https://loremflickr.com/800/600/animal,wildlife,woodpecker/all?lock=54672",
+        "https://loremflickr.com/600/800/animal,wildlife,woodpecker/all?lock=54673"
+      ]
+    },
+    {
+      "id": "birds-extra-1",
+      "name": "Bald Eagle",
+      "scientificName": "Haliaeetus leucocephalus",
+      "habitat": "Forest/Lakes",
+      "conservationStatus": "Vulnerable",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "20-30 years",
+        "size": "0.9m",
+        "weight": "4.5kg",
+        "speed": "160 km/h"
+      },
+      "description": "The national symbol of the USA, boasting a pure white head and a sharp yellow beak.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,bald,eagle/all?lock=44563",
+        "https://loremflickr.com/600/800/animal,wildlife,bald,eagle/all?lock=11873",
+        "https://loremflickr.com/800/600/animal,wildlife,bald,eagle/all?lock=70170",
+        "https://loremflickr.com/600/800/animal,wildlife,bald,eagle/all?lock=44566",
+        "https://loremflickr.com/800/600/animal,wildlife,bald,eagle/all?lock=44567",
+        "https://loremflickr.com/600/800/animal,wildlife,bald,eagle/all?lock=24222",
+        "https://loremflickr.com/800/600/animal,wildlife,bald,eagle/all?lock=39655",
+        "https://loremflickr.com/600/800/animal,wildlife,bald,eagle/all?lock=24224"
+      ]
+    },
+    {
+      "id": "birds-extra-2",
+      "name": "Golden Eagle",
+      "scientificName": "Aquila chrysaetos",
+      "habitat": "Mountain Valleys",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "20-25 years",
+        "size": "1m",
+        "weight": "5kg",
+        "speed": "240 km/h"
+      },
+      "description": "One of the largest, fastest, and most nimble birds of prey, capable of hunting young deer.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,golden,eagle/all?lock=11880",
+        "https://loremflickr.com/600/800/animal,wildlife,golden,eagle/all?lock=44572",
+        "https://loremflickr.com/800/600/animal,wildlife,golden,eagle/all?lock=11882",
+        "https://loremflickr.com/600/800/animal,wildlife,golden,eagle/all?lock=11883",
+        "https://loremflickr.com/800/600/animal,wildlife,golden,eagle/all?lock=11884",
+        "https://loremflickr.com/600/800/animal,wildlife,golden,eagle/all?lock=11885",
+        "https://loremflickr.com/800/600/animal,wildlife,golden,eagle/all?lock=11886",
+        "https://loremflickr.com/600/800/animal,wildlife,golden,eagle/all?lock=44578"
+      ]
+    },
+    {
+      "id": "birds-extra-3",
+      "name": "Peregrine Falcon",
+      "scientificName": "Falco peregrinus",
+      "habitat": "Open Country/Cliffs",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "12-15 years",
+        "size": "0.45m",
+        "weight": "1kg",
+        "speed": "389 km/h"
+      },
+      "description": "The fastest creature in the animal kingdom, diving at extreme speeds to catch prey mid-air.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,peregrine,falcon/all?lock=11888",
+        "https://loremflickr.com/600/800/animal,wildlife,peregrine,falcon/all?lock=34407",
+        "https://loremflickr.com/800/600/animal,wildlife,peregrine,falcon/all?lock=34408",
+        "https://loremflickr.com/600/800/animal,wildlife,peregrine,falcon/all?lock=44582",
+        "https://loremflickr.com/800/600/animal,wildlife,peregrine,falcon/all?lock=34410",
+        "https://loremflickr.com/600/800/animal,wildlife,peregrine,falcon/all?lock=44584",
+        "https://loremflickr.com/800/600/animal,wildlife,peregrine,falcon/all?lock=24239",
+        "https://loremflickr.com/600/800/animal,wildlife,peregrine,falcon/all?lock=44586"
+      ]
+    },
+    {
+      "id": "birds-extra-4",
+      "name": "Barn Owl",
+      "scientificName": "Tyto alba",
+      "habitat": "Grassland/Farms",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "4-10 years",
+        "size": "0.35m",
+        "weight": "0.5kg",
+        "speed": "30 km/h"
+      },
+      "description": "A nocturnal hunter with a heart-shaped facial disc that funnels sound to its sensitive ears.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,barn,owl/all?lock=44587",
+        "https://loremflickr.com/600/800/animal,wildlife,barn,owl/all?lock=44588",
+        "https://loremflickr.com/800/600/animal,wildlife,barn,owl/all?lock=60021",
+        "https://loremflickr.com/600/800/animal,wildlife,barn,owl/all?lock=11899",
+        "https://loremflickr.com/800/600/animal,wildlife,barn,owl/all?lock=44591",
+        "https://loremflickr.com/600/800/animal,wildlife,barn,owl/all?lock=27333",
+        "https://loremflickr.com/800/600/animal,wildlife,barn,owl/all?lock=90544",
+        "https://loremflickr.com/600/800/animal,wildlife,barn,owl/all?lock=44594"
+      ]
+    },
+    {
+      "id": "birds-extra-5",
+      "name": "Snowy Owl",
+      "scientificName": "Bubo scandiacus",
+      "habitat": "Tundra",
+      "conservationStatus": "Least Concern",
+      "diet": "Carnivore",
+      "stats": {
+        "lifespan": "9-15 years",
+        "size": "0.65m",
+        "weight": "2kg",
+        "speed": "80 km/h"
+      },
+      "description": "A striking, white owl of the cold north, which hunts by day and night using sharp eyesight.",
+      "images": [
+        "https://loremflickr.com/800/600/animal,wildlife,snowy,owl/all?lock=11904",
+        "https://loremflickr.com/600/800/animal,wildlife,snowy,owl/all?lock=47683",
+        "https://loremflickr.com/800/600/animal,wildlife,snowy,owl/all?lock=34424",
+        "https://loremflickr.com/600/800/animal,wildlife,snowy,owl/all?lock=80376",
+        "https://loremflickr.com/800/600/animal,wildlife,snowy,owl/all?lock=70204",
+        "https://loremflickr.com/600/800/animal,wildlife,snowy,owl/all?lock=57860",
+        "https://loremflickr.com/800/600/animal,wildlife,snowy,owl/all?lock=34428",
+        "https://loremflickr.com/600/800/animal,wildlife,snowy,owl/all?lock=44602"
+      ]
+    }
+  ]
+}
