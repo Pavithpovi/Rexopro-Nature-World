@@ -16,13 +16,34 @@ export default function AnimalCard({ animal, onCardClick, isLiked, onToggleLike 
     setFallbackIndex(0);
   }, [firstImage]);
 
+  const EMERGENCY_FALLBACKS = {
+    land: 'https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80', // Lion
+    marine: 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80', // Dolphin
+    birds: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?auto=format&fit=crop&w=800&q=80' // Bird
+  };
+
+  const getSector = () => {
+    if (animal.id.startsWith('marine')) return 'marine';
+    if (animal.id.startsWith('birds')) return 'birds';
+    return 'land';
+  };
+
+  const getThumbnailUrl = (url) => {
+    if (url && url.includes('loremflickr.com')) {
+      return url
+        .replace('/3840/2160/', '/800/600/')
+        .replace('/2160/3840/', '/600/800/');
+    }
+    return url;
+  };
+
   const handleImageError = () => {
     const nextIndex = fallbackIndex + 1;
     if (animal.images && nextIndex < animal.images.length) {
       setFallbackIndex(nextIndex);
       setImageSrc(animal.images[nextIndex]);
     } else {
-      setImageSrc('/nature_bg.png');
+      setImageSrc(EMERGENCY_FALLBACKS[getSector()]);
     }
   };
 
@@ -56,7 +77,7 @@ export default function AnimalCard({ animal, onCardClick, isLiked, onToggleLike 
       </div>
       <div className="card-image-wrapper">
         <img 
-          src={imageSrc} 
+          src={getThumbnailUrl(imageSrc)} 
           alt={animal.name} 
           loading="lazy" 
           onError={handleImageError}

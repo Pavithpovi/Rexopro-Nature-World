@@ -1,6 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { download4KImage } from '../utils/downloader';
 
+const EMERGENCY_FALLBACKS = {
+  land: 'https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80', // Lion
+  marine: 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80', // Dolphin
+  birds: 'https://images.unsplash.com/photo-1444464666168-49d633b86797?auto=format&fit=crop&w=800&q=80' // Bird
+};
+
 export default function DetailModal({ animal, onClose, isLiked, onToggleLike }) {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [fadeState, setFadeState] = useState('in'); // 'in', 'out'
@@ -135,7 +141,7 @@ export default function DetailModal({ animal, onClose, isLiked, onToggleLike }) 
                   src={animal.images[currentImageIndex]} 
                   alt={`${animal.name} slide`} 
                   className={fadeState === 'out' ? 'fade-out' : ''}
-                  onError={(e) => { e.target.src = '/nature_bg.png'; }}
+                  onError={(e) => { e.target.src = EMERGENCY_FALLBACKS[sector] || EMERGENCY_FALLBACKS.land; }}
                 />
                 <div className="image-overlay-index">
                   <span>{currentImageIndex + 1} / {animal.images.length}</span>

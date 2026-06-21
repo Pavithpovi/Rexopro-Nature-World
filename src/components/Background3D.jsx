@@ -28,30 +28,14 @@ export default function Background3D() {
     renderer.setSize(window.innerWidth, window.innerHeight);
     renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
 
-    // 4. Load Nature Background Texture
-    const textureLoader = new THREE.TextureLoader();
-    const bgPlaneGeometry = new THREE.PlaneGeometry(16, 9);
-    
-    let bgPlane;
-    textureLoader.load('/nature_bg.png', (texture) => {
-      const bgPlaneMaterial = new THREE.MeshBasicMaterial({
-        map: texture,
-        transparent: true,
-        opacity: 0.9
-      });
-      bgPlane = new THREE.Mesh(bgPlaneGeometry, bgPlaneMaterial);
-      scene.add(bgPlane);
-      resizeBackground();
-    });
-
-    // 5. Spawn Glowing Pollen Particles (Environmental 3D Effect)
+    // 4. Spawn Glowing Pollen Particles (Environmental 3D Effect)
     const particleCount = 180;
     const particleGeometry = new THREE.BufferGeometry();
     const positions = new Float32Array(particleCount * 3);
     const speeds = [];
 
     for (let i = 0; i < particleCount; i++) {
-      // Random coordinates inside a bounding box in front of background
+      // Random coordinates inside a bounding box in front of camera
       positions[i * 3] = (Math.random() - 0.5) * 12;      // X
       positions[i * 3 + 1] = (Math.random() - 0.5) * 8;     // Y
       positions[i * 3 + 2] = (Math.random() - 0.5) * 2 + 1; // Z (closer to camera)
@@ -78,7 +62,7 @@ export default function Background3D() {
     const particles = new THREE.Points(particleGeometry, particleMaterial);
     scene.add(particles);
 
-    // 6. Interactive Parallax Mouse Listeners
+    // 5. Interactive Parallax Mouse Listeners
     let targetMouseX = 0;
     let targetMouseY = 0;
 
@@ -90,49 +74,25 @@ export default function Background3D() {
 
     window.addEventListener('mousemove', onMouseMove);
 
-    // 7. Dynamic Cover Sizing Logic
-    const resizeBackground = () => {
-      if (!bgPlane) return;
-      
-      const width = window.innerWidth;
-      const height = window.innerHeight;
-      
-      const screenAspect = width / height;
-      const textureAspect = 16 / 9;
-
-      if (screenAspect > textureAspect) {
-        // Screen is wider than image
-        const scale = screenAspect / textureAspect;
-        bgPlane.scale.set(scale, scale, 1);
-      } else {
-        // Screen is taller than image
-        const scale = textureAspect / screenAspect;
-        bgPlane.scale.set(scale, scale, 1);
-      }
-    };
-
     const handleResize = () => {
       camera.aspect = window.innerWidth / window.innerHeight;
       camera.updateProjectionMatrix();
       renderer.setSize(window.innerWidth, window.innerHeight);
       renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
-      resizeBackground();
     };
 
     window.addEventListener('resize', handleResize);
 
-    // 8. Animation loop
+    // 6. Animation loop
     let animationFrameId;
     const lerpFactor = 0.05;
 
     const tick = () => {
-      // Parallax lerps
-      if (bgPlane) {
-        bgPlane.rotation.y += (targetMouseX - bgPlane.rotation.y) * lerpFactor;
-        bgPlane.rotation.x += (targetMouseY - bgPlane.rotation.x) * lerpFactor;
-        bgPlane.position.x += (targetMouseX * 0.5 - bgPlane.position.x) * lerpFactor;
-        bgPlane.position.y += (-targetMouseY * 0.5 - bgPlane.position.y) * lerpFactor;
-      }
+      // Interactive parallax on particles
+      particles.position.x += (targetMouseX * 1.5 - particles.position.x) * lerpFactor;
+      particles.position.y += (-targetMouseY * 1.5 - particles.position.y) * lerpFactor;
+      particles.rotation.y += (targetMouseX * 0.2 - particles.rotation.y) * lerpFactor;
+      particles.rotation.x += (targetMouseY * 0.2 - particles.rotation.x) * lerpFactor;
 
       // Floating particles movement
       const posAttr = particleGeometry.attributes.position;
@@ -167,7 +127,6 @@ export default function Background3D() {
       window.removeEventListener('mousemove', onMouseMove);
       window.removeEventListener('resize', handleResize);
       renderer.dispose();
-      bgPlaneGeometry.dispose();
       particleGeometry.dispose();
       particleMaterial.dispose();
     };

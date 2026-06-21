@@ -25,3 +25,4 @@ dist-ssr
 
 # Local animal images cache
 public/animals/
+quarantine/

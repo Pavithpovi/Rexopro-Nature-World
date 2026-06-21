@@ -112,21 +112,56 @@ const birdPadding = [
 ];
 
 // Helper to generate unique LoremFlickr images using search tags and seed values
-function getUniqueFlickrImages(name, category, animalIndex) {
+const resolvedTagsCache = {};
+
+async function resolveWorkingTag(name) {
   let cleanName = name.split(' Extra-')[0].toLowerCase();
-  const animalTags = cleanName.replace(/ /g, ',');
-  // Use '/all' at the end to force AND logic, restricting matching images to contain 'animal', 'wildlife' AND the animal's name keywords.
-  // This avoids retrieving non-animal objects like cars, humans, aeroplanes, or automobiles.
-  const searchTags = `animal,wildlife,${animalTags}/all`;
+  // Strip parentheses and anything inside them
+  cleanName = cleanName.replace(/\s*\([^)]*\)\s*/g, ' ').trim();
   
+  if (resolvedTagsCache[cleanName]) {
+    return resolvedTagsCache[cleanName];
+  }
+
+  const words = cleanName.split(' ');
+  const lastWord = words[words.length - 1];
+
+  // Candidates in order of preference
+  const candidates = [
+    cleanName.replace(/ /g, '-'),                             // "grizzly-bear"
+    lastWord,                                                 // "bear"
+    `animal,${lastWord}`,                                     // "animal,bear"
+    `wildlife,${lastWord}`,                                   // "wildlife,bear"
+    `animal,${cleanName.replace(/ /g, ',')}`,                 // "animal,grizzly,bear"
+    "animal",
+    "wildlife"
+  ];
+
+  for (const tag of candidates) {
+    const url = `https://loremflickr.com/800/600/${tag}`;
+    try {
+      const res = await fetch(url, { method: 'HEAD' });
+      if (res.status === 200) {
+        console.log(`Resolved working tag for "${cleanName}" -> "${tag}"`);
+        resolvedTagsCache[cleanName] = tag;
+        return tag;
+      }
+    } catch (e) {
+      // ignore
+    }
+  }
+
+  resolvedTagsCache[cleanName] = "animal";
+  return "animal";
+}
+
+function getUniqueFlickrImagesWithTag(tag, animalIndex) {
   const result = [];
   for (let idx = 0; idx < 8; idx++) {
-    const width = idx % 2 === 0 ? 800 : 600;
-    const height = idx % 2 === 0 ? 600 : 800;
-    
-    // Unique seed is based on animal index and photo slot to guarantee unique images
-    const seed = (animalIndex * 8) + idx + 5000; // offset to avoid clashes with local mapping indices
-    result.push(`https://loremflickr.com/${width}/${height}/${searchTags}?lock=${seed}`);
+    const width = idx % 2 === 0 ? 3840 : 2160;
+    const height = idx % 2 === 0 ? 2160 : 3840;
+    const seed = (animalIndex * 8) + idx + 5000;
+    result.push(`https://loremflickr.com/${width}/${height}/${tag}?lock=${seed}`);
   }
   return result;
 }
@@ -312,7 +347,7 @@ folders.forEach((folderName) => {
 // 2. Pad each category with extra entries up to exactly 101 entries to satisfy 100+ requirement
 let currentGlobalIndex = totalMappedImages + 10;
 
-function padSector(sectorList, paddingSource, sectorKey, requiredCount) {
+async function padSector(sectorList, paddingSource, sectorKey, requiredCount) {
   let padIdx = 0;
   while (sectorList.length < requiredCount && padIdx < paddingSource.length) {
     const arr = paddingSource[padIdx];
@@ -329,7 +364,8 @@ function padSector(sectorList, paddingSource, sectorKey, requiredCount) {
     });
     
     if (!isAlreadyPresent) {
-      const generatedImages = getUniqueFlickrImages(name, sectorKey, currentGlobalIndex++);
+      const resolvedTag = await resolveWorkingTag(name);
+      const generatedImages = getUniqueFlickrImagesWithTag(resolvedTag, currentGlobalIndex++);
       
       sectorList.push({
         id: `${sectorKey}-extra-${padIdx + 1}`,
@@ -352,23 +388,25 @@ function padSector(sectorList, paddingSource, sectorKey, requiredCount) {
   }
 }
 
-padSector(database.land, landPadding, 'land', 101);
-padSector(database.marine, marinePadding, 'marine', 101);
-padSector(database.birds, birdPadding, 'birds', 101);
+(async () => {
+  await padSector(database.land, landPadding, 'land', 101);
+  await padSector(database.marine, marinePadding, 'marine', 101);
+  await padSector(database.birds, birdPadding, 'birds', 101);
 
-if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir, { recursive: true });
-}
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
 
-fs.writeFileSync(
-  path.join(outputDir, 'animals.json'),
-  JSON.stringify(database, null, 2)
-);
+  fs.writeFileSync(
+    path.join(outputDir, 'animals.json'),
+    JSON.stringify(database, null, 2)
+  );
 
-console.log(`\nSuccessfully mapped local dataset & padded database:`);
-console.log(`- Land Sector: ${database.land.length} animals (58 local, ${database.land.length - 58} padded)`);
-console.log(`- Marine Sector: ${database.marine.length} animals (15 local, ${database.marine.length - 15} padded)`);
-console.log(`- Birds Sector: ${database.birds.length} animals (17 local, ${database.birds.length - 17} padded)`);
-console.log(`Total Animal Species: ${database.land.length + database.marine.length + database.birds.length}`);
-console.log(`Total Images Mapped locally: ${totalMappedImages}`);
-console.log(`Saved database to src/animals.json`);
+  console.log(`\nSuccessfully mapped local dataset & padded database:`);
+  console.log(`- Land Sector: ${database.land.length} animals (58 local, ${database.land.length - 58} padded)`);
+  console.log(`- Marine Sector: ${database.marine.length} animals (15 local, ${database.marine.length - 15} padded)`);
+  console.log(`- Birds Sector: ${database.birds.length} animals (17 local, ${database.birds.length - 17} padded)`);
+  console.log(`Total Animal Species: ${database.land.length + database.marine.length + database.birds.length}`);
+  console.log(`Total Images Mapped locally: ${totalMappedImages}`);
+  console.log(`Saved database to src/animals.json`);
+})();
