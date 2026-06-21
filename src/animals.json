@@ -5,7 +5,7 @@
       "name": "Antelope",
       "scientificName": "Antilocapra americana",
       "habitat": "Grasslands",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -15,14 +15,14 @@
       },
       "description": "An extremely swift mammal found in open grasslands, featuring beautiful curved horns.",
       "images": [
-        "/animals/antelope/02f4b3be2d.jpg",
-        "/animals/antelope/0a37838e99.jpg",
-        "/animals/antelope/0b1a3af197.jpg",
-        "/animals/antelope/0b688923b0.jpg",
-        "/animals/antelope/0ee903ea13.jpg",
-        "/animals/antelope/0fb2e9aa81.jpg",
-        "/animals/antelope/0fe7076f06.jpg",
-        "/animals/antelope/17a07512e9.jpg"
+        "animals/antelope/02f4b3be2d.jpg",
+        "animals/antelope/0a37838e99.jpg",
+        "animals/antelope/0b1a3af197.jpg",
+        "animals/antelope/0b688923b0.jpg",
+        "animals/antelope/0ee903ea13.jpg",
+        "animals/antelope/0fb2e9aa81.jpg",
+        "animals/antelope/0fe7076f06.jpg",
+        "animals/antelope/17a07512e9.jpg"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Badger",
       "scientificName": "Meles meles",
       "habitat": "Forest/Grassland",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "10-12 years",
@@ -40,14 +40,14 @@
       },
       "description": "A stout, burrowing carnivore recognized by its striking black and white striped head.",
       "images": [
-        "/animals/badger/00f56e5c92.jpg",
-        "/animals/badger/028efe8aab.jpg",
-        "/animals/badger/047c50963a.jpg",
-        "/animals/badger/0798f04ce0.jpg",
-        "/animals/badger/0836f4eb45.jpg",
-        "/animals/badger/0cf04d0dab.jpg",
-        "/animals/badger/0e13bf2bf3.jpg",
-        "/animals/badger/147a5daad3.jpg"
+        "animals/badger/00f56e5c92.jpg",
+        "animals/badger/028efe8aab.jpg",
+        "animals/badger/047c50963a.jpg",
+        "animals/badger/0798f04ce0.jpg",
+        "animals/badger/0836f4eb45.jpg",
+        "animals/badger/0cf04d0dab.jpg",
+        "animals/badger/0e13bf2bf3.jpg",
+        "animals/badger/147a5daad3.jpg"
       ]
     },
     {
@@ -65,14 +65,14 @@
       },
       "description": "The only mammal capable of true sustained flight, navigating using advanced echolocation.",
       "images": [
-        "/animals/bat/0315a4b6b7.jpg",
-        "/animals/bat/1dd514de63.jpg",
-        "/animals/bat/1fd53c0b98.jpg",
-        "/animals/bat/2bcd2a1dd7.jpg",
-        "/animals/bat/2d028b789d.jpg",
-        "/animals/bat/2dba7ed0d9.jpg",
-        "/animals/bat/2f7c6c7cd5.jpg",
-        "/animals/bat/2fa47a2579.jpg"
+        "animals/bat/0315a4b6b7.jpg",
+        "animals/bat/1dd514de63.jpg",
+        "animals/bat/1fd53c0b98.jpg",
+        "animals/bat/2bcd2a1dd7.jpg",
+        "animals/bat/2d028b789d.jpg",
+        "animals/bat/2dba7ed0d9.jpg",
+        "animals/bat/2f7c6c7cd5.jpg",
+        "animals/bat/2fa47a2579.jpg"
       ]
     },
     {
@@ -80,7 +80,7 @@
       "name": "Bear",
       "scientificName": "Ursus",
       "habitat": "Forest/Tundra",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "20-25 years",
@@ -90,14 +90,14 @@
       },
       "description": "A large, powerful omnivore with a thick coat of fur and heavy claws used for digging.",
       "images": [
-        "/animals/bear/039b2ae790.jpg",
-        "/animals/bear/090234b385.jpg",
-        "/animals/bear/093836b753.jpg",
-        "/animals/bear/1b890605d5.jpg",
-        "/animals/bear/22ea4eea68.jpg",
-        "/animals/bear/25e21b4f3e.jpg",
-        "/animals/bear/28cf1633e6.jpg",
-        "/animals/bear/28f3e554e6.jpg"
+        "animals/bear/039b2ae790.jpg",
+        "animals/bear/090234b385.jpg",
+        "animals/bear/093836b753.jpg",
+        "animals/bear/1b890605d5.jpg",
+        "animals/bear/22ea4eea68.jpg",
+        "animals/bear/25e21b4f3e.jpg",
+        "animals/bear/28cf1633e6.jpg",
+        "animals/bear/28f3e554e6.jpg"
       ]
     },
     {
@@ -105,7 +105,7 @@
       "name": "Bee",
       "scientificName": "Apis",
       "habitat": "Gardens/Meadows",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "5-6 weeks",
@@ -115,14 +115,14 @@
       },
       "description": "A crucial pollinator that lives in complex social colonies, producing sweet honey.",
       "images": [
-        "/animals/bee/0ec9efe6d8.jpg",
-        "/animals/bee/1111feb0ff.jpg",
-        "/animals/bee/1cb123c4e9.jpg",
-        "/animals/bee/356ff70eab.jpg",
-        "/animals/bee/3d28692ff1.jpg",
-        "/animals/bee/3fbdf8c63c.jpg",
-        "/animals/bee/402ec9cd1b.jpg",
-        "/animals/bee/43c4bde0d3.jpg"
+        "animals/bee/0ec9efe6d8.jpg",
+        "animals/bee/1111feb0ff.jpg",
+        "animals/bee/1cb123c4e9.jpg",
+        "animals/bee/356ff70eab.jpg",
+        "animals/bee/3d28692ff1.jpg",
+        "animals/bee/3fbdf8c63c.jpg",
+        "animals/bee/402ec9cd1b.jpg",
+        "animals/bee/43c4bde0d3.jpg"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "name": "Beetle",
       "scientificName": "Coleoptera",
       "habitat": "Leaf Litter/Soil",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "1-2 years",
@@ -140,14 +140,14 @@
       },
       "description": "An incredibly diverse insect with a hardened pair of front wings acting as a protective shell.",
       "images": [
-        "/animals/beetle/05f1f4c7c8.jpg",
-        "/animals/beetle/0de750893f.jpg",
-        "/animals/beetle/0f7582cad7.jpg",
-        "/animals/beetle/3e7669bf98.jpg",
-        "/animals/beetle/41f55933e6.jpg",
-        "/animals/beetle/50c20f936f.jpg",
-        "/animals/beetle/5298d71dcc.jpg",
-        "/animals/beetle/5c3e299635.jpg"
+        "animals/beetle/05f1f4c7c8.jpg",
+        "animals/beetle/0de750893f.jpg",
+        "animals/beetle/0f7582cad7.jpg",
+        "animals/beetle/3e7669bf98.jpg",
+        "animals/beetle/41f55933e6.jpg",
+        "animals/beetle/50c20f936f.jpg",
+        "animals/beetle/5298d71dcc.jpg",
+        "animals/beetle/5c3e299635.jpg"
       ]
     },
     {
@@ -155,7 +155,7 @@
       "name": "Bison",
       "scientificName": "Bison bison",
       "habitat": "Grasslands/Plains",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "15-20 years",
@@ -165,14 +165,14 @@
       },
       "description": "A massive hump-shouldered wild ox that once roamed North American plains in giant herds.",
       "images": [
-        "/animals/bison/02116e752c.jpg",
-        "/animals/bison/133ca596fe.jpg",
-        "/animals/bison/150de5d9c4.jpg",
-        "/animals/bison/17fd28dbd4.jpg",
-        "/animals/bison/1a94573fa2.jpg",
-        "/animals/bison/1c4993f09f.jpg",
-        "/animals/bison/1cc556c57a.jpg",
-        "/animals/bison/1e727a98f4.jpg"
+        "animals/bison/02116e752c.jpg",
+        "animals/bison/133ca596fe.jpg",
+        "animals/bison/150de5d9c4.jpg",
+        "animals/bison/17fd28dbd4.jpg",
+        "animals/bison/1a94573fa2.jpg",
+        "animals/bison/1c4993f09f.jpg",
+        "animals/bison/1cc556c57a.jpg",
+        "animals/bison/1e727a98f4.jpg"
       ]
     },
     {
@@ -190,14 +190,14 @@
       },
       "description": "A wild ancestor of the domestic pig, equipped with sharp canine tusks and a tough bristly coat.",
       "images": [
-        "/animals/boar/0b2e935388.jpg",
-        "/animals/boar/12c58c5e8c.jpg",
-        "/animals/boar/17c67e42a7.jpg",
-        "/animals/boar/183f0cd1c2.jpg",
-        "/animals/boar/2005eb9945.jpg",
-        "/animals/boar/2c23b537e2.jpg",
-        "/animals/boar/2fa8d16887.jpg",
-        "/animals/boar/4c9de46c24.jpg"
+        "animals/boar/0b2e935388.jpg",
+        "animals/boar/12c58c5e8c.jpg",
+        "animals/boar/17c67e42a7.jpg",
+        "animals/boar/183f0cd1c2.jpg",
+        "animals/boar/2005eb9945.jpg",
+        "animals/boar/2c23b537e2.jpg",
+        "animals/boar/2fa8d16887.jpg",
+        "animals/boar/4c9de46c24.jpg"
       ]
     },
     {
@@ -215,14 +215,14 @@
       },
       "description": "A beautiful insect with colorful, scale-covered wings that undergoes complete metamorphosis.",
       "images": [
-        "/animals/butterfly/11ccf63df4.jpg",
-        "/animals/butterfly/13bc40b533.jpg",
-        "/animals/butterfly/16a79172c2.jpg",
-        "/animals/butterfly/16b44ef03b.jpg",
-        "/animals/butterfly/1c382b3385.jpg",
-        "/animals/butterfly/27e70134f5.jpg",
-        "/animals/butterfly/2c514531e1.jpg",
-        "/animals/butterfly/3720ca97bc.jpg"
+        "animals/butterfly/11ccf63df4.jpg",
+        "animals/butterfly/13bc40b533.jpg",
+        "animals/butterfly/16a79172c2.jpg",
+        "animals/butterfly/16b44ef03b.jpg",
+        "animals/butterfly/1c382b3385.jpg",
+        "animals/butterfly/27e70134f5.jpg",
+        "animals/butterfly/2c514531e1.jpg",
+        "animals/butterfly/3720ca97bc.jpg"
       ]
     },
     {
@@ -230,7 +230,7 @@
       "name": "Cat",
       "scientificName": "Felis catus",
       "habitat": "Domestic/Urban",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "12-15 years",
@@ -240,14 +240,14 @@
       },
       "description": "A small, agile domesticated carnivore prized by humans for companionship and pest control.",
       "images": [
-        "/animals/cat/00357563a7.jpg",
-        "/animals/cat/0b54dde5f5.jpg",
-        "/animals/cat/0c3d04bcf5.jpg",
-        "/animals/cat/0d0d6d90d8.jpg",
-        "/animals/cat/11883c3dd8.jpg",
-        "/animals/cat/15b23c04b7.jpg",
-        "/animals/cat/2a40de8365.jpg",
-        "/animals/cat/2d7dc1ddb5.jpg"
+        "animals/cat/00357563a7.jpg",
+        "animals/cat/0b54dde5f5.jpg",
+        "animals/cat/0c3d04bcf5.jpg",
+        "animals/cat/0d0d6d90d8.jpg",
+        "animals/cat/11883c3dd8.jpg",
+        "animals/cat/15b23c04b7.jpg",
+        "animals/cat/2a40de8365.jpg",
+        "animals/cat/2d7dc1ddb5.jpg"
       ]
     },
     {
@@ -265,14 +265,14 @@
       },
       "description": "The worm-like larval stage of butterflies and moths, possessing an insatiable appetite for leaves.",
       "images": [
-        "/animals/caterpillar/01ee56d7db.jpg",
-        "/animals/caterpillar/05f54f4b9c.jpg",
-        "/animals/caterpillar/061f28e3af.jpg",
-        "/animals/caterpillar/0db5ad156e.jpg",
-        "/animals/caterpillar/0f651f75c0.jpg",
-        "/animals/caterpillar/10a38bcbed.jpg",
-        "/animals/caterpillar/1ac6e9e115.jpg",
-        "/animals/caterpillar/1c8669c4d6.jpg"
+        "animals/caterpillar/01ee56d7db.jpg",
+        "animals/caterpillar/05f54f4b9c.jpg",
+        "animals/caterpillar/061f28e3af.jpg",
+        "animals/caterpillar/0db5ad156e.jpg",
+        "animals/caterpillar/0f651f75c0.jpg",
+        "animals/caterpillar/10a38bcbed.jpg",
+        "animals/caterpillar/1ac6e9e115.jpg",
+        "animals/caterpillar/1c8669c4d6.jpg"
       ]
     },
     {
@@ -280,7 +280,7 @@
       "name": "Chimpanzee",
       "scientificName": "Pan troglodytes",
       "habitat": "Rainforest",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "35-40 years",
@@ -290,14 +290,14 @@
       },
       "description": "One of humanity's closest genetic relatives, highly intelligent and skilled in tool usage.",
       "images": [
-        "/animals/chimpanzee/054bb376ed.jpg",
-        "/animals/chimpanzee/05d9b6ee2b.jpg",
-        "/animals/chimpanzee/05ffb1984e.jpg",
-        "/animals/chimpanzee/08adb1cc98.jpg",
-        "/animals/chimpanzee/0b30d5c395.jpg",
-        "/animals/chimpanzee/12c23bf9b8.jpg",
-        "/animals/chimpanzee/12e3711a55.jpg",
-        "/animals/chimpanzee/1b1063f785.jpg"
+        "animals/chimpanzee/054bb376ed.jpg",
+        "animals/chimpanzee/05d9b6ee2b.jpg",
+        "animals/chimpanzee/05ffb1984e.jpg",
+        "animals/chimpanzee/08adb1cc98.jpg",
+        "animals/chimpanzee/0b30d5c395.jpg",
+        "animals/chimpanzee/12c23bf9b8.jpg",
+        "animals/chimpanzee/12e3711a55.jpg",
+        "animals/chimpanzee/1b1063f785.jpg"
       ]
     },
     {
@@ -305,7 +305,7 @@
       "name": "Cockroach",
       "scientificName": "Blattodea",
       "habitat": "Crevices/Dark places",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "1-2 years",
@@ -315,14 +315,14 @@
       },
       "description": "An incredibly resilient insect capable of surviving extreme conditions and environments.",
       "images": [
-        "/animals/cockroach/02f8f69ddc.jpg",
-        "/animals/cockroach/03ff929501.jpg",
-        "/animals/cockroach/04dcd8aa35.jpg",
-        "/animals/cockroach/0e0176b8d2.jpg",
-        "/animals/cockroach/218f3a3708.jpg",
-        "/animals/cockroach/2a90c93477.jpg",
-        "/animals/cockroach/34e755b97b.jpg",
-        "/animals/cockroach/36b664fbf6.jpg"
+        "animals/cockroach/02f8f69ddc.jpg",
+        "animals/cockroach/03ff929501.jpg",
+        "animals/cockroach/04dcd8aa35.jpg",
+        "animals/cockroach/0e0176b8d2.jpg",
+        "animals/cockroach/218f3a3708.jpg",
+        "animals/cockroach/2a90c93477.jpg",
+        "animals/cockroach/34e755b97b.jpg",
+        "animals/cockroach/36b664fbf6.jpg"
       ]
     },
     {
@@ -330,7 +330,7 @@
       "name": "Cow",
       "scientificName": "Bos taurus",
       "habitat": "Pasture/Farms",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "15-20 years",
@@ -340,14 +340,14 @@
       },
       "description": "A common domesticated herbivore raised globally for milk, meat, and agricultural labor.",
       "images": [
-        "/animals/cow/05768d38ec.jpg",
-        "/animals/cow/066fdf665a.jpg",
-        "/animals/cow/098c4da6d0.jpg",
-        "/animals/cow/0bc9244dbf.jpg",
-        "/animals/cow/129dd77ad8.jpg",
-        "/animals/cow/17a29c13f5.jpg",
-        "/animals/cow/1bdb6f9696.jpg",
-        "/animals/cow/24df3def2d.jpg"
+        "animals/cow/05768d38ec.jpg",
+        "animals/cow/066fdf665a.jpg",
+        "animals/cow/098c4da6d0.jpg",
+        "animals/cow/0bc9244dbf.jpg",
+        "animals/cow/129dd77ad8.jpg",
+        "animals/cow/17a29c13f5.jpg",
+        "animals/cow/1bdb6f9696.jpg",
+        "animals/cow/24df3def2d.jpg"
       ]
     },
     {
@@ -365,14 +365,14 @@
       },
       "description": "An adaptable North American canine known for its distinctive midnight howling and clever hunting.",
       "images": [
-        "/animals/coyote/004c3aef03.jpg",
-        "/animals/coyote/030b91da73.jpg",
-        "/animals/coyote/0ff564b311.jpg",
-        "/animals/coyote/140e11d384.jpg",
-        "/animals/coyote/162fb4d62e.jpg",
-        "/animals/coyote/185e168504.jpg",
-        "/animals/coyote/1ae720ad3b.jpg",
-        "/animals/coyote/232c360323.jpg"
+        "animals/coyote/004c3aef03.jpg",
+        "animals/coyote/030b91da73.jpg",
+        "animals/coyote/0ff564b311.jpg",
+        "animals/coyote/140e11d384.jpg",
+        "animals/coyote/162fb4d62e.jpg",
+        "animals/coyote/185e168504.jpg",
+        "animals/coyote/1ae720ad3b.jpg",
+        "animals/coyote/232c360323.jpg"
       ]
     },
     {
@@ -380,7 +380,7 @@
       "name": "Deer",
       "scientificName": "Cervidae",
       "habitat": "Forest/Meadow",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "10-12 years",
@@ -390,14 +390,14 @@
       },
       "description": "A graceful hoofed herbivore, the males of which grow and shed branched antlers annually.",
       "images": [
-        "/animals/deer/03ffd87c9f.jpg",
-        "/animals/deer/0a540b4342.jpg",
-        "/animals/deer/0c53b142f8.jpg",
-        "/animals/deer/0f25da5a86.jpg",
-        "/animals/deer/18eebf095c.jpg",
-        "/animals/deer/1bd462a4d8.jpg",
-        "/animals/deer/1d4e75e01e.jpg",
-        "/animals/deer/29e08e7fc1.jpg"
+        "animals/deer/03ffd87c9f.jpg",
+        "animals/deer/0a540b4342.jpg",
+        "animals/deer/0c53b142f8.jpg",
+        "animals/deer/0f25da5a86.jpg",
+        "animals/deer/18eebf095c.jpg",
+        "animals/deer/1bd462a4d8.jpg",
+        "animals/deer/1d4e75e01e.jpg",
+        "animals/deer/29e08e7fc1.jpg"
       ]
     },
     {
@@ -405,7 +405,7 @@
       "name": "Dog",
       "scientificName": "Canis lupus familiaris",
       "habitat": "Domestic/Urban",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "10-13 years",
@@ -415,14 +415,14 @@
       },
       "description": "The first domesticated animal, bred into hundreds of unique shapes and sizes for work and companionship.",
       "images": [
-        "/animals/dog/024a037366.jpg",
-        "/animals/dog/0a73823599.jpg",
-        "/animals/dog/0be3797d3d.jpg",
-        "/animals/dog/0d33157df8.jpg",
-        "/animals/dog/17f6784a37.jpg",
-        "/animals/dog/1d97824ca1.jpg",
-        "/animals/dog/26c7056eda.jpg",
-        "/animals/dog/2a74dd288c.jpg"
+        "animals/dog/024a037366.jpg",
+        "animals/dog/0a73823599.jpg",
+        "animals/dog/0be3797d3d.jpg",
+        "animals/dog/0d33157df8.jpg",
+        "animals/dog/17f6784a37.jpg",
+        "animals/dog/1d97824ca1.jpg",
+        "animals/dog/26c7056eda.jpg",
+        "animals/dog/2a74dd288c.jpg"
       ]
     },
     {
@@ -430,7 +430,7 @@
       "name": "Donkey",
       "scientificName": "Equus asinus",
       "habitat": "Arid/Farms",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "25-30 years",
@@ -440,14 +440,14 @@
       },
       "description": "A sturdy, patient pack animal related to horses, known for its long ears and distinct bray.",
       "images": [
-        "/animals/donkey/068da2429f.jpg",
-        "/animals/donkey/074ad5a1e6.jpg",
-        "/animals/donkey/0c752d09fa.jpg",
-        "/animals/donkey/102a41e311.jpg",
-        "/animals/donkey/12f051134a.jpg",
-        "/animals/donkey/1d0f37aa48.jpg",
-        "/animals/donkey/1f88532b75.jpg",
-        "/animals/donkey/20a162f65c.jpg"
+        "animals/donkey/068da2429f.jpg",
+        "animals/donkey/074ad5a1e6.jpg",
+        "animals/donkey/0c752d09fa.jpg",
+        "animals/donkey/102a41e311.jpg",
+        "animals/donkey/12f051134a.jpg",
+        "animals/donkey/1d0f37aa48.jpg",
+        "animals/donkey/1f88532b75.jpg",
+        "animals/donkey/20a162f65c.jpg"
       ]
     },
     {
@@ -465,14 +465,14 @@
       },
       "description": "An ancient aerial predator with large multifaceted eyes and four powerful wings that hover with agility.",
       "images": [
-        "/animals/dragonfly/06c5aa8150.jpg",
-        "/animals/dragonfly/1a7a5b1e56.jpg",
-        "/animals/dragonfly/1dd0ed50bf.jpg",
-        "/animals/dragonfly/213e8560ca.jpg",
-        "/animals/dragonfly/264d564f02.jpg",
-        "/animals/dragonfly/2e999d0909.jpg",
-        "/animals/dragonfly/318e520fcd.jpg",
-        "/animals/dragonfly/3ab0f6337c.jpg"
+        "animals/dragonfly/06c5aa8150.jpg",
+        "animals/dragonfly/1a7a5b1e56.jpg",
+        "animals/dragonfly/1dd0ed50bf.jpg",
+        "animals/dragonfly/213e8560ca.jpg",
+        "animals/dragonfly/264d564f02.jpg",
+        "animals/dragonfly/2e999d0909.jpg",
+        "animals/dragonfly/318e520fcd.jpg",
+        "animals/dragonfly/3ab0f6337c.jpg"
       ]
     },
     {
@@ -490,14 +490,14 @@
       },
       "description": "The largest living land animal, characterized by its long trunk, large ears, and ivory tusks.",
       "images": [
-        "/animals/elephant/0c57e72045.jpg",
-        "/animals/elephant/10ee8625c0.jpg",
-        "/animals/elephant/12b9c94601.jpg",
-        "/animals/elephant/16d29a1dc0.jpg",
-        "/animals/elephant/18d2849164.jpg",
-        "/animals/elephant/26d834d229.jpg",
-        "/animals/elephant/2c4dcd1d1e.jpg",
-        "/animals/elephant/2cb580feff.jpg"
+        "animals/elephant/0c57e72045.jpg",
+        "animals/elephant/10ee8625c0.jpg",
+        "animals/elephant/12b9c94601.jpg",
+        "animals/elephant/16d29a1dc0.jpg",
+        "animals/elephant/18d2849164.jpg",
+        "animals/elephant/26d834d229.jpg",
+        "animals/elephant/2c4dcd1d1e.jpg",
+        "animals/elephant/2cb580feff.jpg"
       ]
     },
     {
@@ -505,7 +505,7 @@
       "name": "Fly",
       "scientificName": "Diptera",
       "habitat": "Global",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "2-4 weeks",
@@ -515,14 +515,14 @@
       },
       "description": "A common insect with a single pair of flight wings and specialized sponge-like mouthparts.",
       "images": [
-        "/animals/fly/0107bf9fa0.jpg",
-        "/animals/fly/0bd467cf2a.jpg",
-        "/animals/fly/0e191b4289.jpg",
-        "/animals/fly/1fd995dadf.jpg",
-        "/animals/fly/27b366c663.jpg",
-        "/animals/fly/2b8834aa72.jpg",
-        "/animals/fly/2c16a76d7d.jpg",
-        "/animals/fly/31ff48d15e.jpg"
+        "animals/fly/0107bf9fa0.jpg",
+        "animals/fly/0bd467cf2a.jpg",
+        "animals/fly/0e191b4289.jpg",
+        "animals/fly/1fd995dadf.jpg",
+        "animals/fly/27b366c663.jpg",
+        "animals/fly/2b8834aa72.jpg",
+        "animals/fly/2c16a76d7d.jpg",
+        "animals/fly/31ff48d15e.jpg"
       ]
     },
     {
@@ -540,14 +540,14 @@
       },
       "description": "An adaptable, clever carnivore with a bushy white-tipped tail and a sharp snout.",
       "images": [
-        "/animals/fox/046e05e07b.jpg",
-        "/animals/fox/0ae0157e0c.jpg",
-        "/animals/fox/0f47a9d345.jpg",
-        "/animals/fox/19f72b1098.jpg",
-        "/animals/fox/1befbe965f.jpg",
-        "/animals/fox/21e8d36a33.jpg",
-        "/animals/fox/27eaa1ccdd.jpg",
-        "/animals/fox/2c515129f5.jpg"
+        "animals/fox/046e05e07b.jpg",
+        "animals/fox/0ae0157e0c.jpg",
+        "animals/fox/0f47a9d345.jpg",
+        "animals/fox/19f72b1098.jpg",
+        "animals/fox/1befbe965f.jpg",
+        "animals/fox/21e8d36a33.jpg",
+        "animals/fox/27eaa1ccdd.jpg",
+        "animals/fox/2c515129f5.jpg"
       ]
     },
     {
@@ -565,14 +565,14 @@
       },
       "description": "A hardy, sure-footed domesticated ruminant capable of climbing steep mountain faces.",
       "images": [
-        "/animals/goat/037bf28bc5.jpg",
-        "/animals/goat/20b5171d15.jpg",
-        "/animals/goat/22e9010257.jpg",
-        "/animals/goat/25f2fc1e5a.jpg",
-        "/animals/goat/2c68c0e54e.jpg",
-        "/animals/goat/2e7b3347db.jpg",
-        "/animals/goat/2fb560aa02.jpg",
-        "/animals/goat/33ba6bd581.jpg"
+        "animals/goat/037bf28bc5.jpg",
+        "animals/goat/20b5171d15.jpg",
+        "animals/goat/22e9010257.jpg",
+        "animals/goat/25f2fc1e5a.jpg",
+        "animals/goat/2c68c0e54e.jpg",
+        "animals/goat/2e7b3347db.jpg",
+        "animals/goat/2fb560aa02.jpg",
+        "animals/goat/33ba6bd581.jpg"
       ]
     },
     {
@@ -580,7 +580,7 @@
       "name": "Gorilla",
       "scientificName": "Gorilla",
       "habitat": "Cloud Forest",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "35-40 years",
@@ -590,14 +590,14 @@
       },
       "description": "A massive, powerful ape that lives in closely bonded family groups led by a silverback.",
       "images": [
-        "/animals/gorilla/010d3131e7.jpg",
-        "/animals/gorilla/01a857d803.jpg",
-        "/animals/gorilla/05fa60f6a6.jpg",
-        "/animals/gorilla/1ad709457f.jpg",
-        "/animals/gorilla/290fd87d45.jpg",
-        "/animals/gorilla/2d73838c27.jpg",
-        "/animals/gorilla/2d813d5626.jpg",
-        "/animals/gorilla/2f2014848f.jpg"
+        "animals/gorilla/010d3131e7.jpg",
+        "animals/gorilla/01a857d803.jpg",
+        "animals/gorilla/05fa60f6a6.jpg",
+        "animals/gorilla/1ad709457f.jpg",
+        "animals/gorilla/290fd87d45.jpg",
+        "animals/gorilla/2d73838c27.jpg",
+        "animals/gorilla/2d813d5626.jpg",
+        "animals/gorilla/2f2014848f.jpg"
       ]
     },
     {
@@ -605,7 +605,7 @@
       "name": "Grasshopper",
       "scientificName": "Caelifera",
       "habitat": "Grasslands/Fields",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "1 year",
@@ -615,14 +615,14 @@
       },
       "description": "A plant-eating insect equipped with powerful hind legs for jumping long distances.",
       "images": [
-        "/animals/grasshopper/021affcbac.jpg",
-        "/animals/grasshopper/0b9c21cb8f.jpg",
-        "/animals/grasshopper/12bead22e8.jpg",
-        "/animals/grasshopper/19a8f44101.jpg",
-        "/animals/grasshopper/1e4a0fa6d8.jpg",
-        "/animals/grasshopper/1fbdcee163.jpg",
-        "/animals/grasshopper/23e6d35a72.jpg",
-        "/animals/grasshopper/28c209281e.jpg"
+        "animals/grasshopper/021affcbac.jpg",
+        "animals/grasshopper/0b9c21cb8f.jpg",
+        "animals/grasshopper/12bead22e8.jpg",
+        "animals/grasshopper/19a8f44101.jpg",
+        "animals/grasshopper/1e4a0fa6d8.jpg",
+        "animals/grasshopper/1fbdcee163.jpg",
+        "animals/grasshopper/23e6d35a72.jpg",
+        "animals/grasshopper/28c209281e.jpg"
       ]
     },
     {
@@ -630,7 +630,7 @@
       "name": "Hamster",
       "scientificName": "Cricetinae",
       "habitat": "Grasslands/Domestic",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Endangered",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "2-3 years",
@@ -640,14 +640,14 @@
       },
       "description": "A small, nocturnal rodent featuring expandable cheek pouches used to carry food to its burrow.",
       "images": [
-        "/animals/hamster/01ab2d2ea6.jpg",
-        "/animals/hamster/045cbeda60.jpg",
-        "/animals/hamster/05c6ffa457.jpg",
-        "/animals/hamster/091db5a923.jpg",
-        "/animals/hamster/0e134e9f3d.jpg",
-        "/animals/hamster/15ead1d88a.jpg",
-        "/animals/hamster/165fd579e3.jpg",
-        "/animals/hamster/2da969fdfc.jpg"
+        "animals/hamster/01ab2d2ea6.jpg",
+        "animals/hamster/045cbeda60.jpg",
+        "animals/hamster/05c6ffa457.jpg",
+        "animals/hamster/091db5a923.jpg",
+        "animals/hamster/0e134e9f3d.jpg",
+        "animals/hamster/15ead1d88a.jpg",
+        "animals/hamster/165fd579e3.jpg",
+        "animals/hamster/2da969fdfc.jpg"
       ]
     },
     {
@@ -665,14 +665,14 @@
       },
       "description": "A swift, long-eared mammal related to rabbits, living in simple nests rather than burrows.",
       "images": [
-        "/animals/hare/056fd9df3e.jpg",
-        "/animals/hare/084a64267c.jpg",
-        "/animals/hare/11e44ac76f.jpg",
-        "/animals/hare/1ea309c164.jpg",
-        "/animals/hare/1f20ad9df2.jpg",
-        "/animals/hare/22e3965680.jpg",
-        "/animals/hare/2aa2a622ba.jpg",
-        "/animals/hare/2adad2224c.jpg"
+        "animals/hare/056fd9df3e.jpg",
+        "animals/hare/084a64267c.jpg",
+        "animals/hare/11e44ac76f.jpg",
+        "animals/hare/1ea309c164.jpg",
+        "animals/hare/1f20ad9df2.jpg",
+        "animals/hare/22e3965680.jpg",
+        "animals/hare/2aa2a622ba.jpg",
+        "animals/hare/2adad2224c.jpg"
       ]
     },
     {
@@ -680,7 +680,7 @@
       "name": "Hedgehog",
       "scientificName": "Erinaceinae",
       "habitat": "Woodlands/Gardens",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "3-6 years",
@@ -690,14 +690,14 @@
       },
       "description": "A small spiny mammal that rolls into a tight protective ball when threatened.",
       "images": [
-        "/animals/hedgehog/037fda7d6a.jpg",
-        "/animals/hedgehog/0b7a9869c6.jpg",
-        "/animals/hedgehog/13d5266d04.jpg",
-        "/animals/hedgehog/1fdc0e3d58.jpg",
-        "/animals/hedgehog/209aa111fd.jpg",
-        "/animals/hedgehog/27ba879f67.jpg",
-        "/animals/hedgehog/28a08b0b7a.jpg",
-        "/animals/hedgehog/2c963ee3aa.jpg"
+        "animals/hedgehog/037fda7d6a.jpg",
+        "animals/hedgehog/0b7a9869c6.jpg",
+        "animals/hedgehog/13d5266d04.jpg",
+        "animals/hedgehog/1fdc0e3d58.jpg",
+        "animals/hedgehog/209aa111fd.jpg",
+        "animals/hedgehog/27ba879f67.jpg",
+        "animals/hedgehog/28a08b0b7a.jpg",
+        "animals/hedgehog/2c963ee3aa.jpg"
       ]
     },
     {
@@ -705,7 +705,7 @@
       "name": "Hippopotamus",
       "scientificName": "Hippopotamus amphibius",
       "habitat": "Rivers/Swamps",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "40-50 years",
@@ -715,14 +715,14 @@
       },
       "description": "A massive semi-aquatic mammal, known for its territorial behavior and large canine tusks.",
       "images": [
-        "/animals/hippopotamus/004d703f95.jpg",
-        "/animals/hippopotamus/0dc527d87a.jpg",
-        "/animals/hippopotamus/249c4bdbcf.jpg",
-        "/animals/hippopotamus/28e667eed3.jpg",
-        "/animals/hippopotamus/2b75b8692d.jpg",
-        "/animals/hippopotamus/352ff7ddf5.jpg",
-        "/animals/hippopotamus/37b40c12fd.jpg",
-        "/animals/hippopotamus/3de89e10a3.jpg"
+        "animals/hippopotamus/004d703f95.jpg",
+        "animals/hippopotamus/0dc527d87a.jpg",
+        "animals/hippopotamus/249c4bdbcf.jpg",
+        "animals/hippopotamus/28e667eed3.jpg",
+        "animals/hippopotamus/2b75b8692d.jpg",
+        "animals/hippopotamus/352ff7ddf5.jpg",
+        "animals/hippopotamus/37b40c12fd.jpg",
+        "animals/hippopotamus/3de89e10a3.jpg"
       ]
     },
     {
@@ -730,7 +730,7 @@
       "name": "Horse",
       "scientificName": "Equus caballus",
       "habitat": "Grasslands/Farms",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "25-30 years",
@@ -740,14 +740,14 @@
       },
       "description": "An elegant, powerful herd mammal domesticated by humans for transport and agriculture.",
       "images": [
-        "/animals/horse/0428fff264.jpg",
-        "/animals/horse/043c1a0785.jpg",
-        "/animals/horse/08c260b0b4.jpg",
-        "/animals/horse/0b4957c78a.jpg",
-        "/animals/horse/0cb5f18d0b.jpg",
-        "/animals/horse/0f674003cf.jpg",
-        "/animals/horse/12ff1822cc.jpg",
-        "/animals/horse/169c1bbbea.jpg"
+        "animals/horse/0428fff264.jpg",
+        "animals/horse/043c1a0785.jpg",
+        "animals/horse/08c260b0b4.jpg",
+        "animals/horse/0b4957c78a.jpg",
+        "animals/horse/0cb5f18d0b.jpg",
+        "animals/horse/0f674003cf.jpg",
+        "animals/horse/12ff1822cc.jpg",
+        "animals/horse/169c1bbbea.jpg"
       ]
     },
     {
@@ -755,7 +755,7 @@
       "name": "Hyena",
       "scientificName": "Hyaenidae",
       "habitat": "Savannah",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "12-15 years",
@@ -765,14 +765,14 @@
       },
       "description": "A scavenger-predator with extremely strong jaws and a distinctive cackling laugh vocalization.",
       "images": [
-        "/animals/hyena/0041c9ff2c.jpg",
-        "/animals/hyena/0c6221bc77.jpg",
-        "/animals/hyena/0d3a02b824.jpg",
-        "/animals/hyena/0dd96e5d44.jpg",
-        "/animals/hyena/0fa6e037e4.jpg",
-        "/animals/hyena/13fae1e808.jpg",
-        "/animals/hyena/18f616215c.jpg",
-        "/animals/hyena/1a24a5baea.jpg"
+        "animals/hyena/0041c9ff2c.jpg",
+        "animals/hyena/0c6221bc77.jpg",
+        "animals/hyena/0d3a02b824.jpg",
+        "animals/hyena/0dd96e5d44.jpg",
+        "animals/hyena/0fa6e037e4.jpg",
+        "animals/hyena/13fae1e808.jpg",
+        "animals/hyena/18f616215c.jpg",
+        "animals/hyena/1a24a5baea.jpg"
       ]
     },
     {
@@ -790,14 +790,14 @@
       },
       "description": "A large hopping marsupial that raises its young in a front belly pouch.",
       "images": [
-        "/animals/kangaroo/0587be3d72.jpg",
-        "/animals/kangaroo/09d0fdaadd.jpg",
-        "/animals/kangaroo/152d621919.jpg",
-        "/animals/kangaroo/16b501e949.jpg",
-        "/animals/kangaroo/1770d78476.jpg",
-        "/animals/kangaroo/1a14d17c20.jpg",
-        "/animals/kangaroo/1c756e14f2.jpg",
-        "/animals/kangaroo/1e9af10c92.jpg"
+        "animals/kangaroo/0587be3d72.jpg",
+        "animals/kangaroo/09d0fdaadd.jpg",
+        "animals/kangaroo/152d621919.jpg",
+        "animals/kangaroo/16b501e949.jpg",
+        "animals/kangaroo/1770d78476.jpg",
+        "animals/kangaroo/1a14d17c20.jpg",
+        "animals/kangaroo/1c756e14f2.jpg",
+        "animals/kangaroo/1e9af10c92.jpg"
       ]
     },
     {
@@ -805,7 +805,7 @@
       "name": "Koala",
       "scientificName": "Phascolarctos cinereus",
       "habitat": "Eucalyptus Forest",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "13-18 years",
@@ -815,14 +815,14 @@
       },
       "description": "An arboreal Australian marsupial that feeds almost exclusively on eucalyptus leaves.",
       "images": [
-        "/animals/koala/063ba52395.jpg",
-        "/animals/koala/1a660142ae.jpg",
-        "/animals/koala/1f3883417c.jpg",
-        "/animals/koala/1fdc95801b.jpg",
-        "/animals/koala/2aae24b29d.jpg",
-        "/animals/koala/30fa42ded0.jpg",
-        "/animals/koala/33efc25c32.jpg",
-        "/animals/koala/34d06d0ded.jpg"
+        "animals/koala/063ba52395.jpg",
+        "animals/koala/1a660142ae.jpg",
+        "animals/koala/1f3883417c.jpg",
+        "animals/koala/1fdc95801b.jpg",
+        "animals/koala/2aae24b29d.jpg",
+        "animals/koala/30fa42ded0.jpg",
+        "animals/koala/33efc25c32.jpg",
+        "animals/koala/34d06d0ded.jpg"
       ]
     },
     {
@@ -830,7 +830,7 @@
       "name": "Ladybug",
       "scientificName": "Coccinellidae",
       "habitat": "Gardens/Fields",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "1 year",
@@ -840,14 +840,14 @@
       },
       "description": "A small dome-shaped beetle, red with black spots, prized by gardeners for eating pests.",
       "images": [
-        "/animals/ladybugs/0056a7d78a.jpg",
-        "/animals/ladybugs/0b28e0a57b.jpg",
-        "/animals/ladybugs/1d03119184.jpg",
-        "/animals/ladybugs/1d70d6ca12.jpg",
-        "/animals/ladybugs/2a1ab3e573.jpg",
-        "/animals/ladybugs/2b920c5e7a.jpg",
-        "/animals/ladybugs/2df49a8466.jpg",
-        "/animals/ladybugs/2e4e159193.jpg"
+        "animals/ladybugs/0056a7d78a.jpg",
+        "animals/ladybugs/0b28e0a57b.jpg",
+        "animals/ladybugs/1d03119184.jpg",
+        "animals/ladybugs/1d70d6ca12.jpg",
+        "animals/ladybugs/2a1ab3e573.jpg",
+        "animals/ladybugs/2b920c5e7a.jpg",
+        "animals/ladybugs/2df49a8466.jpg",
+        "animals/ladybugs/2e4e159193.jpg"
       ]
     },
     {
@@ -855,7 +855,7 @@
       "name": "Leopard",
       "scientificName": "Panthera pardus",
       "habitat": "Forests/Savannah",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "12-17 years",
@@ -865,14 +865,14 @@
       },
       "description": "A solitary, athletic wild cat that drags its heavy prey high up into tree branches.",
       "images": [
-        "/animals/leopard/033c8c8787.jpg",
-        "/animals/leopard/0dcd51602e.jpg",
-        "/animals/leopard/0eb956c38c.jpg",
-        "/animals/leopard/16c517b41f.jpg",
-        "/animals/leopard/1aaf570d5b.jpg",
-        "/animals/leopard/1d288afed5.jpg",
-        "/animals/leopard/1f0417beb2.jpg",
-        "/animals/leopard/20af717417.jpg"
+        "animals/leopard/033c8c8787.jpg",
+        "animals/leopard/0dcd51602e.jpg",
+        "animals/leopard/0eb956c38c.jpg",
+        "animals/leopard/16c517b41f.jpg",
+        "animals/leopard/1aaf570d5b.jpg",
+        "animals/leopard/1d288afed5.jpg",
+        "animals/leopard/1f0417beb2.jpg",
+        "animals/leopard/20af717417.jpg"
       ]
     },
     {
@@ -890,14 +890,14 @@
       },
       "description": "A majestic social cat known for the male's dark mane and coordinated pride hunting.",
       "images": [
-        "/animals/lion/05d42c9bd8.jpg",
-        "/animals/lion/09b23c3373.jpg",
-        "/animals/lion/191aede32f.jpg",
-        "/animals/lion/1e1b33f87e.jpg",
-        "/animals/lion/22aa65105f.jpg",
-        "/animals/lion/2d670c088a.jpg",
-        "/animals/lion/2fac13108c.jpg",
-        "/animals/lion/30ec7a1f53.jpg"
+        "animals/lion/05d42c9bd8.jpg",
+        "animals/lion/09b23c3373.jpg",
+        "animals/lion/191aede32f.jpg",
+        "animals/lion/1e1b33f87e.jpg",
+        "animals/lion/22aa65105f.jpg",
+        "animals/lion/2d670c088a.jpg",
+        "animals/lion/2fac13108c.jpg",
+        "animals/lion/30ec7a1f53.jpg"
       ]
     },
     {
@@ -905,7 +905,7 @@
       "name": "Lizard",
       "scientificName": "Lacertilia",
       "habitat": "Forests/Deserts",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "5-10 years",
@@ -915,14 +915,14 @@
       },
       "description": "A diverse reptile with a scaly skin, four legs, and the ability to shed its tail to escape predators.",
       "images": [
-        "/animals/lizard/000d3a9260.jpg",
-        "/animals/lizard/01d7ea45ff.jpg",
-        "/animals/lizard/027a135d0c.jpg",
-        "/animals/lizard/071dbd8756.jpg",
-        "/animals/lizard/0872c2695b.jpg",
-        "/animals/lizard/1e48bca8f5.jpg",
-        "/animals/lizard/1f3da493ac.jpg",
-        "/animals/lizard/22e886e1f5.jpg"
+        "animals/lizard/000d3a9260.jpg",
+        "animals/lizard/01d7ea45ff.jpg",
+        "animals/lizard/027a135d0c.jpg",
+        "animals/lizard/071dbd8756.jpg",
+        "animals/lizard/0872c2695b.jpg",
+        "animals/lizard/1e48bca8f5.jpg",
+        "animals/lizard/1f3da493ac.jpg",
+        "animals/lizard/22e886e1f5.jpg"
       ]
     },
     {
@@ -930,7 +930,7 @@
       "name": "Mosquito",
       "scientificName": "Culicidae",
       "habitat": "Swamps/Global",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "2-4 weeks",
@@ -940,14 +940,14 @@
       },
       "description": "A small fly whose females pierce skin to feed on blood to develop their eggs.",
       "images": [
-        "/animals/mosquito/00196e8fac.jpg",
-        "/animals/mosquito/04b313d71b.jpg",
-        "/animals/mosquito/0ce2e70635.jpg",
-        "/animals/mosquito/0eb1bc06ac.jpg",
-        "/animals/mosquito/0ecfe10bdc.jpg",
-        "/animals/mosquito/135f5680b3.jpg",
-        "/animals/mosquito/1b0833f1aa.jpg",
-        "/animals/mosquito/2a4b76d55e.jpg"
+        "animals/mosquito/00196e8fac.jpg",
+        "animals/mosquito/04b313d71b.jpg",
+        "animals/mosquito/0ce2e70635.jpg",
+        "animals/mosquito/0eb1bc06ac.jpg",
+        "animals/mosquito/0ecfe10bdc.jpg",
+        "animals/mosquito/135f5680b3.jpg",
+        "animals/mosquito/1b0833f1aa.jpg",
+        "animals/mosquito/2a4b76d55e.jpg"
       ]
     },
     {
@@ -955,7 +955,7 @@
       "name": "Moth",
       "scientificName": "Lepidoptera",
       "habitat": "Woodlands/Global",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "1-2 months",
@@ -965,14 +965,14 @@
       },
       "description": "A nocturnal cousin of the butterfly, featuring feathered antennae and muted wing camouflages.",
       "images": [
-        "/animals/moth/0bdd6363ad.jpg",
-        "/animals/moth/0cdf08a180.jpg",
-        "/animals/moth/10b5f05e16.jpg",
-        "/animals/moth/148c987a2a.jpg",
-        "/animals/moth/1d97de0bb2.jpg",
-        "/animals/moth/214e0ce6ff.jpg",
-        "/animals/moth/27c5e4bc7a.jpg",
-        "/animals/moth/2d3ba90a17.jpg"
+        "animals/moth/0bdd6363ad.jpg",
+        "animals/moth/0cdf08a180.jpg",
+        "animals/moth/10b5f05e16.jpg",
+        "animals/moth/148c987a2a.jpg",
+        "animals/moth/1d97de0bb2.jpg",
+        "animals/moth/214e0ce6ff.jpg",
+        "animals/moth/27c5e4bc7a.jpg",
+        "animals/moth/2d3ba90a17.jpg"
       ]
     },
     {
@@ -990,14 +990,14 @@
       },
       "description": "A small, adaptable rodent with large rounded ears and a long hairless tail.",
       "images": [
-        "/animals/mouse/1b252b4e31.jpg",
-        "/animals/mouse/1fd8c3f6ad.jpg",
-        "/animals/mouse/23e24f836e.jpg",
-        "/animals/mouse/244482f870.jpg",
-        "/animals/mouse/273f8752db.jpg",
-        "/animals/mouse/30ed25e0f8.jpg",
-        "/animals/mouse/40095ffd13.jpg",
-        "/animals/mouse/50302db692.jpg"
+        "animals/mouse/1b252b4e31.jpg",
+        "animals/mouse/1fd8c3f6ad.jpg",
+        "animals/mouse/23e24f836e.jpg",
+        "animals/mouse/244482f870.jpg",
+        "animals/mouse/273f8752db.jpg",
+        "animals/mouse/30ed25e0f8.jpg",
+        "animals/mouse/40095ffd13.jpg",
+        "animals/mouse/50302db692.jpg"
       ]
     },
     {
@@ -1015,14 +1015,14 @@
       },
       "description": "A solitary forest animal related to giraffes, featuring zebra-like stripes on its legs.",
       "images": [
-        "/animals/okapi/0330af6271.jpg",
-        "/animals/okapi/0a1a5a2140.jpg",
-        "/animals/okapi/0f3eb236be.jpg",
-        "/animals/okapi/112a4bbe3b.jpg",
-        "/animals/okapi/126ee09bec.jpg",
-        "/animals/okapi/133f6dd868.jpg",
-        "/animals/okapi/154ea8db0b.jpg",
-        "/animals/okapi/175b1056c8.jpg"
+        "animals/okapi/0330af6271.jpg",
+        "animals/okapi/0a1a5a2140.jpg",
+        "animals/okapi/0f3eb236be.jpg",
+        "animals/okapi/112a4bbe3b.jpg",
+        "animals/okapi/126ee09bec.jpg",
+        "animals/okapi/133f6dd868.jpg",
+        "animals/okapi/154ea8db0b.jpg",
+        "animals/okapi/175b1056c8.jpg"
       ]
     },
     {
@@ -1030,7 +1030,7 @@
       "name": "Orangutan",
       "scientificName": "Pongo",
       "habitat": "Rainforest Canopy",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "35-45 years",
@@ -1040,14 +1040,14 @@
       },
       "description": "A red-haired arboreal ape known for its long arms and intelligent nest-building habits.",
       "images": [
-        "/animals/orangutan/012c24438c.jpg",
-        "/animals/orangutan/031b7abfe8.jpg",
-        "/animals/orangutan/0dbf839301.jpg",
-        "/animals/orangutan/111ab953a6.jpg",
-        "/animals/orangutan/14b8f6e765.jpg",
-        "/animals/orangutan/186ca33850.jpg",
-        "/animals/orangutan/1bd8f60c16.jpg",
-        "/animals/orangutan/1cd5f3f7b6.jpg"
+        "animals/orangutan/012c24438c.jpg",
+        "animals/orangutan/031b7abfe8.jpg",
+        "animals/orangutan/0dbf839301.jpg",
+        "animals/orangutan/111ab953a6.jpg",
+        "animals/orangutan/14b8f6e765.jpg",
+        "animals/orangutan/186ca33850.jpg",
+        "animals/orangutan/1bd8f60c16.jpg",
+        "animals/orangutan/1cd5f3f7b6.jpg"
       ]
     },
     {
@@ -1055,7 +1055,7 @@
       "name": "Ox",
       "scientificName": "Bos taurus",
       "habitat": "Farms/Fields",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "15-20 years",
@@ -1065,14 +1065,14 @@
       },
       "description": "A powerful, castrated domestic bull trained as a draft animal for pulling plows.",
       "images": [
-        "/animals/ox/05cadddfcd.jpg",
-        "/animals/ox/0e1892d5e1.jpg",
-        "/animals/ox/16f2a66909.jpg",
-        "/animals/ox/184d86864d.jpg",
-        "/animals/ox/2e0391394d.jpg",
-        "/animals/ox/3334c39f93.jpg",
-        "/animals/ox/350cc7194d.jpg",
-        "/animals/ox/3934e8aff2.jpg"
+        "animals/ox/05cadddfcd.jpg",
+        "animals/ox/0e1892d5e1.jpg",
+        "animals/ox/16f2a66909.jpg",
+        "animals/ox/184d86864d.jpg",
+        "animals/ox/2e0391394d.jpg",
+        "animals/ox/3334c39f93.jpg",
+        "animals/ox/350cc7194d.jpg",
+        "animals/ox/3934e8aff2.jpg"
       ]
     },
     {
@@ -1080,7 +1080,7 @@
       "name": "Panda",
       "scientificName": "Ailuropoda melanoleuca",
       "habitat": "Bamboo Forest",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "15-20 years",
@@ -1090,14 +1090,14 @@
       },
       "description": "A beloved black-and-white bear that feeds almost exclusively on bamboo stalks.",
       "images": [
-        "/animals/panda/093ad8d3cb.jpg",
-        "/animals/panda/0d68b6adcb.jpg",
-        "/animals/panda/2d9f6a7e8d.jpg",
-        "/animals/panda/2e5ecf80c3.jpg",
-        "/animals/panda/2f2f20878c.jpg",
-        "/animals/panda/39cc3462a0.jpg",
-        "/animals/panda/4a2ced58ed.jpg",
-        "/animals/panda/4b30799528.jpg"
+        "animals/panda/093ad8d3cb.jpg",
+        "animals/panda/0d68b6adcb.jpg",
+        "animals/panda/2d9f6a7e8d.jpg",
+        "animals/panda/2e5ecf80c3.jpg",
+        "animals/panda/2f2f20878c.jpg",
+        "animals/panda/39cc3462a0.jpg",
+        "animals/panda/4a2ced58ed.jpg",
+        "animals/panda/4b30799528.jpg"
       ]
     },
     {
@@ -1105,7 +1105,7 @@
       "name": "Pig",
       "scientificName": "Sus domesticus",
       "habitat": "Farms/Fields",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "15-20 years",
@@ -1115,14 +1115,14 @@
       },
       "description": "An extremely intelligent domesticated mammal with an excellent sense of smell.",
       "images": [
-        "/animals/pig/00ddea87ad.jpg",
-        "/animals/pig/02f17bb982.jpg",
-        "/animals/pig/044cf9180e.jpg",
-        "/animals/pig/04b919f2be.jpg",
-        "/animals/pig/0ce8af160c.jpg",
-        "/animals/pig/18cfa343b2.jpg",
-        "/animals/pig/1cb59d326e.jpg",
-        "/animals/pig/28c197a6ad.jpg"
+        "animals/pig/00ddea87ad.jpg",
+        "animals/pig/02f17bb982.jpg",
+        "animals/pig/044cf9180e.jpg",
+        "animals/pig/04b919f2be.jpg",
+        "animals/pig/0ce8af160c.jpg",
+        "animals/pig/18cfa343b2.jpg",
+        "animals/pig/1cb59d326e.jpg",
+        "animals/pig/28c197a6ad.jpg"
       ]
     },
     {
@@ -1130,7 +1130,7 @@
       "name": "Porcupine",
       "scientificName": "Erethizontidae",
       "habitat": "Forests/Deserts",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "15-18 years",
@@ -1140,14 +1140,14 @@
       },
       "description": "A slow-moving rodent covered in thousands of sharp, defensive barbed quills.",
       "images": [
-        "/animals/porcupine/06ba7a1659.jpg",
-        "/animals/porcupine/08bcc18e9e.jpg",
-        "/animals/porcupine/0e0854d5fa.jpg",
-        "/animals/porcupine/14c3d3de9b.jpg",
-        "/animals/porcupine/1c6a5e347e.jpg",
-        "/animals/porcupine/1d7f7eddfc.jpg",
-        "/animals/porcupine/21bd52005e.jpg",
-        "/animals/porcupine/23fe18fc3f.jpg"
+        "animals/porcupine/06ba7a1659.jpg",
+        "animals/porcupine/08bcc18e9e.jpg",
+        "animals/porcupine/0e0854d5fa.jpg",
+        "animals/porcupine/14c3d3de9b.jpg",
+        "animals/porcupine/1c6a5e347e.jpg",
+        "animals/porcupine/1d7f7eddfc.jpg",
+        "animals/porcupine/21bd52005e.jpg",
+        "animals/porcupine/23fe18fc3f.jpg"
       ]
     },
     {
@@ -1165,14 +1165,14 @@
       },
       "description": "A nocturnal marsupial native to Australia, featuring a long prehensile tail.",
       "images": [
-        "/animals/possum/1a02b769b6.jpg",
-        "/animals/possum/1af8f724d2.jpg",
-        "/animals/possum/1c4234402e.jpg",
-        "/animals/possum/1dd6d724c7.jpg",
-        "/animals/possum/1f47bb4274.jpg",
-        "/animals/possum/246abe489a.jpg",
-        "/animals/possum/25cb7db1c5.jpg",
-        "/animals/possum/277b74be73.jpg"
+        "animals/possum/1a02b769b6.jpg",
+        "animals/possum/1af8f724d2.jpg",
+        "animals/possum/1c4234402e.jpg",
+        "animals/possum/1dd6d724c7.jpg",
+        "animals/possum/1f47bb4274.jpg",
+        "animals/possum/246abe489a.jpg",
+        "animals/possum/25cb7db1c5.jpg",
+        "animals/possum/277b74be73.jpg"
       ]
     },
     {
@@ -1190,14 +1190,14 @@
       },
       "description": "A clever mammal with a black mask around its eyes and a ringed tail, famous for washing food.",
       "images": [
-        "/animals/raccoon/02d34bd83b.jpg",
-        "/animals/raccoon/078a9e5ee4.jpg",
-        "/animals/raccoon/1bec03e00c.jpg",
-        "/animals/raccoon/1e8e6e0ce5.jpg",
-        "/animals/raccoon/1fd6478368.jpg",
-        "/animals/raccoon/22fa39d032.jpg",
-        "/animals/raccoon/28e36cc291.jpg",
-        "/animals/raccoon/2e7455f6f7.jpg"
+        "animals/raccoon/02d34bd83b.jpg",
+        "animals/raccoon/078a9e5ee4.jpg",
+        "animals/raccoon/1bec03e00c.jpg",
+        "animals/raccoon/1e8e6e0ce5.jpg",
+        "animals/raccoon/1fd6478368.jpg",
+        "animals/raccoon/22fa39d032.jpg",
+        "animals/raccoon/28e36cc291.jpg",
+        "animals/raccoon/2e7455f6f7.jpg"
       ]
     },
     {
@@ -1205,7 +1205,7 @@
       "name": "Rat",
       "scientificName": "Rattus",
       "habitat": "Fields/Cities",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "2-3 years",
@@ -1215,14 +1215,14 @@
       },
       "description": "An extremely adaptable, successful rodent with a long hairless tail and high intelligence.",
       "images": [
-        "/animals/rat/06b52e60de.jpg",
-        "/animals/rat/0a00f7a061.jpg",
-        "/animals/rat/0cc98fee57.jpg",
-        "/animals/rat/0d21db0c78.jpg",
-        "/animals/rat/120f65f860.jpg",
-        "/animals/rat/1a7e08e47c.jpg",
-        "/animals/rat/33eb3e6475.jpg",
-        "/animals/rat/356f82abc7.jpg"
+        "animals/rat/06b52e60de.jpg",
+        "animals/rat/0a00f7a061.jpg",
+        "animals/rat/0cc98fee57.jpg",
+        "animals/rat/0d21db0c78.jpg",
+        "animals/rat/120f65f860.jpg",
+        "animals/rat/1a7e08e47c.jpg",
+        "animals/rat/33eb3e6475.jpg",
+        "animals/rat/356f82abc7.jpg"
       ]
     },
     {
@@ -1230,7 +1230,7 @@
       "name": "Reindeer",
       "scientificName": "Rangifer tarandus",
       "habitat": "Tundra/Taiga",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "15-18 years",
@@ -1240,14 +1240,14 @@
       },
       "description": "An arctic deer species, where both males and females grow antlers, adapted to freezing cold.",
       "images": [
-        "/animals/reindeer/032c58d82d.jpg",
-        "/animals/reindeer/0c511c97cb.jpg",
-        "/animals/reindeer/13b050ecce.jpg",
-        "/animals/reindeer/149b8d0f2c.jpg",
-        "/animals/reindeer/17e19e385a.jpg",
-        "/animals/reindeer/1ea50bb446.jpg",
-        "/animals/reindeer/22fcc02a08.jpg",
-        "/animals/reindeer/28c4985cf4.jpg"
+        "animals/reindeer/032c58d82d.jpg",
+        "animals/reindeer/0c511c97cb.jpg",
+        "animals/reindeer/13b050ecce.jpg",
+        "animals/reindeer/149b8d0f2c.jpg",
+        "animals/reindeer/17e19e385a.jpg",
+        "animals/reindeer/1ea50bb446.jpg",
+        "animals/reindeer/22fcc02a08.jpg",
+        "animals/reindeer/28c4985cf4.jpg"
       ]
     },
     {
@@ -1255,7 +1255,7 @@
       "name": "Rhinoceros",
       "scientificName": "Rhinocerotidae",
       "habitat": "Savannah/Forest",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "35-45 years",
@@ -1265,14 +1265,14 @@
       },
       "description": "A thick-skinned giant herbivore with one or two horns composed of compacted keratin.",
       "images": [
-        "/animals/rhinoceros/11e3f3ad87.jpg",
-        "/animals/rhinoceros/13fcd75890.jpg",
-        "/animals/rhinoceros/16c444f4fa.jpg",
-        "/animals/rhinoceros/20c252c035.jpg",
-        "/animals/rhinoceros/210bab5f89.jpg",
-        "/animals/rhinoceros/24b7cfe62e.jpg",
-        "/animals/rhinoceros/299e0b243a.jpg",
-        "/animals/rhinoceros/29e9be9668.jpg"
+        "animals/rhinoceros/11e3f3ad87.jpg",
+        "animals/rhinoceros/13fcd75890.jpg",
+        "animals/rhinoceros/16c444f4fa.jpg",
+        "animals/rhinoceros/20c252c035.jpg",
+        "animals/rhinoceros/210bab5f89.jpg",
+        "animals/rhinoceros/24b7cfe62e.jpg",
+        "animals/rhinoceros/299e0b243a.jpg",
+        "animals/rhinoceros/29e9be9668.jpg"
       ]
     },
     {
@@ -1290,14 +1290,14 @@
       },
       "description": "A domesticated woolly ruminant raised globally for meat, milk, and soft textile fibers.",
       "images": [
-        "/animals/sheep/00bf97cec1.jpg",
-        "/animals/sheep/062cb07b82.jpg",
-        "/animals/sheep/08ae5e263f.jpg",
-        "/animals/sheep/0aad5539de.jpg",
-        "/animals/sheep/0daddd2f28.jpg",
-        "/animals/sheep/12c065426e.jpg",
-        "/animals/sheep/12f671bdad.jpg",
-        "/animals/sheep/1e55e3f2de.jpg"
+        "animals/sheep/00bf97cec1.jpg",
+        "animals/sheep/062cb07b82.jpg",
+        "animals/sheep/08ae5e263f.jpg",
+        "animals/sheep/0aad5539de.jpg",
+        "animals/sheep/0daddd2f28.jpg",
+        "animals/sheep/12c065426e.jpg",
+        "animals/sheep/12f671bdad.jpg",
+        "animals/sheep/1e55e3f2de.jpg"
       ]
     },
     {
@@ -1305,7 +1305,7 @@
       "name": "Snake",
       "scientificName": "Serpentes",
       "habitat": "Forests/Deserts",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -1315,14 +1315,14 @@
       },
       "description": "A legless, scaly reptile that swallows prey whole and senses surroundings using a forked tongue.",
       "images": [
-        "/animals/snake/0adeed6415.jpg",
-        "/animals/snake/1088ac3e42.jpg",
-        "/animals/snake/1c55460bfc.jpg",
-        "/animals/snake/276e7897fa.jpg",
-        "/animals/snake/27c00574e5.jpg",
-        "/animals/snake/29a9a8dd3e.jpg",
-        "/animals/snake/2bfed11a46.jpg",
-        "/animals/snake/2c76f7d316.jpg"
+        "animals/snake/0adeed6415.jpg",
+        "animals/snake/1088ac3e42.jpg",
+        "animals/snake/1c55460bfc.jpg",
+        "animals/snake/276e7897fa.jpg",
+        "animals/snake/27c00574e5.jpg",
+        "animals/snake/29a9a8dd3e.jpg",
+        "animals/snake/2bfed11a46.jpg",
+        "animals/snake/2c76f7d316.jpg"
       ]
     },
     {
@@ -1330,7 +1330,7 @@
       "name": "Squirrel",
       "scientificName": "Sciuridae",
       "habitat": "Woodlands/Parks",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "5-8 years",
@@ -1340,14 +1340,14 @@
       },
       "description": "A lively tree-dwelling rodent with a bushy tail, known for caching nuts for winter.",
       "images": [
-        "/animals/squirrel/0c02dadd62.jpg",
-        "/animals/squirrel/0f6ba7d62b.jpg",
-        "/animals/squirrel/0f85e2b66b.jpg",
-        "/animals/squirrel/1aeb42b709.jpg",
-        "/animals/squirrel/1ea9123d1c.jpg",
-        "/animals/squirrel/1fceda81a2.jpg",
-        "/animals/squirrel/22a6d697ed.jpg",
-        "/animals/squirrel/2a2c32906f.jpg"
+        "animals/squirrel/0c02dadd62.jpg",
+        "animals/squirrel/0f6ba7d62b.jpg",
+        "animals/squirrel/0f85e2b66b.jpg",
+        "animals/squirrel/1aeb42b709.jpg",
+        "animals/squirrel/1ea9123d1c.jpg",
+        "animals/squirrel/1fceda81a2.jpg",
+        "animals/squirrel/22a6d697ed.jpg",
+        "animals/squirrel/2a2c32906f.jpg"
       ]
     },
     {
@@ -1355,7 +1355,7 @@
       "name": "Tiger",
       "scientificName": "Panthera tigris",
       "habitat": "Rainforest",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Endangered",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -1365,14 +1365,14 @@
       },
       "description": "The largest of all wild cats, recognized by its bold vertical dark stripes on orange fur.",
       "images": [
-        "/animals/tiger/048cbe616d.jpg",
-        "/animals/tiger/073cf8732d.jpg",
-        "/animals/tiger/0aadbd5936.jpg",
-        "/animals/tiger/0ce688e813.jpg",
-        "/animals/tiger/1e821d2ec6.jpg",
-        "/animals/tiger/2a160681b2.jpg",
-        "/animals/tiger/2cc98f8b66.jpg",
-        "/animals/tiger/305f17f842.jpg"
+        "animals/tiger/048cbe616d.jpg",
+        "animals/tiger/073cf8732d.jpg",
+        "animals/tiger/0aadbd5936.jpg",
+        "animals/tiger/0ce688e813.jpg",
+        "animals/tiger/1e821d2ec6.jpg",
+        "animals/tiger/2a160681b2.jpg",
+        "animals/tiger/2cc98f8b66.jpg",
+        "animals/tiger/305f17f842.jpg"
       ]
     },
     {
@@ -1390,14 +1390,14 @@
       },
       "description": "A pack-hunting wild canine with complex social hierarchies and critical ecosystem roles.",
       "images": [
-        "/animals/wolf/0387df115d.jpg",
-        "/animals/wolf/05fa57874a.jpg",
-        "/animals/wolf/07c803c409.jpg",
-        "/animals/wolf/0db670ecbe.jpg",
-        "/animals/wolf/0e238d32f4.jpg",
-        "/animals/wolf/0f43a8237e.jpg",
-        "/animals/wolf/11fcc2d565.jpg",
-        "/animals/wolf/15eebd79cb.jpg"
+        "animals/wolf/0387df115d.jpg",
+        "animals/wolf/05fa57874a.jpg",
+        "animals/wolf/07c803c409.jpg",
+        "animals/wolf/0db670ecbe.jpg",
+        "animals/wolf/0e238d32f4.jpg",
+        "animals/wolf/0f43a8237e.jpg",
+        "animals/wolf/11fcc2d565.jpg",
+        "animals/wolf/15eebd79cb.jpg"
       ]
     },
     {
@@ -1405,7 +1405,7 @@
       "name": "Wombat",
       "scientificName": "Vombatidae",
       "habitat": "Australian Forests",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -1415,14 +1415,14 @@
       },
       "description": "A burrowing Australian marsupial known for its cube-shaped droppings and tough rear shield.",
       "images": [
-        "/animals/wombat/037e83aa61.jpg",
-        "/animals/wombat/0804c61c4d.jpg",
-        "/animals/wombat/0a72cfbf1f.jpg",
-        "/animals/wombat/0fca1dab52.jpg",
-        "/animals/wombat/155fc81666.jpg",
-        "/animals/wombat/1c707ab40d.jpg",
-        "/animals/wombat/1f64bd6a56.jpg",
-        "/animals/wombat/255b206f6d.jpg"
+        "animals/wombat/037e83aa61.jpg",
+        "animals/wombat/0804c61c4d.jpg",
+        "animals/wombat/0a72cfbf1f.jpg",
+        "animals/wombat/0fca1dab52.jpg",
+        "animals/wombat/155fc81666.jpg",
+        "animals/wombat/1c707ab40d.jpg",
+        "animals/wombat/1f64bd6a56.jpg",
+        "animals/wombat/255b206f6d.jpg"
       ]
     },
     {
@@ -1440,14 +1440,14 @@
       },
       "description": "A wild horse relative from Africa, famous for its unique vertical black-and-white stripes.",
       "images": [
-        "/animals/zebra/03ac351ca0.jpg",
-        "/animals/zebra/0642b33245.jpg",
-        "/animals/zebra/06aa68fa0e.jpg",
-        "/animals/zebra/133f1c1e4a.jpg",
-        "/animals/zebra/170fd0528c.jpg",
-        "/animals/zebra/21e2c20f1e.jpg",
-        "/animals/zebra/2eab8fe49e.jpg",
-        "/animals/zebra/30c6501e99.jpg"
+        "animals/zebra/03ac351ca0.jpg",
+        "animals/zebra/0642b33245.jpg",
+        "animals/zebra/06aa68fa0e.jpg",
+        "animals/zebra/133f1c1e4a.jpg",
+        "animals/zebra/170fd0528c.jpg",
+        "animals/zebra/21e2c20f1e.jpg",
+        "animals/zebra/2eab8fe49e.jpg",
+        "animals/zebra/30c6501e99.jpg"
       ]
     },
     {
@@ -2532,7 +2532,7 @@
       "name": "Crab",
       "scientificName": "Brachyura",
       "habitat": "Coastal Shallows",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "3-5 years",
@@ -2542,14 +2542,14 @@
       },
       "description": "A decapod crustacean equipped with a thick exoskeleton and a pair of powerful pinching claws.",
       "images": [
-        "/animals/crab/03a4208397.jpg",
-        "/animals/crab/0a3d16566f.jpg",
-        "/animals/crab/0b8367a031.jpg",
-        "/animals/crab/15a262b4eb.jpg",
-        "/animals/crab/15b1fc2157.jpg",
-        "/animals/crab/1eb3673642.jpg",
-        "/animals/crab/1f60096138.jpg",
-        "/animals/crab/1f6d2f18af.jpg"
+        "animals/crab/03a4208397.jpg",
+        "animals/crab/0a3d16566f.jpg",
+        "animals/crab/0b8367a031.jpg",
+        "animals/crab/15a262b4eb.jpg",
+        "animals/crab/15b1fc2157.jpg",
+        "animals/crab/1eb3673642.jpg",
+        "animals/crab/1f60096138.jpg",
+        "animals/crab/1f6d2f18af.jpg"
       ]
     },
     {
@@ -2567,14 +2567,14 @@
       },
       "description": "A highly intelligent semi-aquatic mammal known for its playful social behavior and echolocation.",
       "images": [
-        "/animals/dolphin/03fbc036a0.jpg",
-        "/animals/dolphin/0deef83be9.jpg",
-        "/animals/dolphin/0e7f90818b.jpg",
-        "/animals/dolphin/15eadebfd3.jpg",
-        "/animals/dolphin/16eb90e8df.jpg",
-        "/animals/dolphin/1a716cd8b3.jpg",
-        "/animals/dolphin/21f87d8de0.jpg",
-        "/animals/dolphin/27d2bc42a2.jpg"
+        "animals/dolphin/03fbc036a0.jpg",
+        "animals/dolphin/0deef83be9.jpg",
+        "animals/dolphin/0e7f90818b.jpg",
+        "animals/dolphin/15eadebfd3.jpg",
+        "animals/dolphin/16eb90e8df.jpg",
+        "animals/dolphin/1a716cd8b3.jpg",
+        "animals/dolphin/21f87d8de0.jpg",
+        "animals/dolphin/27d2bc42a2.jpg"
       ]
     },
     {
@@ -2592,14 +2592,14 @@
       },
       "description": "A small, colorful domestic carp that has been selectively bred for aquariums for centuries.",
       "images": [
-        "/animals/goldfish/05f378e4f8.jpg",
-        "/animals/goldfish/08b2897c5e.jpg",
-        "/animals/goldfish/0b291cfc2c.jpg",
-        "/animals/goldfish/0caa357518.jpg",
-        "/animals/goldfish/12e90fc50b.jpg",
-        "/animals/goldfish/14d491115e.jpg",
-        "/animals/goldfish/15fbfec098.jpg",
-        "/animals/goldfish/1a2d84dea4.jpg"
+        "animals/goldfish/05f378e4f8.jpg",
+        "animals/goldfish/08b2897c5e.jpg",
+        "animals/goldfish/0b291cfc2c.jpg",
+        "animals/goldfish/0caa357518.jpg",
+        "animals/goldfish/12e90fc50b.jpg",
+        "animals/goldfish/14d491115e.jpg",
+        "animals/goldfish/15fbfec098.jpg",
+        "animals/goldfish/1a2d84dea4.jpg"
       ]
     },
     {
@@ -2607,7 +2607,7 @@
       "name": "Jellyfish",
       "scientificName": "Medusozoa",
       "habitat": "Open Ocean",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "1 year",
@@ -2617,14 +2617,14 @@
       },
       "description": "A gelatinous drift animal with stinging tentacles used to capture small fish and plankton.",
       "images": [
-        "/animals/jellyfish/05b20e2efa.jpg",
-        "/animals/jellyfish/0cc3c3606e.jpg",
-        "/animals/jellyfish/1dcd0a0629.jpg",
-        "/animals/jellyfish/2d91eb20e6.jpg",
-        "/animals/jellyfish/2f02b7148c.jpg",
-        "/animals/jellyfish/3cf5be5e24.jpg",
-        "/animals/jellyfish/4b2d1bf5a1.jpg",
-        "/animals/jellyfish/57ea7d5485.jpg"
+        "animals/jellyfish/05b20e2efa.jpg",
+        "animals/jellyfish/0cc3c3606e.jpg",
+        "animals/jellyfish/1dcd0a0629.jpg",
+        "animals/jellyfish/2d91eb20e6.jpg",
+        "animals/jellyfish/2f02b7148c.jpg",
+        "animals/jellyfish/3cf5be5e24.jpg",
+        "animals/jellyfish/4b2d1bf5a1.jpg",
+        "animals/jellyfish/57ea7d5485.jpg"
       ]
     },
     {
@@ -2632,7 +2632,7 @@
       "name": "Lobster",
       "scientificName": "Nephropidae",
       "habitat": "Rocky Seabed",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "30-50 years",
@@ -2642,14 +2642,14 @@
       },
       "description": "A bottom-dwelling marine crustacean with large, unequal claws used for capturing food.",
       "images": [
-        "/animals/lobster/0793f5e731.jpg",
-        "/animals/lobster/31c6b88471.jpg",
-        "/animals/lobster/341798d191.jpg",
-        "/animals/lobster/3c9af635fd.jpg",
-        "/animals/lobster/47abe1be60.jpg",
-        "/animals/lobster/4fb3fdaf9a.jpg",
-        "/animals/lobster/54aa4ce56f.jpg",
-        "/animals/lobster/62479089df.jpg"
+        "animals/lobster/0793f5e731.jpg",
+        "animals/lobster/31c6b88471.jpg",
+        "animals/lobster/341798d191.jpg",
+        "animals/lobster/3c9af635fd.jpg",
+        "animals/lobster/47abe1be60.jpg",
+        "animals/lobster/4fb3fdaf9a.jpg",
+        "animals/lobster/54aa4ce56f.jpg",
+        "animals/lobster/62479089df.jpg"
       ]
     },
     {
@@ -2667,14 +2667,14 @@
       },
       "description": "A highly intelligent, eight-armed cephalopod capable of advanced camouflage and problem solving.",
       "images": [
-        "/animals/octopus/00dc9380ee.jpg",
-        "/animals/octopus/0280bb5ff6.jpg",
-        "/animals/octopus/02feaa0b39.jpg",
-        "/animals/octopus/07e12d204a.jpg",
-        "/animals/octopus/090d026cbf.jpg",
-        "/animals/octopus/0e8a36f0db.jpg",
-        "/animals/octopus/0fa81c2a30.jpg",
-        "/animals/octopus/21d6250541.jpg"
+        "animals/octopus/00dc9380ee.jpg",
+        "animals/octopus/0280bb5ff6.jpg",
+        "animals/octopus/02feaa0b39.jpg",
+        "animals/octopus/07e12d204a.jpg",
+        "animals/octopus/090d026cbf.jpg",
+        "animals/octopus/0e8a36f0db.jpg",
+        "animals/octopus/0fa81c2a30.jpg",
+        "animals/octopus/21d6250541.jpg"
       ]
     },
     {
@@ -2682,7 +2682,7 @@
       "name": "Otter",
       "scientificName": "Lutrinae",
       "habitat": "Rivers/Coasts",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -2692,14 +2692,14 @@
       },
       "description": "A playful semi-aquatic mammal with dense waterproof fur and webbed feet.",
       "images": [
-        "/animals/otter/013e643e54.jpg",
-        "/animals/otter/0dea6f9641.jpg",
-        "/animals/otter/0eb07d4a64.jpg",
-        "/animals/otter/115c9fceda.jpg",
-        "/animals/otter/1f228cc47b.jpg",
-        "/animals/otter/1f67ab8ae8.jpg",
-        "/animals/otter/2b105a1447.jpg",
-        "/animals/otter/2c66bfa731.jpg"
+        "animals/otter/013e643e54.jpg",
+        "animals/otter/0dea6f9641.jpg",
+        "animals/otter/0eb07d4a64.jpg",
+        "animals/otter/115c9fceda.jpg",
+        "animals/otter/1f228cc47b.jpg",
+        "animals/otter/1f67ab8ae8.jpg",
+        "animals/otter/2b105a1447.jpg",
+        "animals/otter/2c66bfa731.jpg"
       ]
     },
     {
@@ -2707,7 +2707,7 @@
       "name": "Oyster",
       "scientificName": "Ostreidae",
       "habitat": "Estuary Beds",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Filter Feeder",
       "stats": {
         "lifespan": "10-20 years",
@@ -2717,14 +2717,14 @@
       },
       "description": "A bivalve mollusk that filters organic particles from water and can secrete pearls.",
       "images": [
-        "/animals/oyster/17005a715a.jpg",
-        "/animals/oyster/190227a534.jpg",
-        "/animals/oyster/526740f963.jpg",
-        "/animals/oyster/a2787119e8.jpg",
-        "/animals/oyster/a6487454a4.jpg",
-        "/animals/oyster/a79f3e719b.jpg",
-        "/animals/oyster/a861220440.jpg",
-        "/animals/oyster/ae984958ab.jpg"
+        "animals/oyster/17005a715a.jpg",
+        "animals/oyster/190227a534.jpg",
+        "animals/oyster/526740f963.jpg",
+        "animals/oyster/a2787119e8.jpg",
+        "animals/oyster/a6487454a4.jpg",
+        "animals/oyster/a79f3e719b.jpg",
+        "animals/oyster/a861220440.jpg",
+        "animals/oyster/ae984958ab.jpg"
       ]
     },
     {
@@ -2732,7 +2732,7 @@
       "name": "Seahorse",
       "scientificName": "Hippocampus",
       "habitat": "Seagrass Beds",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "1-5 years",
@@ -2742,14 +2742,14 @@
       },
       "description": "A small, unique marine fish with an upright posture, horse-like head, and prehensile tail.",
       "images": [
-        "/animals/seahorse/00d1895565.jpg",
-        "/animals/seahorse/01ad309664.jpg",
-        "/animals/seahorse/0bae7d6a26.jpg",
-        "/animals/seahorse/0e4f4b9304.jpg",
-        "/animals/seahorse/23d44c6159.jpg",
-        "/animals/seahorse/26cd18c9c8.jpg",
-        "/animals/seahorse/272c945c0f.jpg",
-        "/animals/seahorse/28c3ee9ccf.jpg"
+        "animals/seahorse/00d1895565.jpg",
+        "animals/seahorse/01ad309664.jpg",
+        "animals/seahorse/0bae7d6a26.jpg",
+        "animals/seahorse/0e4f4b9304.jpg",
+        "animals/seahorse/23d44c6159.jpg",
+        "animals/seahorse/26cd18c9c8.jpg",
+        "animals/seahorse/272c945c0f.jpg",
+        "animals/seahorse/28c3ee9ccf.jpg"
       ]
     },
     {
@@ -2757,7 +2757,7 @@
       "name": "Seal",
       "scientificName": "Pinnipedia",
       "habitat": "Rocky Coasts",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "25-30 years",
@@ -2767,14 +2767,14 @@
       },
       "description": "A sleek semi-aquatic marine mammal with webbed flippers that swims with speed.",
       "images": [
-        "/animals/seal/008f8f926e.jpg",
-        "/animals/seal/02e30bf0f8.jpg",
-        "/animals/seal/05aed12730.jpg",
-        "/animals/seal/0a19f46619.jpg",
-        "/animals/seal/0a6d65bf12.jpg",
-        "/animals/seal/170fbf53cb.jpg",
-        "/animals/seal/1f9432a565.jpg",
-        "/animals/seal/228b65c87c.jpg"
+        "animals/seal/008f8f926e.jpg",
+        "animals/seal/02e30bf0f8.jpg",
+        "animals/seal/05aed12730.jpg",
+        "animals/seal/0a19f46619.jpg",
+        "animals/seal/0a6d65bf12.jpg",
+        "animals/seal/170fbf53cb.jpg",
+        "animals/seal/1f9432a565.jpg",
+        "animals/seal/228b65c87c.jpg"
       ]
     },
     {
@@ -2782,7 +2782,7 @@
       "name": "Shark",
       "scientificName": "Selachimorpha",
       "habitat": "Oceans",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Endangered",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "30-70 years",
@@ -2792,14 +2792,14 @@
       },
       "description": "An ancient cartilaginous predator equipped with multiple rows of replaceable teeth.",
       "images": [
-        "/animals/shark/0373ac21ad.jpg",
-        "/animals/shark/09fc01c0d9.jpg",
-        "/animals/shark/0efc78f9a2.jpg",
-        "/animals/shark/16af889d9d.jpg",
-        "/animals/shark/1aff68d6b8.jpg",
-        "/animals/shark/1c193dc91d.jpg",
-        "/animals/shark/1f37e846a9.jpg",
-        "/animals/shark/26d8db660b.jpg"
+        "animals/shark/0373ac21ad.jpg",
+        "animals/shark/09fc01c0d9.jpg",
+        "animals/shark/0efc78f9a2.jpg",
+        "animals/shark/16af889d9d.jpg",
+        "animals/shark/1aff68d6b8.jpg",
+        "animals/shark/1c193dc91d.jpg",
+        "animals/shark/1f37e846a9.jpg",
+        "animals/shark/26d8db660b.jpg"
       ]
     },
     {
@@ -2817,14 +2817,14 @@
       },
       "description": "A fast-swimming cephalopod with ten arms, large eyes, and a siphon used for jet propulsion.",
       "images": [
-        "/animals/squid/0397f79818.jpg",
-        "/animals/squid/088ecedf58.jpg",
-        "/animals/squid/19ff7dee20.jpg",
-        "/animals/squid/2f728fdf04.jpg",
-        "/animals/squid/317cc9dd8f.jpg",
-        "/animals/squid/37d8c23fed.jpg",
-        "/animals/squid/382f2223b8.jpg",
-        "/animals/squid/3cc982d615.jpg"
+        "animals/squid/0397f79818.jpg",
+        "animals/squid/088ecedf58.jpg",
+        "animals/squid/19ff7dee20.jpg",
+        "animals/squid/2f728fdf04.jpg",
+        "animals/squid/317cc9dd8f.jpg",
+        "animals/squid/37d8c23fed.jpg",
+        "animals/squid/382f2223b8.jpg",
+        "animals/squid/3cc982d615.jpg"
       ]
     },
     {
@@ -2842,14 +2842,14 @@
       },
       "description": "A star-shaped marine invertebrate capable of regenerating lost arms, feeding using a reversible stomach.",
       "images": [
-        "/animals/starfish/006e7b1af6.jpg",
-        "/animals/starfish/03cf0b0bc5.jpg",
-        "/animals/starfish/03f199f8c1.jpg",
-        "/animals/starfish/0cf320e7de.jpg",
-        "/animals/starfish/0cf51a4006.jpg",
-        "/animals/starfish/0d8e765037.jpg",
-        "/animals/starfish/13b77bd9bc.jpg",
-        "/animals/starfish/154ad3e54a.jpg"
+        "animals/starfish/006e7b1af6.jpg",
+        "animals/starfish/03cf0b0bc5.jpg",
+        "animals/starfish/03f199f8c1.jpg",
+        "animals/starfish/0cf320e7de.jpg",
+        "animals/starfish/0cf51a4006.jpg",
+        "animals/starfish/0d8e765037.jpg",
+        "animals/starfish/13b77bd9bc.jpg",
+        "animals/starfish/154ad3e54a.jpg"
       ]
     },
     {
@@ -2867,14 +2867,14 @@
       },
       "description": "An ancient reptile protected by a bony shell, with marine species possessing paddle-like flippers.",
       "images": [
-        "/animals/turtle/007efdbb03.jpg",
-        "/animals/turtle/05cde5db93.jpg",
-        "/animals/turtle/05e2720400.jpg",
-        "/animals/turtle/0a47b7d021.jpg",
-        "/animals/turtle/0d670c7936.jpg",
-        "/animals/turtle/0fe508ab40.jpg",
-        "/animals/turtle/109f2ca59e.jpg",
-        "/animals/turtle/12ca779e62.jpg"
+        "animals/turtle/007efdbb03.jpg",
+        "animals/turtle/05cde5db93.jpg",
+        "animals/turtle/05e2720400.jpg",
+        "animals/turtle/0a47b7d021.jpg",
+        "animals/turtle/0d670c7936.jpg",
+        "animals/turtle/0fe508ab40.jpg",
+        "animals/turtle/109f2ca59e.jpg",
+        "animals/turtle/12ca779e62.jpg"
       ]
     },
     {
@@ -2882,7 +2882,7 @@
       "name": "Whale",
       "scientificName": "Cetacea",
       "habitat": "Open Ocean",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "70-90 years",
@@ -2892,14 +2892,14 @@
       },
       "description": "A colossal warm-blooded marine mammal that breathes air through blowholes.",
       "images": [
-        "/animals/whale/021de89c47.jpg",
-        "/animals/whale/13ca4f72f7.jpg",
-        "/animals/whale/15a76e90f0.jpg",
-        "/animals/whale/15d9ddefce.jpg",
-        "/animals/whale/16ed7c4647.jpg",
-        "/animals/whale/27ad7b905e.jpg",
-        "/animals/whale/35e3a3e5fb.jpg",
-        "/animals/whale/3a441f569a.jpg"
+        "animals/whale/021de89c47.jpg",
+        "animals/whale/13ca4f72f7.jpg",
+        "animals/whale/15a76e90f0.jpg",
+        "animals/whale/15d9ddefce.jpg",
+        "animals/whale/16ed7c4647.jpg",
+        "animals/whale/27ad7b905e.jpg",
+        "animals/whale/35e3a3e5fb.jpg",
+        "animals/whale/3a441f569a.jpg"
       ]
     },
     {
@@ -5069,14 +5069,14 @@
       },
       "description": "An exceptionally intelligent bird known for problem-solving, memory, and complex communication.",
       "images": [
-        "/animals/crow/09cf92f743.jpg",
-        "/animals/crow/1d15117ae2.jpg",
-        "/animals/crow/1ecc081899.jpg",
-        "/animals/crow/259fec3fd7.jpg",
-        "/animals/crow/2caed0387c.jpg",
-        "/animals/crow/378fc98f4f.jpg",
-        "/animals/crow/3a29010611.jpg",
-        "/animals/crow/3d828ee706.jpg"
+        "animals/crow/09cf92f743.jpg",
+        "animals/crow/1d15117ae2.jpg",
+        "animals/crow/1ecc081899.jpg",
+        "animals/crow/259fec3fd7.jpg",
+        "animals/crow/2caed0387c.jpg",
+        "animals/crow/378fc98f4f.jpg",
+        "animals/crow/3a29010611.jpg",
+        "animals/crow/3d828ee706.jpg"
       ]
     },
     {
@@ -5084,7 +5084,7 @@
       "name": "Duck",
       "scientificName": "Anatidae",
       "habitat": "Wetlands/Lakes",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "5-10 years",
@@ -5094,14 +5094,14 @@
       },
       "description": "A semi-aquatic waterfowl featuring webbed feet, a flat bill, and waterproof feathers.",
       "images": [
-        "/animals/duck/039f3a839d.jpg",
-        "/animals/duck/08ca71d876.jpg",
-        "/animals/duck/09e31cf939.jpg",
-        "/animals/duck/1e6f2cb529.jpg",
-        "/animals/duck/24f7e684eb.jpg",
-        "/animals/duck/25e76d5a00.jpg",
-        "/animals/duck/2b2467d4f4.jpg",
-        "/animals/duck/2b4b39a80d.jpg"
+        "animals/duck/039f3a839d.jpg",
+        "animals/duck/08ca71d876.jpg",
+        "animals/duck/09e31cf939.jpg",
+        "animals/duck/1e6f2cb529.jpg",
+        "animals/duck/24f7e684eb.jpg",
+        "animals/duck/25e76d5a00.jpg",
+        "animals/duck/2b2467d4f4.jpg",
+        "animals/duck/2b4b39a80d.jpg"
       ]
     },
     {
@@ -5109,7 +5109,7 @@
       "name": "Eagle",
       "scientificName": "Accipitridae",
       "habitat": "Mountain Peaks",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "20-25 years",
@@ -5119,14 +5119,14 @@
       },
       "description": "A powerful bird of prey possessing keen eyesight, sharp talons, and a hooked beak.",
       "images": [
-        "/animals/eagle/07c29966bd.jpg",
-        "/animals/eagle/08bbadef2b.jpg",
-        "/animals/eagle/0df14cf243.jpg",
-        "/animals/eagle/191a78c349.jpg",
-        "/animals/eagle/19a58feb1a.jpg",
-        "/animals/eagle/1d28265409.jpg",
-        "/animals/eagle/26df0b7b37.jpg",
-        "/animals/eagle/2bc02045e9.jpg"
+        "animals/eagle/07c29966bd.jpg",
+        "animals/eagle/08bbadef2b.jpg",
+        "animals/eagle/0df14cf243.jpg",
+        "animals/eagle/191a78c349.jpg",
+        "animals/eagle/19a58feb1a.jpg",
+        "animals/eagle/1d28265409.jpg",
+        "animals/eagle/26df0b7b37.jpg",
+        "animals/eagle/2bc02045e9.jpg"
       ]
     },
     {
@@ -5134,7 +5134,7 @@
       "name": "Flamingo",
       "scientificName": "Phoenicopteridae",
       "habitat": "Salt Lakes",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "30-40 years",
@@ -5144,14 +5144,14 @@
       },
       "description": "A tall, slender wading bird with pink feathers derived from carotenoid pigments in its diet.",
       "images": [
-        "/animals/flamingo/0739d9434a.jpg",
-        "/animals/flamingo/0a2148e478.jpg",
-        "/animals/flamingo/10d65f9c2a.jpg",
-        "/animals/flamingo/13febcb730.jpg",
-        "/animals/flamingo/2bc10a37ae.jpg",
-        "/animals/flamingo/2f928f1a1d.jpg",
-        "/animals/flamingo/3be84e7e1b.jpg",
-        "/animals/flamingo/44c150d96b.jpg"
+        "animals/flamingo/0739d9434a.jpg",
+        "animals/flamingo/0a2148e478.jpg",
+        "animals/flamingo/10d65f9c2a.jpg",
+        "animals/flamingo/13febcb730.jpg",
+        "animals/flamingo/2bc10a37ae.jpg",
+        "animals/flamingo/2f928f1a1d.jpg",
+        "animals/flamingo/3be84e7e1b.jpg",
+        "animals/flamingo/44c150d96b.jpg"
       ]
     },
     {
@@ -5159,7 +5159,7 @@
       "name": "Goose",
       "scientificName": "Anserinae",
       "habitat": "Lakes/Fields",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -5169,14 +5169,14 @@
       },
       "description": "A large migratory waterfowl known for its protective nesting habits and loud honking.",
       "images": [
-        "/animals/goose/05b82100f6.jpg",
-        "/animals/goose/06bc2c2f26.jpg",
-        "/animals/goose/12ed97e837.jpg",
-        "/animals/goose/1866faaddb.jpg",
-        "/animals/goose/1aa6dc989c.jpg",
-        "/animals/goose/1d5dd02c76.jpg",
-        "/animals/goose/1e99f305f3.jpg",
-        "/animals/goose/25a6f8bbfd.jpg"
+        "animals/goose/05b82100f6.jpg",
+        "animals/goose/06bc2c2f26.jpg",
+        "animals/goose/12ed97e837.jpg",
+        "animals/goose/1866faaddb.jpg",
+        "animals/goose/1aa6dc989c.jpg",
+        "animals/goose/1d5dd02c76.jpg",
+        "animals/goose/1e99f305f3.jpg",
+        "animals/goose/25a6f8bbfd.jpg"
       ]
     },
     {
@@ -5184,7 +5184,7 @@
       "name": "Hornbill",
       "scientificName": "Bucerotidae",
       "habitat": "Tropical Forest",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "20-30 years",
@@ -5194,14 +5194,14 @@
       },
       "description": "A tropical bird characterized by a long, down-curved bill which often displays a decorative casque.",
       "images": [
-        "/animals/hornbill/0a3f40dad0.jpg",
-        "/animals/hornbill/0bacaff531.jpg",
-        "/animals/hornbill/1b7238b986.jpg",
-        "/animals/hornbill/1d10bafb30.jpg",
-        "/animals/hornbill/2eb8f24aa9.jpg",
-        "/animals/hornbill/3aa6ae4d73.jpg",
-        "/animals/hornbill/3d3afbd78d.jpg",
-        "/animals/hornbill/3ea8fb1ece.jpg"
+        "animals/hornbill/0a3f40dad0.jpg",
+        "animals/hornbill/0bacaff531.jpg",
+        "animals/hornbill/1b7238b986.jpg",
+        "animals/hornbill/1d10bafb30.jpg",
+        "animals/hornbill/2eb8f24aa9.jpg",
+        "animals/hornbill/3aa6ae4d73.jpg",
+        "animals/hornbill/3d3afbd78d.jpg",
+        "animals/hornbill/3ea8fb1ece.jpg"
       ]
     },
     {
@@ -5209,7 +5209,7 @@
       "name": "Hummingbird",
       "scientificName": "Trochilidae",
       "habitat": "Forest Margins",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "3-5 years",
@@ -5219,14 +5219,14 @@
       },
       "description": "A tiny nectar feeder capable of hovering mid-air and flying backwards by beating wings rapidly.",
       "images": [
-        "/animals/hummingbird/0419c2273b.jpg",
-        "/animals/hummingbird/046ec0be71.jpg",
-        "/animals/hummingbird/05eaa2225b.jpg",
-        "/animals/hummingbird/0cb2e8198a.jpg",
-        "/animals/hummingbird/0d504e0764.jpg",
-        "/animals/hummingbird/0ed0e90477.jpg",
-        "/animals/hummingbird/0f67ffd92d.jpg",
-        "/animals/hummingbird/15da1a9a1c.jpg"
+        "animals/hummingbird/0419c2273b.jpg",
+        "animals/hummingbird/046ec0be71.jpg",
+        "animals/hummingbird/05eaa2225b.jpg",
+        "animals/hummingbird/0cb2e8198a.jpg",
+        "animals/hummingbird/0d504e0764.jpg",
+        "animals/hummingbird/0ed0e90477.jpg",
+        "animals/hummingbird/0f67ffd92d.jpg",
+        "animals/hummingbird/15da1a9a1c.jpg"
       ]
     },
     {
@@ -5244,14 +5244,14 @@
       },
       "description": "A nocturnal bird of prey with large forward-facing eyes and silent flight feathers.",
       "images": [
-        "/animals/owl/05fe394a81.jpg",
-        "/animals/owl/190c2eacca.jpg",
-        "/animals/owl/19aa3694f6.jpg",
-        "/animals/owl/247be41761.jpg",
-        "/animals/owl/24fd9fed10.jpg",
-        "/animals/owl/279b647377.jpg",
-        "/animals/owl/29b340159d.jpg",
-        "/animals/owl/29de5684a7.jpg"
+        "animals/owl/05fe394a81.jpg",
+        "animals/owl/190c2eacca.jpg",
+        "animals/owl/19aa3694f6.jpg",
+        "animals/owl/247be41761.jpg",
+        "animals/owl/24fd9fed10.jpg",
+        "animals/owl/279b647377.jpg",
+        "animals/owl/29b340159d.jpg",
+        "animals/owl/29de5684a7.jpg"
       ]
     },
     {
@@ -5259,7 +5259,7 @@
       "name": "Parrot",
       "scientificName": "Psittaciformes",
       "habitat": "Tropical Forest",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "40-60 years",
@@ -5269,14 +5269,14 @@
       },
       "description": "A colorful, vocal bird known for its curved bill, intelligence, and mimicry of speech.",
       "images": [
-        "/animals/parrot/036b760476.jpg",
-        "/animals/parrot/0b29c10342.jpg",
-        "/animals/parrot/0b2a1e349a.jpg",
-        "/animals/parrot/0f072e6ce1.jpg",
-        "/animals/parrot/1bcd666a4e.jpg",
-        "/animals/parrot/1dd93e1004.jpg",
-        "/animals/parrot/1f4f736dbf.jpg",
-        "/animals/parrot/27a9ce4e1a.jpg"
+        "animals/parrot/036b760476.jpg",
+        "animals/parrot/0b29c10342.jpg",
+        "animals/parrot/0b2a1e349a.jpg",
+        "animals/parrot/0f072e6ce1.jpg",
+        "animals/parrot/1bcd666a4e.jpg",
+        "animals/parrot/1dd93e1004.jpg",
+        "animals/parrot/1f4f736dbf.jpg",
+        "animals/parrot/27a9ce4e1a.jpg"
       ]
     },
     {
@@ -5284,7 +5284,7 @@
       "name": "Pelican",
       "scientificName": "Pelecaniformes",
       "habitat": "Coasts/Lakes",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "15-25 years",
@@ -5294,14 +5294,14 @@
       },
       "description": "A family of large waterbirds including pelicans, featuring throat pouches for scooping fish.",
       "images": [
-        "/animals/pelecaniformes/0c2cd57e3d.jpg",
-        "/animals/pelecaniformes/0f8ef6ae70.jpg",
-        "/animals/pelecaniformes/1a2843a3ad.jpg",
-        "/animals/pelecaniformes/265b628553.jpg",
-        "/animals/pelecaniformes/2d91464673.jpg",
-        "/animals/pelecaniformes/36e82e59d5.jpg",
-        "/animals/pelecaniformes/3d6d564e29.jpg",
-        "/animals/pelecaniformes/3f6291762e.jpg"
+        "animals/pelecaniformes/0c2cd57e3d.jpg",
+        "animals/pelecaniformes/0f8ef6ae70.jpg",
+        "animals/pelecaniformes/1a2843a3ad.jpg",
+        "animals/pelecaniformes/265b628553.jpg",
+        "animals/pelecaniformes/2d91464673.jpg",
+        "animals/pelecaniformes/36e82e59d5.jpg",
+        "animals/pelecaniformes/3d6d564e29.jpg",
+        "animals/pelecaniformes/3f6291762e.jpg"
       ]
     },
     {
@@ -5319,14 +5319,14 @@
       },
       "description": "A flightless, tuxedoed marine bird that glides through sub-zero waters to catch fish.",
       "images": [
-        "/animals/penguin/0a313e7754.jpg",
-        "/animals/penguin/0b3fdb852b.jpg",
-        "/animals/penguin/18c3767491.jpg",
-        "/animals/penguin/1aa750c6dd.jpg",
-        "/animals/penguin/1e16eadbd9.jpg",
-        "/animals/penguin/1f2cddb8ad.jpg",
-        "/animals/penguin/233f09788d.jpg",
-        "/animals/penguin/24a39dd3f5.jpg"
+        "animals/penguin/0a313e7754.jpg",
+        "animals/penguin/0b3fdb852b.jpg",
+        "animals/penguin/18c3767491.jpg",
+        "animals/penguin/1aa750c6dd.jpg",
+        "animals/penguin/1e16eadbd9.jpg",
+        "animals/penguin/1f2cddb8ad.jpg",
+        "animals/penguin/233f09788d.jpg",
+        "animals/penguin/24a39dd3f5.jpg"
       ]
     },
     {
@@ -5344,14 +5344,14 @@
       },
       "description": "A stout-bodied bird with a cooing voice, highly adapted to urban environments globally.",
       "images": [
-        "/animals/pigeon/00daf2d027.jpg",
-        "/animals/pigeon/02f1073956.jpg",
-        "/animals/pigeon/08aa329b56.jpg",
-        "/animals/pigeon/0bdb84b6c1.jpg",
-        "/animals/pigeon/0dbaa78bed.jpg",
-        "/animals/pigeon/0eb51dddee.jpg",
-        "/animals/pigeon/0f4d4e7d4d.jpg",
-        "/animals/pigeon/11c94c40e2.jpg"
+        "animals/pigeon/00daf2d027.jpg",
+        "animals/pigeon/02f1073956.jpg",
+        "animals/pigeon/08aa329b56.jpg",
+        "animals/pigeon/0bdb84b6c1.jpg",
+        "animals/pigeon/0dbaa78bed.jpg",
+        "animals/pigeon/0eb51dddee.jpg",
+        "animals/pigeon/0f4d4e7d4d.jpg",
+        "animals/pigeon/11c94c40e2.jpg"
       ]
     },
     {
@@ -5359,7 +5359,7 @@
       "name": "Sandpiper",
       "scientificName": "Scolopacidae",
       "habitat": "Shorelines",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Endangered",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "5-10 years",
@@ -5369,14 +5369,14 @@
       },
       "description": "A small wading bird that runs along sandy beaches to peck at tiny shoreline invertebrates.",
       "images": [
-        "/animals/sandpiper/021fa2c72c.jpg",
-        "/animals/sandpiper/05f9f36880.jpg",
-        "/animals/sandpiper/0b8440f8e6.jpg",
-        "/animals/sandpiper/0ba18502c1.jpg",
-        "/animals/sandpiper/0e91427bf7.jpg",
-        "/animals/sandpiper/0f09c28ab2.jpg",
-        "/animals/sandpiper/1b68092ce4.jpg",
-        "/animals/sandpiper/1f5584ece3.jpg"
+        "animals/sandpiper/021fa2c72c.jpg",
+        "animals/sandpiper/05f9f36880.jpg",
+        "animals/sandpiper/0b8440f8e6.jpg",
+        "animals/sandpiper/0ba18502c1.jpg",
+        "animals/sandpiper/0e91427bf7.jpg",
+        "animals/sandpiper/0f09c28ab2.jpg",
+        "animals/sandpiper/1b68092ce4.jpg",
+        "animals/sandpiper/1f5584ece3.jpg"
       ]
     },
     {
@@ -5394,14 +5394,14 @@
       },
       "description": "A small, common songbird with brown and grey feathers, nesting near human dwellings.",
       "images": [
-        "/animals/sparrow/01fb6bf91f.jpg",
-        "/animals/sparrow/03d6b6c8bf.jpg",
-        "/animals/sparrow/1a07e283ec.jpg",
-        "/animals/sparrow/1bef5cb4c3.jpg",
-        "/animals/sparrow/24a3f072c3.jpg",
-        "/animals/sparrow/25b0e2985c.jpg",
-        "/animals/sparrow/2befa9041b.jpg",
-        "/animals/sparrow/2c2b126785.jpg"
+        "animals/sparrow/01fb6bf91f.jpg",
+        "animals/sparrow/03d6b6c8bf.jpg",
+        "animals/sparrow/1a07e283ec.jpg",
+        "animals/sparrow/1bef5cb4c3.jpg",
+        "animals/sparrow/24a3f072c3.jpg",
+        "animals/sparrow/25b0e2985c.jpg",
+        "animals/sparrow/2befa9041b.jpg",
+        "animals/sparrow/2c2b126785.jpg"
       ]
     },
     {
@@ -5409,7 +5409,7 @@
       "name": "Swan",
       "scientificName": "Cygnus",
       "habitat": "Lakes/Ponds",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "15-20 years",
@@ -5419,14 +5419,14 @@
       },
       "description": "A large, elegant white waterfowl with a long neck, forming lifelong breeding pairs.",
       "images": [
-        "/animals/swan/023be31900.jpg",
-        "/animals/swan/09b33c8921.jpg",
-        "/animals/swan/0dbe9a2485.jpg",
-        "/animals/swan/11dcda034d.jpg",
-        "/animals/swan/262fb14355.jpg",
-        "/animals/swan/35faa6ed4c.jpg",
-        "/animals/swan/36cded76a0.jpg",
-        "/animals/swan/3d41996928.jpg"
+        "animals/swan/023be31900.jpg",
+        "animals/swan/09b33c8921.jpg",
+        "animals/swan/0dbe9a2485.jpg",
+        "animals/swan/11dcda034d.jpg",
+        "animals/swan/262fb14355.jpg",
+        "animals/swan/35faa6ed4c.jpg",
+        "animals/swan/36cded76a0.jpg",
+        "animals/swan/3d41996928.jpg"
       ]
     },
     {
@@ -5444,14 +5444,14 @@
       },
       "description": "A large forest bird native to North American woodlands, featuring a bare head and fan-shaped tail.",
       "images": [
-        "/animals/turkey/00c25755f2.jpg",
-        "/animals/turkey/00d1546301.jpg",
-        "/animals/turkey/0620a3f419.jpg",
-        "/animals/turkey/0e080de733.jpg",
-        "/animals/turkey/1ceb468a31.jpg",
-        "/animals/turkey/22d2869574.jpg",
-        "/animals/turkey/25e0c998c5.jpg",
-        "/animals/turkey/2aa3741f89.jpg"
+        "animals/turkey/00c25755f2.jpg",
+        "animals/turkey/00d1546301.jpg",
+        "animals/turkey/0620a3f419.jpg",
+        "animals/turkey/0e080de733.jpg",
+        "animals/turkey/1ceb468a31.jpg",
+        "animals/turkey/22d2869574.jpg",
+        "animals/turkey/25e0c998c5.jpg",
+        "animals/turkey/2aa3741f89.jpg"
       ]
     },
     {
@@ -5459,7 +5459,7 @@
       "name": "Woodpecker",
       "scientificName": "Picidae",
       "habitat": "Woodlands",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Vulnerable",
       "diet": "Insectivore",
       "stats": {
         "lifespan": "6-11 years",
@@ -5469,14 +5469,14 @@
       },
       "description": "A tree-climbing bird that taps trunks with its beak to find grubs and drums to communicate.",
       "images": [
-        "/animals/woodpecker/059d5994c8.jpg",
-        "/animals/woodpecker/09cf8f2ad4.jpg",
-        "/animals/woodpecker/0ab504123b.jpg",
-        "/animals/woodpecker/0b30ac6caa.jpg",
-        "/animals/woodpecker/0befc79b3c.jpg",
-        "/animals/woodpecker/22bf875c82.jpg",
-        "/animals/woodpecker/24eb6eed1e.jpg",
-        "/animals/woodpecker/27a3c78bc6.jpg"
+        "animals/woodpecker/059d5994c8.jpg",
+        "animals/woodpecker/09cf8f2ad4.jpg",
+        "animals/woodpecker/0ab504123b.jpg",
+        "animals/woodpecker/0b30ac6caa.jpg",
+        "animals/woodpecker/0befc79b3c.jpg",
+        "animals/woodpecker/22bf875c82.jpg",
+        "animals/woodpecker/24eb6eed1e.jpg",
+        "animals/woodpecker/27a3c78bc6.jpg"
       ]
     },
     {

@@ -355,8 +355,8 @@ let currentGlobalIndex = 1000;
       .slice(0, 8)
       .map(file => {
         totalMappedImages++;
-        // Return absolute web URL relative to the public root
-        return `/animals/${folderName}/${file}`;
+        // Return relative web URL relative to the public root
+        return `animals/${folderName}/${file}`;
       });
 
     if (images.length === 0) {
