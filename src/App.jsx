@@ -1,12 +1,13 @@
-import React, { useState, useEffect, useMemo } from 'react';
-import Background3D from './components/Background3D';
+import React, { useState, useEffect, useMemo, Suspense, lazy } from 'react';
 import Sidebar from './components/Sidebar';
 import Header from './components/Header';
 import TagsCarousel from './components/TagsCarousel';
 import MasonryGrid from './components/MasonryGrid';
 import DetailModal from './components/DetailModal';
-import SplashIntro from './components/SplashIntro';
 import animalData from './animals.json';
+
+const Background3D = lazy(() => import('./components/Background3D'));
+const SplashIntro = lazy(() => import('./components/SplashIntro'));
 
 export default function App() {
   // State Initialization
@@ -132,8 +133,12 @@ export default function App() {
 
   return (
     <>
-      {/* 3D Parallax Nature Image Background */}
-      <Background3D />
+      {/* 3D Parallax Nature Image Background (Only mount when splash screen is closed) */}
+      {!showSplash && (
+        <Suspense fallback={null}>
+          <Background3D />
+        </Suspense>
+      )}
 
       {/* Vertical Sidebar Dashboard */}
       <Sidebar 
@@ -200,11 +205,13 @@ export default function App() {
 
       {/* Fullscreen 3D Welcome Splash Screen */}
       {showSplash && (
-        <SplashIntro 
-          totalSpecies={totalSpecies} 
-          totalPhotos={totalPhotos} 
-          onGetInfo={() => setShowSplash(false)} 
-        />
+        <Suspense fallback={null}>
+          <SplashIntro 
+            totalSpecies={totalSpecies} 
+            totalPhotos={totalPhotos} 
+            onGetInfo={() => setShowSplash(false)} 
+          />
+        </Suspense>
       )}
     </>
   );

@@ -22,11 +22,12 @@ export default function Background3D() {
     // 3. Renderer setup
     const renderer = new THREE.WebGLRenderer({
       canvas: canvasRef.current,
-      antialias: true,
-      alpha: true
+      antialias: false,
+      alpha: true,
+      powerPreference: 'high-performance'
     });
     renderer.setSize(window.innerWidth, window.innerHeight);
-    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1.5));
 
     // 4. Spawn Glowing Pollen Particles (Environmental 3D Effect)
     const particleCount = 180;

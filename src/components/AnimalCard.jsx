@@ -83,6 +83,7 @@ export default function AnimalCard({ animal, onCardClick, isLiked, onToggleLike 
           src={getThumbnailUrl(imageSrc)} 
           alt={animal.name} 
           loading="lazy" 
+          decoding="async"
           onError={handleImageError}
         />
         <div className="card-vignette"></div>

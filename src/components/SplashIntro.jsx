@@ -26,12 +26,13 @@ export default function SplashIntro({ totalSpecies, totalPhotos, onGetInfo }) {
     // 3. Renderer setup
     const renderer = new THREE.WebGLRenderer({
       canvas: canvasRef.current,
-      antialias: true,
-      alpha: false
+      antialias: false,
+      alpha: false,
+      powerPreference: 'high-performance'
     });
     renderer.setClearColor(0x020202, 1);
     renderer.setSize(window.innerWidth, window.innerHeight);
-    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1.5));
 
     // 4. Generate 3D Space Warp Tunnel Particles
     const particleCount = 1800;
