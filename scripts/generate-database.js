@@ -112,62 +112,104 @@ const birdPadding = [
 ];
 
 // Helper to generate unique LoremFlickr images using search tags and seed values
-const resolvedTagsCache = {};
+const safeAnimalTags = {
+  // Insects / Bugs (preventing cars, machinery)
+  'beetle': 'insect,beetle',
+  'caterpillar': 'insect,caterpillar',
+  'fly': 'insect,fly',
+  'bee': 'honeybee',
+  'cockroach': 'cockroach,insect',
+  'mosquito': 'mosquito,insect',
+  'ladybugs': 'ladybug',
+  'grasshopper': 'grasshopper,insect',
+  'butterfly': 'butterfly,insect',
+  'moth': 'moth,insect',
+  'dragonfly': 'dragonfly,insect',
+  
+  // Marine (preventing non-aquatic things)
+  'crab': 'crab,crustacean',
+  'lobster': 'lobster,crustacean',
+  'oyster': 'oyster,shellfish',
+  'seahorse': 'seahorse,ocean',
+  'starfish': 'starfish,ocean',
+  'jellyfish': 'jellyfish,ocean',
+  'squid': 'squid,ocean',
+  'octopus': 'octopus,ocean',
+  'whale': 'whale,ocean',
+  'shark': 'shark,ocean',
+  'dolphin': 'dolphin,ocean',
+  'seal': 'seal,ocean',
+  
+  // Birds (preventing planes, human things)
+  'crow': 'crow,bird',
+  'duck': 'duck,bird',
+  'eagle': 'eagle,bird',
+  'flamingo': 'flamingo,bird',
+  'goose': 'goose,bird',
+  'hornbill': 'hornbill,bird',
+  'hummingbird': 'hummingbird,bird',
+  'owl': 'owl,bird',
+  'parrot': 'parrot,bird',
+  'pelecaniformes': 'pelican,bird',
+  'penguin': 'penguin,bird',
+  'pigeon': 'pigeon,bird',
+  'sandpiper': 'sandpiper,bird',
+  'sparrow': 'sparrow,bird',
+  'swan': 'swan,bird',
+  'turkey': 'turkey,bird',
+  'woodpecker': 'woodpecker,bird',
+  
+  // Land Mammals (preventing cars, humans, mascots)
+  'fox': 'wildlife,fox',
+  'wolf': 'wildlife,wolf',
+  'bear': 'wildlife,bear',
+  'badger': 'wildlife,badger',
+  'bat': 'bat,mammal',
+  'coyote': 'coyote,wildlife',
+  'deer': 'deer,wildlife',
+  'hare': 'hare,wildlife',
+  'hedgehog': 'hedgehog,wildlife',
+  'hyena': 'hyena,wildlife',
+  'kangaroo': 'kangaroo,wildlife',
+  'koala': 'koala,wildlife',
+  'leopard': 'leopard,wildlife',
+  'lion': 'lion,wildlife',
+  'okapi': 'okapi,wildlife',
+  'panda': 'panda,wildlife',
+  'raccoon': 'raccoon,wildlife',
+  'rhinoceros': 'rhinoceros,wildlife',
+  'tiger': 'tiger,wildlife',
+  'wombat': 'wombat,wildlife',
+  'zebra': 'zebra,wildlife',
+  'bison': 'bison,wildlife',
+  'boar': 'boar,wildlife'
+};
 
 async function resolveWorkingTag(name, sector) {
-  let cleanName = name.split(' Extra-')[0].toLowerCase();
-  // Strip parentheses and anything inside them
+  let cleanName = name.split(' Extra-')[0].split(' Type-')[0].split(' v')[0].toLowerCase();
   cleanName = cleanName.replace(/\s*\([^)]*\)\s*/g, ' ').trim();
   
-  if (resolvedTagsCache[cleanName]) {
-    return resolvedTagsCache[cleanName];
+  if (safeAnimalTags[cleanName]) {
+    return safeAnimalTags[cleanName];
   }
-
-  const words = cleanName.split(' ');
-  const lastWord = words[words.length - 1];
-
-  // Candidates in order of preference (completely avoiding raw "animal" and other loose tags that contain cars/humans)
-  const candidates = [
-    cleanName.replace(/ /g, '-'),                             // "grizzly-bear"
-    lastWord,                                                 // "bear"
-    `wildlife,${lastWord}`,                                   // "wildlife,bear"
-    `fauna,${lastWord}`                                       // "fauna,bear"
-  ];
-
-  // Category specific fallbacks
-  const sectorFallbacks = {
-    land: ["mammal", "wildlife", "fauna"],
-    marine: ["marine-life", "fauna"],
-    birds: ["bird", "wildlife", "fauna"]
-  };
-
-  const fallbacks = sectorFallbacks[sector] || ["wildlife", "fauna"];
-  candidates.push(...fallbacks);
-
-  for (const tag of candidates) {
-    const url = `https://loremflickr.com/800/600/${tag}`;
-    try {
-      const res = await fetch(url, { method: 'HEAD' });
-      if (res.status === 200) {
-        console.log(`Resolved working tag for "${cleanName}" (${sector}) -> "${tag}"`);
-        resolvedTagsCache[cleanName] = tag;
-        return tag;
-      }
-    } catch (e) {
-      // ignore
-    }
+  
+  if (sector === 'marine') {
+    return `${cleanName},marine-life`;
   }
-
-  resolvedTagsCache[cleanName] = fallbacks[0];
-  return fallbacks[0];
+  if (sector === 'birds') {
+    return `${cleanName},bird`;
+  }
+  return `${cleanName},wildlife`;
 }
 
-function getUniqueFlickrImagesWithTag(tag, animalIndex) {
+let globalSeedCounter = 12000;
+
+function getUniqueFlickrImagesWithTag(tag) {
   const result = [];
   for (let idx = 0; idx < 8; idx++) {
     const width = idx % 2 === 0 ? 3840 : 2160;
     const height = idx % 2 === 0 ? 2160 : 3840;
-    const seed = (animalIndex * 8) + idx + 5000;
+    const seed = globalSeedCounter++;
     result.push(`https://loremflickr.com/${width}/${height}/${tag}?lock=${seed}`);
   }
   return result;
@@ -308,7 +350,7 @@ async function padSector(sectorList, paddingSource, sectorKey, requiredCount) {
     
     if (!isAlreadyPresent) {
       const resolvedTag = await resolveWorkingTag(name, sectorKey);
-      const generatedImages = getUniqueFlickrImagesWithTag(resolvedTag, currentGlobalIndex++);
+      const generatedImages = getUniqueFlickrImagesWithTag(resolvedTag);
       
       sectorList.push({
         id: `${sectorKey}-extra-${padIdx + 1}`,
@@ -331,8 +373,7 @@ async function padSector(sectorList, paddingSource, sectorKey, requiredCount) {
   }
 }
 
-// Global variable updated in loop and read in padSector
-let currentGlobalIndex = 1000;
+// Global seed counter controls image randomization
 
 (async () => {
   // 1. First load all local dataset entries
@@ -367,13 +408,11 @@ let currentGlobalIndex = 1000;
     // If there are fewer than 8 images, pad them with unique verified LoremFlickr images of this species/sector to avoid repeated images!
     if (images.length < 8) {
       const resolvedTag = await resolveWorkingTag(folderName, sector);
-      let padIdx = 0;
       while (images.length < 8) {
-        const seed = (totalMappedImages * 8) + padIdx + 12000;
-        const width = padIdx % 2 === 0 ? 3840 : 2160;
-        const height = padIdx % 2 === 0 ? 2160 : 3840;
+        const seed = globalSeedCounter++;
+        const width = images.length % 2 === 0 ? 3840 : 2160;
+        const height = images.length % 2 === 0 ? 2160 : 3840;
         images.push(`https://loremflickr.com/${width}/${height}/${resolvedTag}?lock=${seed}`);
-        padIdx++;
       }
     }
 
@@ -404,10 +443,7 @@ let currentGlobalIndex = 1000;
     }
   }
 
-  // 2. Calculate global seed index dynamically
-  currentGlobalIndex = totalMappedImages + 10;
-
-  // 3. Pad each category with extra entries up to exactly 101 entries
+  // 2. Pad each category with extra entries up to exactly 101 entries
   await padSector(database.land, landPadding, 'land', 101);
   await padSector(database.marine, marinePadding, 'marine', 101);
   await padSector(database.birds, birdPadding, 'birds', 101);

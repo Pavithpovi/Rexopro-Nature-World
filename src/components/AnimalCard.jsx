@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { download4KImage } from '../utils/downloader';
-import { getImageUrl } from '../utils/resolveAsset';
+import { getImageUrl, getSafeAnimalTag } from '../utils/resolveAsset';
 
 export default function AnimalCard({ animal, onCardClick, isLiked, onToggleLike }) {
   const [downloadingLaptop, setDownloadingLaptop] = useState(false);
@@ -43,19 +43,7 @@ export default function AnimalCard({ animal, onCardClick, isLiked, onToggleLike 
   const handleImageError = (e) => {
     // If it's a local image path, fall back to a dynamic LoremFlickr image for this specific animal!
     if (imageSrc && !imageSrc.startsWith('http')) {
-      const cleanName = animal.name
-        .split(' Extra-')[0]
-        .split(' Type-')[0]
-        .split(' v')[0]
-        .toLowerCase()
-        .replace(/ /g, '-');
-      
-      let tag = cleanName;
-      if (animal.id.startsWith('marine') && !cleanName.includes('fish') && !cleanName.includes('whale') && !cleanName.includes('shark')) {
-        tag = `${cleanName},marine-life`;
-      } else if (animal.id.startsWith('birds') && !cleanName.includes('bird') && !cleanName.includes('owl') && !cleanName.includes('eagle')) {
-        tag = `${cleanName},bird`;
-      }
+      const tag = getSafeAnimalTag(animal.name, getSector());
 
       const seed = animal.name.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0) + fallbackIndex + 25000;
       const width = fallbackIndex % 2 === 0 ? 3840 : 2160;

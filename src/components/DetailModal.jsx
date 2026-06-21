@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { download4KImage } from '../utils/downloader';
-import { getImageUrl } from '../utils/resolveAsset';
+import { getImageUrl, getSafeAnimalTag } from '../utils/resolveAsset';
 
 const EMERGENCY_FALLBACKS = {
   land: 'https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80', // Lion
@@ -146,19 +146,7 @@ export default function DetailModal({ animal, onClose, isLiked, onToggleLike }) 
                     e.target.onerror = null; // Prevent infinite loop on fallback
                     const activeImage = animal.images[currentImageIndex];
                     if (activeImage && !activeImage.startsWith('http')) {
-                      const cleanName = animal.name
-                        .split(' Extra-')[0]
-                        .split(' Type-')[0]
-                        .split(' v')[0]
-                        .toLowerCase()
-                        .replace(/ /g, '-');
-                      
-                      let tag = cleanName;
-                      if (animal.id.startsWith('marine') && !cleanName.includes('fish') && !cleanName.includes('whale') && !cleanName.includes('shark')) {
-                        tag = `${cleanName},marine-life`;
-                      } else if (animal.id.startsWith('birds') && !cleanName.includes('bird') && !cleanName.includes('owl') && !cleanName.includes('eagle')) {
-                        tag = `${cleanName},bird`;
-                      }
+                      const tag = getSafeAnimalTag(animal.name, sector);
                       
                       const seed = animal.name.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0) + currentImageIndex + 25000;
                       const width = currentImageIndex % 2 === 0 ? 3840 : 2160;
