@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { download4KImage } from '../utils/downloader';
+import { getImageUrl } from '../utils/resolveAsset';
 
 const EMERGENCY_FALLBACKS = {
   land: 'https://images.unsplash.com/photo-1546182990-dffeafbe841d?auto=format&fit=crop&w=800&q=80', // Lion
@@ -138,7 +139,7 @@ export default function DetailModal({ animal, onClose, isLiked, onToggleLike }) 
             <div className="album-viewport">
               <div id="album-image-card" className="album-image-card">
                 <img 
-                  src={animal.images[currentImageIndex]} 
+                  src={getImageUrl(animal.images[currentImageIndex])} 
                   alt={`${animal.name} slide`} 
                   className={fadeState === 'out' ? 'fade-out' : ''}
                   onError={(e) => { e.target.src = EMERGENCY_FALLBACKS[sector] || EMERGENCY_FALLBACKS.land; }}

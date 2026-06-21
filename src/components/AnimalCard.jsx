@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { download4KImage } from '../utils/downloader';
+import { getImageUrl } from '../utils/resolveAsset';
 
 export default function AnimalCard({ animal, onCardClick, isLiked, onToggleLike }) {
   const [downloadingLaptop, setDownloadingLaptop] = useState(false);
@@ -29,12 +30,14 @@ export default function AnimalCard({ animal, onCardClick, isLiked, onToggleLike 
   };
 
   const getThumbnailUrl = (url) => {
-    if (url && url.includes('loremflickr.com')) {
-      return url
+    if (!url) return '';
+    let resolvedUrl = url;
+    if (url.includes('loremflickr.com')) {
+      resolvedUrl = url
         .replace('/3840/2160/', '/800/600/')
         .replace('/2160/3840/', '/600/800/');
     }
-    return url;
+    return getImageUrl(resolvedUrl);
   };
 
   const handleImageError = () => {
