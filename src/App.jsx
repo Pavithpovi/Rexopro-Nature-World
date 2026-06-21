@@ -161,7 +161,12 @@ export default function App() {
               <h2>{getSectorTitle()}</h2>
               <div 
                 className="logo-spinner-mini" 
-                style={{ borderColor: getSpinnerColor(), borderTopColor: 'transparent' }}
+                style={{ 
+                  borderLeftColor: getSpinnerColor(), 
+                  borderRightColor: getSpinnerColor(), 
+                  borderBottomColor: getSpinnerColor(), 
+                  borderTopColor: 'transparent' 
+                }}
               ></div>
             </div>
 
