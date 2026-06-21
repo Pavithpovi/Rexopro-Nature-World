@@ -114,7 +114,7 @@ const birdPadding = [
 // Helper to generate unique LoremFlickr images using search tags and seed values
 const resolvedTagsCache = {};
 
-async function resolveWorkingTag(name) {
+async function resolveWorkingTag(name, sector) {
   let cleanName = name.split(' Extra-')[0].toLowerCase();
   // Strip parentheses and anything inside them
   cleanName = cleanName.replace(/\s*\([^)]*\)\s*/g, ' ').trim();
@@ -126,23 +126,30 @@ async function resolveWorkingTag(name) {
   const words = cleanName.split(' ');
   const lastWord = words[words.length - 1];
 
-  // Candidates in order of preference
+  // Candidates in order of preference (completely avoiding raw "animal" and other loose tags that contain cars/humans)
   const candidates = [
     cleanName.replace(/ /g, '-'),                             // "grizzly-bear"
     lastWord,                                                 // "bear"
-    `animal,${lastWord}`,                                     // "animal,bear"
     `wildlife,${lastWord}`,                                   // "wildlife,bear"
-    `animal,${cleanName.replace(/ /g, ',')}`,                 // "animal,grizzly,bear"
-    "animal",
-    "wildlife"
+    `fauna,${lastWord}`                                       // "fauna,bear"
   ];
+
+  // Category specific fallbacks
+  const sectorFallbacks = {
+    land: ["mammal", "wildlife", "fauna"],
+    marine: ["marine-life", "fauna"],
+    birds: ["bird", "wildlife", "fauna"]
+  };
+
+  const fallbacks = sectorFallbacks[sector] || ["wildlife", "fauna"];
+  candidates.push(...fallbacks);
 
   for (const tag of candidates) {
     const url = `https://loremflickr.com/800/600/${tag}`;
     try {
       const res = await fetch(url, { method: 'HEAD' });
       if (res.status === 200) {
-        console.log(`Resolved working tag for "${cleanName}" -> "${tag}"`);
+        console.log(`Resolved working tag for "${cleanName}" (${sector}) -> "${tag}"`);
         resolvedTagsCache[cleanName] = tag;
         return tag;
       }
@@ -151,8 +158,8 @@ async function resolveWorkingTag(name) {
     }
   }
 
-  resolvedTagsCache[cleanName] = "animal";
-  return "animal";
+  resolvedTagsCache[cleanName] = fallbacks[0];
+  return fallbacks[0];
 }
 
 function getUniqueFlickrImagesWithTag(tag, animalIndex) {
@@ -283,70 +290,6 @@ const database = {
 
 let totalMappedImages = 0;
 
-// 1. First load all local dataset entries
-folders.forEach((folderName) => {
-  const dictionaryEntry = animalDictionary[folderName];
-  if (!dictionaryEntry) {
-    console.warn(`Warning: Animal folder "${folderName}" not found in dictionary mapping. Skipping...`);
-    return;
-  }
-
-  const [commonName, scientificName, sector, habitat, diet, lifespan, size, weight, speed, description] = dictionaryEntry;
-
-  // Scan folder for images
-  const animalFolderFullPath = path.join(publicAnimalsDir, folderName);
-  const images = fs.readdirSync(animalFolderFullPath)
-    .filter(file => {
-      const ext = path.extname(file).toLowerCase();
-      return ext === '.jpg' || ext === '.jpeg' || ext === '.png';
-    })
-    .slice(0, 8)
-    .map(file => {
-      totalMappedImages++;
-      // Return absolute web URL relative to the public root
-      return `/animals/${folderName}/${file}`;
-    });
-
-  if (images.length === 0) {
-    console.warn(`Warning: No images found in folder "${folderName}". Skipping animal...`);
-    return;
-  }
-
-  // If there are fewer than 8 images, fill the slots by wrapping around
-  while (images.length < 8) {
-    images.push(images[images.length % images.length]);
-  }
-
-  const animalEntry = {
-    id: `${sector}-${folderName}`,
-    name: commonName,
-    scientificName: scientificName,
-    habitat: habitat,
-    conservationStatus: Math.random() > 0.85 ? "Endangered" : Math.random() > 0.6 ? "Vulnerable" : "Least Concern",
-    diet: diet,
-    stats: {
-      lifespan: lifespan,
-      size: size,
-      weight: weight,
-      speed: speed
-    },
-    description: description,
-    images: images
-  };
-
-  // Sort into the active realm sector
-  if (sector === 'land') {
-    database.land.push(animalEntry);
-  } else if (sector === 'marine') {
-    database.marine.push(animalEntry);
-  } else if (sector === 'birds') {
-    database.birds.push(animalEntry);
-  }
-});
-
-// 2. Pad each category with extra entries up to exactly 101 entries to satisfy 100+ requirement
-let currentGlobalIndex = totalMappedImages + 10;
-
 async function padSector(sectorList, paddingSource, sectorKey, requiredCount) {
   let padIdx = 0;
   while (sectorList.length < requiredCount && padIdx < paddingSource.length) {
@@ -364,7 +307,7 @@ async function padSector(sectorList, paddingSource, sectorKey, requiredCount) {
     });
     
     if (!isAlreadyPresent) {
-      const resolvedTag = await resolveWorkingTag(name);
+      const resolvedTag = await resolveWorkingTag(name, sectorKey);
       const generatedImages = getUniqueFlickrImagesWithTag(resolvedTag, currentGlobalIndex++);
       
       sectorList.push({
@@ -388,7 +331,83 @@ async function padSector(sectorList, paddingSource, sectorKey, requiredCount) {
   }
 }
 
+// Global variable updated in loop and read in padSector
+let currentGlobalIndex = 1000;
+
 (async () => {
+  // 1. First load all local dataset entries
+  for (const folderName of folders) {
+    const dictionaryEntry = animalDictionary[folderName];
+    if (!dictionaryEntry) {
+      console.warn(`Warning: Animal folder "${folderName}" not found in dictionary mapping. Skipping...`);
+      continue;
+    }
+
+    const [commonName, scientificName, sector, habitat, diet, lifespan, size, weight, speed, description] = dictionaryEntry;
+
+    // Scan folder for images
+    const animalFolderFullPath = path.join(publicAnimalsDir, folderName);
+    const images = fs.readdirSync(animalFolderFullPath)
+      .filter(file => {
+        const ext = path.extname(file).toLowerCase();
+        return ext === '.jpg' || ext === '.jpeg' || ext === '.png';
+      })
+      .slice(0, 8)
+      .map(file => {
+        totalMappedImages++;
+        // Return absolute web URL relative to the public root
+        return `/animals/${folderName}/${file}`;
+      });
+
+    if (images.length === 0) {
+      console.warn(`Warning: No images found in folder "${folderName}". Skipping animal...`);
+      continue;
+    }
+
+    // If there are fewer than 8 images, pad them with unique verified LoremFlickr images of this species/sector to avoid repeated images!
+    if (images.length < 8) {
+      const resolvedTag = await resolveWorkingTag(folderName, sector);
+      let padIdx = 0;
+      while (images.length < 8) {
+        const seed = (totalMappedImages * 8) + padIdx + 12000;
+        const width = padIdx % 2 === 0 ? 3840 : 2160;
+        const height = padIdx % 2 === 0 ? 2160 : 3840;
+        images.push(`https://loremflickr.com/${width}/${height}/${resolvedTag}?lock=${seed}`);
+        padIdx++;
+      }
+    }
+
+    const animalEntry = {
+      id: `${sector}-${folderName}`,
+      name: commonName,
+      scientificName: scientificName,
+      habitat: habitat,
+      conservationStatus: Math.random() > 0.85 ? "Endangered" : Math.random() > 0.6 ? "Vulnerable" : "Least Concern",
+      diet: diet,
+      stats: {
+        lifespan: lifespan,
+        size: size,
+        weight: weight,
+        speed: speed
+      },
+      description: description,
+      images: images
+    };
+
+    // Sort into the active realm sector
+    if (sector === 'land') {
+      database.land.push(animalEntry);
+    } else if (sector === 'marine') {
+      database.marine.push(animalEntry);
+    } else if (sector === 'birds') {
+      database.birds.push(animalEntry);
+    }
+  }
+
+  // 2. Calculate global seed index dynamically
+  currentGlobalIndex = totalMappedImages + 10;
+
+  // 3. Pad each category with extra entries up to exactly 101 entries
   await padSector(database.land, landPadding, 'land', 101);
   await padSector(database.marine, marinePadding, 'marine', 101);
   await padSector(database.birds, birdPadding, 'birds', 101);

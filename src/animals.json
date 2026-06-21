@@ -5,7 +5,7 @@
       "name": "Antelope",
       "scientificName": "Antilocapra americana",
       "habitat": "Grasslands",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -30,7 +30,7 @@
       "name": "Badger",
       "scientificName": "Meles meles",
       "habitat": "Forest/Grassland",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "10-12 years",
@@ -55,7 +55,7 @@
       "name": "Bat",
       "scientificName": "Microchiroptera",
       "habitat": "Caves/Forests",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Insectivore",
       "stats": {
         "lifespan": "10-20 years",
@@ -105,7 +105,7 @@
       "name": "Bee",
       "scientificName": "Apis",
       "habitat": "Gardens/Meadows",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "5-6 weeks",
@@ -130,7 +130,7 @@
       "name": "Beetle",
       "scientificName": "Coleoptera",
       "habitat": "Leaf Litter/Soil",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "1-2 years",
@@ -180,7 +180,7 @@
       "name": "Boar",
       "scientificName": "Sus scrofa",
       "habitat": "Boreal Forest",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "10-14 years",
@@ -230,7 +230,7 @@
       "name": "Cat",
       "scientificName": "Felis catus",
       "habitat": "Domestic/Urban",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "12-15 years",
@@ -255,7 +255,7 @@
       "name": "Caterpillar",
       "scientificName": "Lepidoptera larva",
       "habitat": "Vegetation",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "2-4 weeks",
@@ -330,7 +330,7 @@
       "name": "Cow",
       "scientificName": "Bos taurus",
       "habitat": "Pasture/Farms",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "15-20 years",
@@ -355,7 +355,7 @@
       "name": "Coyote",
       "scientificName": "Canis latrans",
       "habitat": "Grassland/Desert",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "10-14 years",
@@ -380,7 +380,7 @@
       "name": "Deer",
       "scientificName": "Cervidae",
       "habitat": "Forest/Meadow",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "10-12 years",
@@ -455,7 +455,7 @@
       "name": "Dragonfly",
       "scientificName": "Anisoptera",
       "habitat": "Wetlands/Ponds",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "6 months",
@@ -505,7 +505,7 @@
       "name": "Fly",
       "scientificName": "Diptera",
       "habitat": "Global",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "2-4 weeks",
@@ -605,7 +605,7 @@
       "name": "Grasshopper",
       "scientificName": "Caelifera",
       "habitat": "Grasslands/Fields",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Endangered",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "1 year",
@@ -680,7 +680,7 @@
       "name": "Hedgehog",
       "scientificName": "Erinaceinae",
       "habitat": "Woodlands/Gardens",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "3-6 years",
@@ -755,7 +755,7 @@
       "name": "Hyena",
       "scientificName": "Hyaenidae",
       "habitat": "Savannah",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "12-15 years",
@@ -780,7 +780,7 @@
       "name": "Kangaroo",
       "scientificName": "Macropodidae",
       "habitat": "Australian Outback",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "15-20 years",
@@ -805,7 +805,7 @@
       "name": "Koala",
       "scientificName": "Phascolarctos cinereus",
       "habitat": "Eucalyptus Forest",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "13-18 years",
@@ -830,7 +830,7 @@
       "name": "Ladybug",
       "scientificName": "Coccinellidae",
       "habitat": "Gardens/Fields",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "1 year",
@@ -855,7 +855,7 @@
       "name": "Leopard",
       "scientificName": "Panthera pardus",
       "habitat": "Forests/Savannah",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "12-17 years",
@@ -905,7 +905,7 @@
       "name": "Lizard",
       "scientificName": "Lacertilia",
       "habitat": "Forests/Deserts",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "5-10 years",
@@ -930,7 +930,7 @@
       "name": "Mosquito",
       "scientificName": "Culicidae",
       "habitat": "Swamps/Global",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "2-4 weeks",
@@ -955,7 +955,7 @@
       "name": "Moth",
       "scientificName": "Lepidoptera",
       "habitat": "Woodlands/Global",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "1-2 months",
@@ -980,7 +980,7 @@
       "name": "Mouse",
       "scientificName": "Mus musculus",
       "habitat": "Fields/Urban",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "1-2 years",
@@ -1030,7 +1030,7 @@
       "name": "Orangutan",
       "scientificName": "Pongo",
       "habitat": "Rainforest Canopy",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "35-45 years",
@@ -1055,7 +1055,7 @@
       "name": "Ox",
       "scientificName": "Bos taurus",
       "habitat": "Farms/Fields",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "15-20 years",
@@ -1155,7 +1155,7 @@
       "name": "Possum",
       "scientificName": "Phalangeriformes",
       "habitat": "Woodlands",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "4-8 years",
@@ -1180,7 +1180,7 @@
       "name": "Raccoon",
       "scientificName": "Procyon lotor",
       "habitat": "Forests/Suburbs",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "3-5 years",
@@ -1280,7 +1280,7 @@
       "name": "Sheep",
       "scientificName": "Ovis aries",
       "habitat": "Pastures/Farms",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "10-12 years",
@@ -1305,7 +1305,7 @@
       "name": "Snake",
       "scientificName": "Serpentes",
       "habitat": "Forests/Deserts",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -1330,7 +1330,7 @@
       "name": "Squirrel",
       "scientificName": "Sciuridae",
       "habitat": "Woodlands/Parks",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "5-8 years",
@@ -1355,7 +1355,7 @@
       "name": "Tiger",
       "scientificName": "Panthera tigris",
       "habitat": "Rainforest",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -1430,7 +1430,7 @@
       "name": "Zebra",
       "scientificName": "Equus quagga",
       "habitat": "Savannah",
-      "conservationStatus": "Endangered",
+      "conservationStatus": "Least Concern",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "20-25 years",
@@ -2607,7 +2607,7 @@
       "name": "Jellyfish",
       "scientificName": "Medusozoa",
       "habitat": "Open Ocean",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "1 year",
@@ -2682,7 +2682,7 @@
       "name": "Otter",
       "scientificName": "Lutrinae",
       "habitat": "Rivers/Coasts",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Endangered",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -2707,7 +2707,7 @@
       "name": "Oyster",
       "scientificName": "Ostreidae",
       "habitat": "Estuary Beds",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Filter Feeder",
       "stats": {
         "lifespan": "10-20 years",
@@ -2757,7 +2757,7 @@
       "name": "Seal",
       "scientificName": "Pinnipedia",
       "habitat": "Rocky Coasts",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "25-30 years",
@@ -2857,7 +2857,7 @@
       "name": "Turtle",
       "scientificName": "Testudines",
       "habitat": "Oceans/Ponds",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "50-100 years",
@@ -2882,7 +2882,7 @@
       "name": "Whale",
       "scientificName": "Cetacea",
       "habitat": "Open Ocean",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "70-90 years",
@@ -3042,14 +3042,14 @@
       },
       "description": "A social white whale with a bulbous, flexible forehead used for communication.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11224",
-        "https://loremflickr.com/2160/3840/animal?lock=11225",
-        "https://loremflickr.com/3840/2160/animal?lock=11226",
-        "https://loremflickr.com/2160/3840/animal?lock=11227",
-        "https://loremflickr.com/3840/2160/animal?lock=11228",
-        "https://loremflickr.com/2160/3840/animal?lock=11229",
-        "https://loremflickr.com/3840/2160/animal?lock=11230",
-        "https://loremflickr.com/2160/3840/animal?lock=11231"
+        "https://loremflickr.com/3840/2160/fauna,whale?lock=11224",
+        "https://loremflickr.com/2160/3840/fauna,whale?lock=11225",
+        "https://loremflickr.com/3840/2160/fauna,whale?lock=11226",
+        "https://loremflickr.com/2160/3840/fauna,whale?lock=11227",
+        "https://loremflickr.com/3840/2160/fauna,whale?lock=11228",
+        "https://loremflickr.com/2160/3840/fauna,whale?lock=11229",
+        "https://loremflickr.com/3840/2160/fauna,whale?lock=11230",
+        "https://loremflickr.com/2160/3840/fauna,whale?lock=11231"
       ]
     },
     {
@@ -3067,14 +3067,14 @@
       },
       "description": "The 'unicorn of the sea,' featuring a long spiral tusk which is actually an elongated tooth.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11232",
-        "https://loremflickr.com/2160/3840/animal?lock=11233",
-        "https://loremflickr.com/3840/2160/animal?lock=11234",
-        "https://loremflickr.com/2160/3840/animal?lock=11235",
-        "https://loremflickr.com/3840/2160/animal?lock=11236",
-        "https://loremflickr.com/2160/3840/animal?lock=11237",
-        "https://loremflickr.com/3840/2160/animal?lock=11238",
-        "https://loremflickr.com/2160/3840/animal?lock=11239"
+        "https://loremflickr.com/3840/2160/fauna,narwhal?lock=11232",
+        "https://loremflickr.com/2160/3840/fauna,narwhal?lock=11233",
+        "https://loremflickr.com/3840/2160/fauna,narwhal?lock=11234",
+        "https://loremflickr.com/2160/3840/fauna,narwhal?lock=11235",
+        "https://loremflickr.com/3840/2160/fauna,narwhal?lock=11236",
+        "https://loremflickr.com/2160/3840/fauna,narwhal?lock=11237",
+        "https://loremflickr.com/3840/2160/fauna,narwhal?lock=11238",
+        "https://loremflickr.com/2160/3840/fauna,narwhal?lock=11239"
       ]
     },
     {
@@ -3092,14 +3092,14 @@
       },
       "description": "A gentle giant ray that glides gracefully through water, filtering plankton with its mouth.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11240",
-        "https://loremflickr.com/2160/3840/animal?lock=11241",
-        "https://loremflickr.com/3840/2160/animal?lock=11242",
-        "https://loremflickr.com/2160/3840/animal?lock=11243",
-        "https://loremflickr.com/3840/2160/animal?lock=11244",
-        "https://loremflickr.com/2160/3840/animal?lock=11245",
-        "https://loremflickr.com/3840/2160/animal?lock=11246",
-        "https://loremflickr.com/2160/3840/animal?lock=11247"
+        "https://loremflickr.com/3840/2160/fauna,ray?lock=11240",
+        "https://loremflickr.com/2160/3840/fauna,ray?lock=11241",
+        "https://loremflickr.com/3840/2160/fauna,ray?lock=11242",
+        "https://loremflickr.com/2160/3840/fauna,ray?lock=11243",
+        "https://loremflickr.com/3840/2160/fauna,ray?lock=11244",
+        "https://loremflickr.com/2160/3840/fauna,ray?lock=11245",
+        "https://loremflickr.com/3840/2160/fauna,ray?lock=11246",
+        "https://loremflickr.com/2160/3840/fauna,ray?lock=11247"
       ]
     },
     {
@@ -3192,14 +3192,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #2.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11272",
-        "https://loremflickr.com/2160/3840/animal?lock=11273",
-        "https://loremflickr.com/3840/2160/animal?lock=11274",
-        "https://loremflickr.com/2160/3840/animal?lock=11275",
-        "https://loremflickr.com/3840/2160/animal?lock=11276",
-        "https://loremflickr.com/2160/3840/animal?lock=11277",
-        "https://loremflickr.com/3840/2160/animal?lock=11278",
-        "https://loremflickr.com/2160/3840/animal?lock=11279"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11272",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11273",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11274",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11275",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11276",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11277",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11278",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11279"
       ]
     },
     {
@@ -3217,14 +3217,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #3.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11280",
-        "https://loremflickr.com/2160/3840/animal?lock=11281",
-        "https://loremflickr.com/3840/2160/animal?lock=11282",
-        "https://loremflickr.com/2160/3840/animal?lock=11283",
-        "https://loremflickr.com/3840/2160/animal?lock=11284",
-        "https://loremflickr.com/2160/3840/animal?lock=11285",
-        "https://loremflickr.com/3840/2160/animal?lock=11286",
-        "https://loremflickr.com/2160/3840/animal?lock=11287"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11280",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11281",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11282",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11283",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11284",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11285",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11286",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11287"
       ]
     },
     {
@@ -3267,14 +3267,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #5.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11296",
-        "https://loremflickr.com/2160/3840/animal?lock=11297",
-        "https://loremflickr.com/3840/2160/animal?lock=11298",
-        "https://loremflickr.com/2160/3840/animal?lock=11299",
-        "https://loremflickr.com/3840/2160/animal?lock=11300",
-        "https://loremflickr.com/2160/3840/animal?lock=11301",
-        "https://loremflickr.com/3840/2160/animal?lock=11302",
-        "https://loremflickr.com/2160/3840/animal?lock=11303"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11296",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11297",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11298",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11299",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11300",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11301",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11302",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11303"
       ]
     },
     {
@@ -3317,14 +3317,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #7.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11312",
-        "https://loremflickr.com/2160/3840/animal?lock=11313",
-        "https://loremflickr.com/3840/2160/animal?lock=11314",
-        "https://loremflickr.com/2160/3840/animal?lock=11315",
-        "https://loremflickr.com/3840/2160/animal?lock=11316",
-        "https://loremflickr.com/2160/3840/animal?lock=11317",
-        "https://loremflickr.com/3840/2160/animal?lock=11318",
-        "https://loremflickr.com/2160/3840/animal?lock=11319"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11312",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11313",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11314",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11315",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11316",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11317",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11318",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11319"
       ]
     },
     {
@@ -3342,14 +3342,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #8.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11320",
-        "https://loremflickr.com/2160/3840/animal?lock=11321",
-        "https://loremflickr.com/3840/2160/animal?lock=11322",
-        "https://loremflickr.com/2160/3840/animal?lock=11323",
-        "https://loremflickr.com/3840/2160/animal?lock=11324",
-        "https://loremflickr.com/2160/3840/animal?lock=11325",
-        "https://loremflickr.com/3840/2160/animal?lock=11326",
-        "https://loremflickr.com/2160/3840/animal?lock=11327"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11320",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11321",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11322",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11323",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11324",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11325",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11326",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11327"
       ]
     },
     {
@@ -3392,14 +3392,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #10.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11336",
-        "https://loremflickr.com/2160/3840/animal?lock=11337",
-        "https://loremflickr.com/3840/2160/animal?lock=11338",
-        "https://loremflickr.com/2160/3840/animal?lock=11339",
-        "https://loremflickr.com/3840/2160/animal?lock=11340",
-        "https://loremflickr.com/2160/3840/animal?lock=11341",
-        "https://loremflickr.com/3840/2160/animal?lock=11342",
-        "https://loremflickr.com/2160/3840/animal?lock=11343"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11336",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11337",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11338",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11339",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11340",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11341",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11342",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11343"
       ]
     },
     {
@@ -3442,14 +3442,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #12.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11352",
-        "https://loremflickr.com/2160/3840/animal?lock=11353",
-        "https://loremflickr.com/3840/2160/animal?lock=11354",
-        "https://loremflickr.com/2160/3840/animal?lock=11355",
-        "https://loremflickr.com/3840/2160/animal?lock=11356",
-        "https://loremflickr.com/2160/3840/animal?lock=11357",
-        "https://loremflickr.com/3840/2160/animal?lock=11358",
-        "https://loremflickr.com/2160/3840/animal?lock=11359"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11352",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11353",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11354",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11355",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11356",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11357",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11358",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11359"
       ]
     },
     {
@@ -3467,14 +3467,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #13.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11360",
-        "https://loremflickr.com/2160/3840/animal?lock=11361",
-        "https://loremflickr.com/3840/2160/animal?lock=11362",
-        "https://loremflickr.com/2160/3840/animal?lock=11363",
-        "https://loremflickr.com/3840/2160/animal?lock=11364",
-        "https://loremflickr.com/2160/3840/animal?lock=11365",
-        "https://loremflickr.com/3840/2160/animal?lock=11366",
-        "https://loremflickr.com/2160/3840/animal?lock=11367"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11360",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11361",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11362",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11363",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11364",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11365",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11366",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11367"
       ]
     },
     {
@@ -3517,14 +3517,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #15.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11376",
-        "https://loremflickr.com/2160/3840/animal?lock=11377",
-        "https://loremflickr.com/3840/2160/animal?lock=11378",
-        "https://loremflickr.com/2160/3840/animal?lock=11379",
-        "https://loremflickr.com/3840/2160/animal?lock=11380",
-        "https://loremflickr.com/2160/3840/animal?lock=11381",
-        "https://loremflickr.com/3840/2160/animal?lock=11382",
-        "https://loremflickr.com/2160/3840/animal?lock=11383"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11376",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11377",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11378",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11379",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11380",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11381",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11382",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11383"
       ]
     },
     {
@@ -3567,14 +3567,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #17.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11392",
-        "https://loremflickr.com/2160/3840/animal?lock=11393",
-        "https://loremflickr.com/3840/2160/animal?lock=11394",
-        "https://loremflickr.com/2160/3840/animal?lock=11395",
-        "https://loremflickr.com/3840/2160/animal?lock=11396",
-        "https://loremflickr.com/2160/3840/animal?lock=11397",
-        "https://loremflickr.com/3840/2160/animal?lock=11398",
-        "https://loremflickr.com/2160/3840/animal?lock=11399"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11392",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11393",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11394",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11395",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11396",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11397",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11398",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11399"
       ]
     },
     {
@@ -3592,14 +3592,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #18.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11400",
-        "https://loremflickr.com/2160/3840/animal?lock=11401",
-        "https://loremflickr.com/3840/2160/animal?lock=11402",
-        "https://loremflickr.com/2160/3840/animal?lock=11403",
-        "https://loremflickr.com/3840/2160/animal?lock=11404",
-        "https://loremflickr.com/2160/3840/animal?lock=11405",
-        "https://loremflickr.com/3840/2160/animal?lock=11406",
-        "https://loremflickr.com/2160/3840/animal?lock=11407"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11400",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11401",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11402",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11403",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11404",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11405",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11406",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11407"
       ]
     },
     {
@@ -3642,14 +3642,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #20.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11416",
-        "https://loremflickr.com/2160/3840/animal?lock=11417",
-        "https://loremflickr.com/3840/2160/animal?lock=11418",
-        "https://loremflickr.com/2160/3840/animal?lock=11419",
-        "https://loremflickr.com/3840/2160/animal?lock=11420",
-        "https://loremflickr.com/2160/3840/animal?lock=11421",
-        "https://loremflickr.com/3840/2160/animal?lock=11422",
-        "https://loremflickr.com/2160/3840/animal?lock=11423"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11416",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11417",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11418",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11419",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11420",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11421",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11422",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11423"
       ]
     },
     {
@@ -3692,14 +3692,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #22.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11432",
-        "https://loremflickr.com/2160/3840/animal?lock=11433",
-        "https://loremflickr.com/3840/2160/animal?lock=11434",
-        "https://loremflickr.com/2160/3840/animal?lock=11435",
-        "https://loremflickr.com/3840/2160/animal?lock=11436",
-        "https://loremflickr.com/2160/3840/animal?lock=11437",
-        "https://loremflickr.com/3840/2160/animal?lock=11438",
-        "https://loremflickr.com/2160/3840/animal?lock=11439"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11432",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11433",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11434",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11435",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11436",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11437",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11438",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11439"
       ]
     },
     {
@@ -3717,14 +3717,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #23.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11440",
-        "https://loremflickr.com/2160/3840/animal?lock=11441",
-        "https://loremflickr.com/3840/2160/animal?lock=11442",
-        "https://loremflickr.com/2160/3840/animal?lock=11443",
-        "https://loremflickr.com/3840/2160/animal?lock=11444",
-        "https://loremflickr.com/2160/3840/animal?lock=11445",
-        "https://loremflickr.com/3840/2160/animal?lock=11446",
-        "https://loremflickr.com/2160/3840/animal?lock=11447"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11440",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11441",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11442",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11443",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11444",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11445",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11446",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11447"
       ]
     },
     {
@@ -3767,14 +3767,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #25.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11456",
-        "https://loremflickr.com/2160/3840/animal?lock=11457",
-        "https://loremflickr.com/3840/2160/animal?lock=11458",
-        "https://loremflickr.com/2160/3840/animal?lock=11459",
-        "https://loremflickr.com/3840/2160/animal?lock=11460",
-        "https://loremflickr.com/2160/3840/animal?lock=11461",
-        "https://loremflickr.com/3840/2160/animal?lock=11462",
-        "https://loremflickr.com/2160/3840/animal?lock=11463"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11456",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11457",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11458",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11459",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11460",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11461",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11462",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11463"
       ]
     },
     {
@@ -3817,14 +3817,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #27.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11472",
-        "https://loremflickr.com/2160/3840/animal?lock=11473",
-        "https://loremflickr.com/3840/2160/animal?lock=11474",
-        "https://loremflickr.com/2160/3840/animal?lock=11475",
-        "https://loremflickr.com/3840/2160/animal?lock=11476",
-        "https://loremflickr.com/2160/3840/animal?lock=11477",
-        "https://loremflickr.com/3840/2160/animal?lock=11478",
-        "https://loremflickr.com/2160/3840/animal?lock=11479"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11472",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11473",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11474",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11475",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11476",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11477",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11478",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11479"
       ]
     },
     {
@@ -3842,14 +3842,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #28.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11480",
-        "https://loremflickr.com/2160/3840/animal?lock=11481",
-        "https://loremflickr.com/3840/2160/animal?lock=11482",
-        "https://loremflickr.com/2160/3840/animal?lock=11483",
-        "https://loremflickr.com/3840/2160/animal?lock=11484",
-        "https://loremflickr.com/2160/3840/animal?lock=11485",
-        "https://loremflickr.com/3840/2160/animal?lock=11486",
-        "https://loremflickr.com/2160/3840/animal?lock=11487"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11480",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11481",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11482",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11483",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11484",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11485",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11486",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11487"
       ]
     },
     {
@@ -3892,14 +3892,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #30.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11496",
-        "https://loremflickr.com/2160/3840/animal?lock=11497",
-        "https://loremflickr.com/3840/2160/animal?lock=11498",
-        "https://loremflickr.com/2160/3840/animal?lock=11499",
-        "https://loremflickr.com/3840/2160/animal?lock=11500",
-        "https://loremflickr.com/2160/3840/animal?lock=11501",
-        "https://loremflickr.com/3840/2160/animal?lock=11502",
-        "https://loremflickr.com/2160/3840/animal?lock=11503"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11496",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11497",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11498",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11499",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11500",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11501",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11502",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11503"
       ]
     },
     {
@@ -3942,14 +3942,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #32.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11512",
-        "https://loremflickr.com/2160/3840/animal?lock=11513",
-        "https://loremflickr.com/3840/2160/animal?lock=11514",
-        "https://loremflickr.com/2160/3840/animal?lock=11515",
-        "https://loremflickr.com/3840/2160/animal?lock=11516",
-        "https://loremflickr.com/2160/3840/animal?lock=11517",
-        "https://loremflickr.com/3840/2160/animal?lock=11518",
-        "https://loremflickr.com/2160/3840/animal?lock=11519"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11512",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11513",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11514",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11515",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11516",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11517",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11518",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11519"
       ]
     },
     {
@@ -3967,14 +3967,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #33.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11520",
-        "https://loremflickr.com/2160/3840/animal?lock=11521",
-        "https://loremflickr.com/3840/2160/animal?lock=11522",
-        "https://loremflickr.com/2160/3840/animal?lock=11523",
-        "https://loremflickr.com/3840/2160/animal?lock=11524",
-        "https://loremflickr.com/2160/3840/animal?lock=11525",
-        "https://loremflickr.com/3840/2160/animal?lock=11526",
-        "https://loremflickr.com/2160/3840/animal?lock=11527"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11520",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11521",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11522",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11523",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11524",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11525",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11526",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11527"
       ]
     },
     {
@@ -4017,14 +4017,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #35.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11536",
-        "https://loremflickr.com/2160/3840/animal?lock=11537",
-        "https://loremflickr.com/3840/2160/animal?lock=11538",
-        "https://loremflickr.com/2160/3840/animal?lock=11539",
-        "https://loremflickr.com/3840/2160/animal?lock=11540",
-        "https://loremflickr.com/2160/3840/animal?lock=11541",
-        "https://loremflickr.com/3840/2160/animal?lock=11542",
-        "https://loremflickr.com/2160/3840/animal?lock=11543"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11536",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11537",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11538",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11539",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11540",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11541",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11542",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11543"
       ]
     },
     {
@@ -4067,14 +4067,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #37.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11552",
-        "https://loremflickr.com/2160/3840/animal?lock=11553",
-        "https://loremflickr.com/3840/2160/animal?lock=11554",
-        "https://loremflickr.com/2160/3840/animal?lock=11555",
-        "https://loremflickr.com/3840/2160/animal?lock=11556",
-        "https://loremflickr.com/2160/3840/animal?lock=11557",
-        "https://loremflickr.com/3840/2160/animal?lock=11558",
-        "https://loremflickr.com/2160/3840/animal?lock=11559"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11552",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11553",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11554",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11555",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11556",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11557",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11558",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11559"
       ]
     },
     {
@@ -4092,14 +4092,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #38.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11560",
-        "https://loremflickr.com/2160/3840/animal?lock=11561",
-        "https://loremflickr.com/3840/2160/animal?lock=11562",
-        "https://loremflickr.com/2160/3840/animal?lock=11563",
-        "https://loremflickr.com/3840/2160/animal?lock=11564",
-        "https://loremflickr.com/2160/3840/animal?lock=11565",
-        "https://loremflickr.com/3840/2160/animal?lock=11566",
-        "https://loremflickr.com/2160/3840/animal?lock=11567"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11560",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11561",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11562",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11563",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11564",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11565",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11566",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11567"
       ]
     },
     {
@@ -4142,14 +4142,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #40.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11576",
-        "https://loremflickr.com/2160/3840/animal?lock=11577",
-        "https://loremflickr.com/3840/2160/animal?lock=11578",
-        "https://loremflickr.com/2160/3840/animal?lock=11579",
-        "https://loremflickr.com/3840/2160/animal?lock=11580",
-        "https://loremflickr.com/2160/3840/animal?lock=11581",
-        "https://loremflickr.com/3840/2160/animal?lock=11582",
-        "https://loremflickr.com/2160/3840/animal?lock=11583"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11576",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11577",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11578",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11579",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11580",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11581",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11582",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11583"
       ]
     },
     {
@@ -4192,14 +4192,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #42.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11592",
-        "https://loremflickr.com/2160/3840/animal?lock=11593",
-        "https://loremflickr.com/3840/2160/animal?lock=11594",
-        "https://loremflickr.com/2160/3840/animal?lock=11595",
-        "https://loremflickr.com/3840/2160/animal?lock=11596",
-        "https://loremflickr.com/2160/3840/animal?lock=11597",
-        "https://loremflickr.com/3840/2160/animal?lock=11598",
-        "https://loremflickr.com/2160/3840/animal?lock=11599"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11592",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11593",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11594",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11595",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11596",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11597",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11598",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11599"
       ]
     },
     {
@@ -4217,14 +4217,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #43.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11600",
-        "https://loremflickr.com/2160/3840/animal?lock=11601",
-        "https://loremflickr.com/3840/2160/animal?lock=11602",
-        "https://loremflickr.com/2160/3840/animal?lock=11603",
-        "https://loremflickr.com/3840/2160/animal?lock=11604",
-        "https://loremflickr.com/2160/3840/animal?lock=11605",
-        "https://loremflickr.com/3840/2160/animal?lock=11606",
-        "https://loremflickr.com/2160/3840/animal?lock=11607"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11600",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11601",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11602",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11603",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11604",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11605",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11606",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11607"
       ]
     },
     {
@@ -4267,14 +4267,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #45.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11616",
-        "https://loremflickr.com/2160/3840/animal?lock=11617",
-        "https://loremflickr.com/3840/2160/animal?lock=11618",
-        "https://loremflickr.com/2160/3840/animal?lock=11619",
-        "https://loremflickr.com/3840/2160/animal?lock=11620",
-        "https://loremflickr.com/2160/3840/animal?lock=11621",
-        "https://loremflickr.com/3840/2160/animal?lock=11622",
-        "https://loremflickr.com/2160/3840/animal?lock=11623"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11616",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11617",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11618",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11619",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11620",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11621",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11622",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11623"
       ]
     },
     {
@@ -4317,14 +4317,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #47.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11632",
-        "https://loremflickr.com/2160/3840/animal?lock=11633",
-        "https://loremflickr.com/3840/2160/animal?lock=11634",
-        "https://loremflickr.com/2160/3840/animal?lock=11635",
-        "https://loremflickr.com/3840/2160/animal?lock=11636",
-        "https://loremflickr.com/2160/3840/animal?lock=11637",
-        "https://loremflickr.com/3840/2160/animal?lock=11638",
-        "https://loremflickr.com/2160/3840/animal?lock=11639"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11632",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11633",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11634",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11635",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11636",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11637",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11638",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11639"
       ]
     },
     {
@@ -4342,14 +4342,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #48.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11640",
-        "https://loremflickr.com/2160/3840/animal?lock=11641",
-        "https://loremflickr.com/3840/2160/animal?lock=11642",
-        "https://loremflickr.com/2160/3840/animal?lock=11643",
-        "https://loremflickr.com/3840/2160/animal?lock=11644",
-        "https://loremflickr.com/2160/3840/animal?lock=11645",
-        "https://loremflickr.com/3840/2160/animal?lock=11646",
-        "https://loremflickr.com/2160/3840/animal?lock=11647"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11640",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11641",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11642",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11643",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11644",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11645",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11646",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11647"
       ]
     },
     {
@@ -4392,14 +4392,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #50.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11656",
-        "https://loremflickr.com/2160/3840/animal?lock=11657",
-        "https://loremflickr.com/3840/2160/animal?lock=11658",
-        "https://loremflickr.com/2160/3840/animal?lock=11659",
-        "https://loremflickr.com/3840/2160/animal?lock=11660",
-        "https://loremflickr.com/2160/3840/animal?lock=11661",
-        "https://loremflickr.com/3840/2160/animal?lock=11662",
-        "https://loremflickr.com/2160/3840/animal?lock=11663"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11656",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11657",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11658",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11659",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11660",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11661",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11662",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11663"
       ]
     },
     {
@@ -4442,14 +4442,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #52.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11672",
-        "https://loremflickr.com/2160/3840/animal?lock=11673",
-        "https://loremflickr.com/3840/2160/animal?lock=11674",
-        "https://loremflickr.com/2160/3840/animal?lock=11675",
-        "https://loremflickr.com/3840/2160/animal?lock=11676",
-        "https://loremflickr.com/2160/3840/animal?lock=11677",
-        "https://loremflickr.com/3840/2160/animal?lock=11678",
-        "https://loremflickr.com/2160/3840/animal?lock=11679"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11672",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11673",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11674",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11675",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11676",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11677",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11678",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11679"
       ]
     },
     {
@@ -4467,14 +4467,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #53.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11680",
-        "https://loremflickr.com/2160/3840/animal?lock=11681",
-        "https://loremflickr.com/3840/2160/animal?lock=11682",
-        "https://loremflickr.com/2160/3840/animal?lock=11683",
-        "https://loremflickr.com/3840/2160/animal?lock=11684",
-        "https://loremflickr.com/2160/3840/animal?lock=11685",
-        "https://loremflickr.com/3840/2160/animal?lock=11686",
-        "https://loremflickr.com/2160/3840/animal?lock=11687"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11680",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11681",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11682",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11683",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11684",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11685",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11686",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11687"
       ]
     },
     {
@@ -4517,14 +4517,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #55.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11696",
-        "https://loremflickr.com/2160/3840/animal?lock=11697",
-        "https://loremflickr.com/3840/2160/animal?lock=11698",
-        "https://loremflickr.com/2160/3840/animal?lock=11699",
-        "https://loremflickr.com/3840/2160/animal?lock=11700",
-        "https://loremflickr.com/2160/3840/animal?lock=11701",
-        "https://loremflickr.com/3840/2160/animal?lock=11702",
-        "https://loremflickr.com/2160/3840/animal?lock=11703"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11696",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11697",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11698",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11699",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11700",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11701",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11702",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11703"
       ]
     },
     {
@@ -4567,14 +4567,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #57.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11712",
-        "https://loremflickr.com/2160/3840/animal?lock=11713",
-        "https://loremflickr.com/3840/2160/animal?lock=11714",
-        "https://loremflickr.com/2160/3840/animal?lock=11715",
-        "https://loremflickr.com/3840/2160/animal?lock=11716",
-        "https://loremflickr.com/2160/3840/animal?lock=11717",
-        "https://loremflickr.com/3840/2160/animal?lock=11718",
-        "https://loremflickr.com/2160/3840/animal?lock=11719"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11712",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11713",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11714",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11715",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11716",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11717",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11718",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11719"
       ]
     },
     {
@@ -4592,14 +4592,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #58.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11720",
-        "https://loremflickr.com/2160/3840/animal?lock=11721",
-        "https://loremflickr.com/3840/2160/animal?lock=11722",
-        "https://loremflickr.com/2160/3840/animal?lock=11723",
-        "https://loremflickr.com/3840/2160/animal?lock=11724",
-        "https://loremflickr.com/2160/3840/animal?lock=11725",
-        "https://loremflickr.com/3840/2160/animal?lock=11726",
-        "https://loremflickr.com/2160/3840/animal?lock=11727"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11720",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11721",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11722",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11723",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11724",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11725",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11726",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11727"
       ]
     },
     {
@@ -4642,14 +4642,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #60.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11736",
-        "https://loremflickr.com/2160/3840/animal?lock=11737",
-        "https://loremflickr.com/3840/2160/animal?lock=11738",
-        "https://loremflickr.com/2160/3840/animal?lock=11739",
-        "https://loremflickr.com/3840/2160/animal?lock=11740",
-        "https://loremflickr.com/2160/3840/animal?lock=11741",
-        "https://loremflickr.com/3840/2160/animal?lock=11742",
-        "https://loremflickr.com/2160/3840/animal?lock=11743"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11736",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11737",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11738",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11739",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11740",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11741",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11742",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11743"
       ]
     },
     {
@@ -4692,14 +4692,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #62.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11752",
-        "https://loremflickr.com/2160/3840/animal?lock=11753",
-        "https://loremflickr.com/3840/2160/animal?lock=11754",
-        "https://loremflickr.com/2160/3840/animal?lock=11755",
-        "https://loremflickr.com/3840/2160/animal?lock=11756",
-        "https://loremflickr.com/2160/3840/animal?lock=11757",
-        "https://loremflickr.com/3840/2160/animal?lock=11758",
-        "https://loremflickr.com/2160/3840/animal?lock=11759"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11752",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11753",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11754",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11755",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11756",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11757",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11758",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11759"
       ]
     },
     {
@@ -4717,14 +4717,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #63.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11760",
-        "https://loremflickr.com/2160/3840/animal?lock=11761",
-        "https://loremflickr.com/3840/2160/animal?lock=11762",
-        "https://loremflickr.com/2160/3840/animal?lock=11763",
-        "https://loremflickr.com/3840/2160/animal?lock=11764",
-        "https://loremflickr.com/2160/3840/animal?lock=11765",
-        "https://loremflickr.com/3840/2160/animal?lock=11766",
-        "https://loremflickr.com/2160/3840/animal?lock=11767"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11760",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11761",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11762",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11763",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11764",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11765",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11766",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11767"
       ]
     },
     {
@@ -4767,14 +4767,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #65.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11776",
-        "https://loremflickr.com/2160/3840/animal?lock=11777",
-        "https://loremflickr.com/3840/2160/animal?lock=11778",
-        "https://loremflickr.com/2160/3840/animal?lock=11779",
-        "https://loremflickr.com/3840/2160/animal?lock=11780",
-        "https://loremflickr.com/2160/3840/animal?lock=11781",
-        "https://loremflickr.com/3840/2160/animal?lock=11782",
-        "https://loremflickr.com/2160/3840/animal?lock=11783"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11776",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11777",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11778",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11779",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11780",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11781",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11782",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11783"
       ]
     },
     {
@@ -4817,14 +4817,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #67.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11792",
-        "https://loremflickr.com/2160/3840/animal?lock=11793",
-        "https://loremflickr.com/3840/2160/animal?lock=11794",
-        "https://loremflickr.com/2160/3840/animal?lock=11795",
-        "https://loremflickr.com/3840/2160/animal?lock=11796",
-        "https://loremflickr.com/2160/3840/animal?lock=11797",
-        "https://loremflickr.com/3840/2160/animal?lock=11798",
-        "https://loremflickr.com/2160/3840/animal?lock=11799"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11792",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11793",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11794",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11795",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11796",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11797",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11798",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11799"
       ]
     },
     {
@@ -4842,14 +4842,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #68.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11800",
-        "https://loremflickr.com/2160/3840/animal?lock=11801",
-        "https://loremflickr.com/3840/2160/animal?lock=11802",
-        "https://loremflickr.com/2160/3840/animal?lock=11803",
-        "https://loremflickr.com/3840/2160/animal?lock=11804",
-        "https://loremflickr.com/2160/3840/animal?lock=11805",
-        "https://loremflickr.com/3840/2160/animal?lock=11806",
-        "https://loremflickr.com/2160/3840/animal?lock=11807"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11800",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11801",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11802",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11803",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11804",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11805",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11806",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11807"
       ]
     },
     {
@@ -4892,14 +4892,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #70.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11816",
-        "https://loremflickr.com/2160/3840/animal?lock=11817",
-        "https://loremflickr.com/3840/2160/animal?lock=11818",
-        "https://loremflickr.com/2160/3840/animal?lock=11819",
-        "https://loremflickr.com/3840/2160/animal?lock=11820",
-        "https://loremflickr.com/2160/3840/animal?lock=11821",
-        "https://loremflickr.com/3840/2160/animal?lock=11822",
-        "https://loremflickr.com/2160/3840/animal?lock=11823"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11816",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11817",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11818",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11819",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11820",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11821",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11822",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11823"
       ]
     },
     {
@@ -4942,14 +4942,14 @@
       },
       "description": "A cousin of the manatee with a fluked whale-like tail, living in coastal zones. Specimen padding entry #72.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11832",
-        "https://loremflickr.com/2160/3840/animal?lock=11833",
-        "https://loremflickr.com/3840/2160/animal?lock=11834",
-        "https://loremflickr.com/2160/3840/animal?lock=11835",
-        "https://loremflickr.com/3840/2160/animal?lock=11836",
-        "https://loremflickr.com/2160/3840/animal?lock=11837",
-        "https://loremflickr.com/3840/2160/animal?lock=11838",
-        "https://loremflickr.com/2160/3840/animal?lock=11839"
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11832",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11833",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11834",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11835",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11836",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11837",
+        "https://loremflickr.com/3840/2160/fauna,dugong?lock=11838",
+        "https://loremflickr.com/2160/3840/fauna,dugong?lock=11839"
       ]
     },
     {
@@ -4967,14 +4967,14 @@
       },
       "description": "A colossal pinniped characterized by long ivory tusks and bristly whiskers. Specimen padding entry #73.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11840",
-        "https://loremflickr.com/2160/3840/animal?lock=11841",
-        "https://loremflickr.com/3840/2160/animal?lock=11842",
-        "https://loremflickr.com/2160/3840/animal?lock=11843",
-        "https://loremflickr.com/3840/2160/animal?lock=11844",
-        "https://loremflickr.com/2160/3840/animal?lock=11845",
-        "https://loremflickr.com/3840/2160/animal?lock=11846",
-        "https://loremflickr.com/2160/3840/animal?lock=11847"
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11840",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11841",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11842",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11843",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11844",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11845",
+        "https://loremflickr.com/3840/2160/fauna,walrus?lock=11846",
+        "https://loremflickr.com/2160/3840/fauna,walrus?lock=11847"
       ]
     },
     {
@@ -5017,14 +5017,14 @@
       },
       "description": "A freshwater predator capable of producing strong bio-electric shocks up to 860 volts. Specimen padding entry #75.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11856",
-        "https://loremflickr.com/2160/3840/animal?lock=11857",
-        "https://loremflickr.com/3840/2160/animal?lock=11858",
-        "https://loremflickr.com/2160/3840/animal?lock=11859",
-        "https://loremflickr.com/3840/2160/animal?lock=11860",
-        "https://loremflickr.com/2160/3840/animal?lock=11861",
-        "https://loremflickr.com/3840/2160/animal?lock=11862",
-        "https://loremflickr.com/2160/3840/animal?lock=11863"
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11856",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11857",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11858",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11859",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11860",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11861",
+        "https://loremflickr.com/3840/2160/fauna,eel?lock=11862",
+        "https://loremflickr.com/2160/3840/fauna,eel?lock=11863"
       ]
     },
     {
@@ -5059,7 +5059,7 @@
       "name": "Crow",
       "scientificName": "Corvus",
       "habitat": "Woodlands/Urban",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "7-8 years",
@@ -5084,7 +5084,7 @@
       "name": "Duck",
       "scientificName": "Anatidae",
       "habitat": "Wetlands/Lakes",
-      "conservationStatus": "Vulnerable",
+      "conservationStatus": "Least Concern",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "5-10 years",
@@ -5159,7 +5159,7 @@
       "name": "Goose",
       "scientificName": "Anserinae",
       "habitat": "Lakes/Fields",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "10-15 years",
@@ -5184,7 +5184,7 @@
       "name": "Hornbill",
       "scientificName": "Bucerotidae",
       "habitat": "Tropical Forest",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "20-30 years",
@@ -5209,7 +5209,7 @@
       "name": "Hummingbird",
       "scientificName": "Trochilidae",
       "habitat": "Forest Margins",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Herbivore",
       "stats": {
         "lifespan": "3-5 years",
@@ -5259,7 +5259,7 @@
       "name": "Parrot",
       "scientificName": "Psittaciformes",
       "habitat": "Tropical Forest",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Omnivore",
       "stats": {
         "lifespan": "40-60 years",
@@ -5284,7 +5284,7 @@
       "name": "Pelican",
       "scientificName": "Pelecaniformes",
       "habitat": "Coasts/Lakes",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "15-25 years",
@@ -5309,7 +5309,7 @@
       "name": "Penguin",
       "scientificName": "Spheniscidae",
       "habitat": "Antarctic Coasts",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "15-20 years",
@@ -5359,7 +5359,7 @@
       "name": "Sandpiper",
       "scientificName": "Scolopacidae",
       "habitat": "Shorelines",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Vulnerable",
       "diet": "Carnivore",
       "stats": {
         "lifespan": "5-10 years",
@@ -5459,7 +5459,7 @@
       "name": "Woodpecker",
       "scientificName": "Picidae",
       "habitat": "Woodlands",
-      "conservationStatus": "Least Concern",
+      "conservationStatus": "Endangered",
       "diet": "Insectivore",
       "stats": {
         "lifespan": "6-11 years",
@@ -5619,14 +5619,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #1.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11912",
-        "https://loremflickr.com/2160/3840/animal?lock=11913",
-        "https://loremflickr.com/3840/2160/animal?lock=11914",
-        "https://loremflickr.com/2160/3840/animal?lock=11915",
-        "https://loremflickr.com/3840/2160/animal?lock=11916",
-        "https://loremflickr.com/2160/3840/animal?lock=11917",
-        "https://loremflickr.com/3840/2160/animal?lock=11918",
-        "https://loremflickr.com/2160/3840/animal?lock=11919"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11912",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11913",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11914",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11915",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11916",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11917",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11918",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11919"
       ]
     },
     {
@@ -5644,14 +5644,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #2.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11920",
-        "https://loremflickr.com/2160/3840/animal?lock=11921",
-        "https://loremflickr.com/3840/2160/animal?lock=11922",
-        "https://loremflickr.com/2160/3840/animal?lock=11923",
-        "https://loremflickr.com/3840/2160/animal?lock=11924",
-        "https://loremflickr.com/2160/3840/animal?lock=11925",
-        "https://loremflickr.com/3840/2160/animal?lock=11926",
-        "https://loremflickr.com/2160/3840/animal?lock=11927"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=11920",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=11921",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=11922",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=11923",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=11924",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=11925",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=11926",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=11927"
       ]
     },
     {
@@ -5744,14 +5744,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #6.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11952",
-        "https://loremflickr.com/2160/3840/animal?lock=11953",
-        "https://loremflickr.com/3840/2160/animal?lock=11954",
-        "https://loremflickr.com/2160/3840/animal?lock=11955",
-        "https://loremflickr.com/3840/2160/animal?lock=11956",
-        "https://loremflickr.com/2160/3840/animal?lock=11957",
-        "https://loremflickr.com/3840/2160/animal?lock=11958",
-        "https://loremflickr.com/2160/3840/animal?lock=11959"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11952",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11953",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11954",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11955",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11956",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11957",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11958",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11959"
       ]
     },
     {
@@ -5769,14 +5769,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #7.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11960",
-        "https://loremflickr.com/2160/3840/animal?lock=11961",
-        "https://loremflickr.com/3840/2160/animal?lock=11962",
-        "https://loremflickr.com/2160/3840/animal?lock=11963",
-        "https://loremflickr.com/3840/2160/animal?lock=11964",
-        "https://loremflickr.com/2160/3840/animal?lock=11965",
-        "https://loremflickr.com/3840/2160/animal?lock=11966",
-        "https://loremflickr.com/2160/3840/animal?lock=11967"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=11960",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=11961",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=11962",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=11963",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=11964",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=11965",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=11966",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=11967"
       ]
     },
     {
@@ -5869,14 +5869,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #11.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=11992",
-        "https://loremflickr.com/2160/3840/animal?lock=11993",
-        "https://loremflickr.com/3840/2160/animal?lock=11994",
-        "https://loremflickr.com/2160/3840/animal?lock=11995",
-        "https://loremflickr.com/3840/2160/animal?lock=11996",
-        "https://loremflickr.com/2160/3840/animal?lock=11997",
-        "https://loremflickr.com/3840/2160/animal?lock=11998",
-        "https://loremflickr.com/2160/3840/animal?lock=11999"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11992",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11993",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11994",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11995",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11996",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11997",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=11998",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=11999"
       ]
     },
     {
@@ -5894,14 +5894,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #12.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12000",
-        "https://loremflickr.com/2160/3840/animal?lock=12001",
-        "https://loremflickr.com/3840/2160/animal?lock=12002",
-        "https://loremflickr.com/2160/3840/animal?lock=12003",
-        "https://loremflickr.com/3840/2160/animal?lock=12004",
-        "https://loremflickr.com/2160/3840/animal?lock=12005",
-        "https://loremflickr.com/3840/2160/animal?lock=12006",
-        "https://loremflickr.com/2160/3840/animal?lock=12007"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12000",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12001",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12002",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12003",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12004",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12005",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12006",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12007"
       ]
     },
     {
@@ -5994,14 +5994,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #16.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12032",
-        "https://loremflickr.com/2160/3840/animal?lock=12033",
-        "https://loremflickr.com/3840/2160/animal?lock=12034",
-        "https://loremflickr.com/2160/3840/animal?lock=12035",
-        "https://loremflickr.com/3840/2160/animal?lock=12036",
-        "https://loremflickr.com/2160/3840/animal?lock=12037",
-        "https://loremflickr.com/3840/2160/animal?lock=12038",
-        "https://loremflickr.com/2160/3840/animal?lock=12039"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12032",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12033",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12034",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12035",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12036",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12037",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12038",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12039"
       ]
     },
     {
@@ -6019,14 +6019,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #17.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12040",
-        "https://loremflickr.com/2160/3840/animal?lock=12041",
-        "https://loremflickr.com/3840/2160/animal?lock=12042",
-        "https://loremflickr.com/2160/3840/animal?lock=12043",
-        "https://loremflickr.com/3840/2160/animal?lock=12044",
-        "https://loremflickr.com/2160/3840/animal?lock=12045",
-        "https://loremflickr.com/3840/2160/animal?lock=12046",
-        "https://loremflickr.com/2160/3840/animal?lock=12047"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12040",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12041",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12042",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12043",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12044",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12045",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12046",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12047"
       ]
     },
     {
@@ -6119,14 +6119,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #21.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12072",
-        "https://loremflickr.com/2160/3840/animal?lock=12073",
-        "https://loremflickr.com/3840/2160/animal?lock=12074",
-        "https://loremflickr.com/2160/3840/animal?lock=12075",
-        "https://loremflickr.com/3840/2160/animal?lock=12076",
-        "https://loremflickr.com/2160/3840/animal?lock=12077",
-        "https://loremflickr.com/3840/2160/animal?lock=12078",
-        "https://loremflickr.com/2160/3840/animal?lock=12079"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12072",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12073",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12074",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12075",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12076",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12077",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12078",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12079"
       ]
     },
     {
@@ -6144,14 +6144,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #22.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12080",
-        "https://loremflickr.com/2160/3840/animal?lock=12081",
-        "https://loremflickr.com/3840/2160/animal?lock=12082",
-        "https://loremflickr.com/2160/3840/animal?lock=12083",
-        "https://loremflickr.com/3840/2160/animal?lock=12084",
-        "https://loremflickr.com/2160/3840/animal?lock=12085",
-        "https://loremflickr.com/3840/2160/animal?lock=12086",
-        "https://loremflickr.com/2160/3840/animal?lock=12087"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12080",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12081",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12082",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12083",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12084",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12085",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12086",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12087"
       ]
     },
     {
@@ -6244,14 +6244,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #26.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12112",
-        "https://loremflickr.com/2160/3840/animal?lock=12113",
-        "https://loremflickr.com/3840/2160/animal?lock=12114",
-        "https://loremflickr.com/2160/3840/animal?lock=12115",
-        "https://loremflickr.com/3840/2160/animal?lock=12116",
-        "https://loremflickr.com/2160/3840/animal?lock=12117",
-        "https://loremflickr.com/3840/2160/animal?lock=12118",
-        "https://loremflickr.com/2160/3840/animal?lock=12119"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12112",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12113",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12114",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12115",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12116",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12117",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12118",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12119"
       ]
     },
     {
@@ -6269,14 +6269,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #27.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12120",
-        "https://loremflickr.com/2160/3840/animal?lock=12121",
-        "https://loremflickr.com/3840/2160/animal?lock=12122",
-        "https://loremflickr.com/2160/3840/animal?lock=12123",
-        "https://loremflickr.com/3840/2160/animal?lock=12124",
-        "https://loremflickr.com/2160/3840/animal?lock=12125",
-        "https://loremflickr.com/3840/2160/animal?lock=12126",
-        "https://loremflickr.com/2160/3840/animal?lock=12127"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12120",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12121",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12122",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12123",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12124",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12125",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12126",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12127"
       ]
     },
     {
@@ -6369,14 +6369,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #31.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12152",
-        "https://loremflickr.com/2160/3840/animal?lock=12153",
-        "https://loremflickr.com/3840/2160/animal?lock=12154",
-        "https://loremflickr.com/2160/3840/animal?lock=12155",
-        "https://loremflickr.com/3840/2160/animal?lock=12156",
-        "https://loremflickr.com/2160/3840/animal?lock=12157",
-        "https://loremflickr.com/3840/2160/animal?lock=12158",
-        "https://loremflickr.com/2160/3840/animal?lock=12159"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12152",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12153",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12154",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12155",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12156",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12157",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12158",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12159"
       ]
     },
     {
@@ -6394,14 +6394,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #32.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12160",
-        "https://loremflickr.com/2160/3840/animal?lock=12161",
-        "https://loremflickr.com/3840/2160/animal?lock=12162",
-        "https://loremflickr.com/2160/3840/animal?lock=12163",
-        "https://loremflickr.com/3840/2160/animal?lock=12164",
-        "https://loremflickr.com/2160/3840/animal?lock=12165",
-        "https://loremflickr.com/3840/2160/animal?lock=12166",
-        "https://loremflickr.com/2160/3840/animal?lock=12167"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12160",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12161",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12162",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12163",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12164",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12165",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12166",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12167"
       ]
     },
     {
@@ -6494,14 +6494,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #36.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12192",
-        "https://loremflickr.com/2160/3840/animal?lock=12193",
-        "https://loremflickr.com/3840/2160/animal?lock=12194",
-        "https://loremflickr.com/2160/3840/animal?lock=12195",
-        "https://loremflickr.com/3840/2160/animal?lock=12196",
-        "https://loremflickr.com/2160/3840/animal?lock=12197",
-        "https://loremflickr.com/3840/2160/animal?lock=12198",
-        "https://loremflickr.com/2160/3840/animal?lock=12199"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12192",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12193",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12194",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12195",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12196",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12197",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12198",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12199"
       ]
     },
     {
@@ -6519,14 +6519,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #37.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12200",
-        "https://loremflickr.com/2160/3840/animal?lock=12201",
-        "https://loremflickr.com/3840/2160/animal?lock=12202",
-        "https://loremflickr.com/2160/3840/animal?lock=12203",
-        "https://loremflickr.com/3840/2160/animal?lock=12204",
-        "https://loremflickr.com/2160/3840/animal?lock=12205",
-        "https://loremflickr.com/3840/2160/animal?lock=12206",
-        "https://loremflickr.com/2160/3840/animal?lock=12207"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12200",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12201",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12202",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12203",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12204",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12205",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12206",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12207"
       ]
     },
     {
@@ -6619,14 +6619,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #41.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12232",
-        "https://loremflickr.com/2160/3840/animal?lock=12233",
-        "https://loremflickr.com/3840/2160/animal?lock=12234",
-        "https://loremflickr.com/2160/3840/animal?lock=12235",
-        "https://loremflickr.com/3840/2160/animal?lock=12236",
-        "https://loremflickr.com/2160/3840/animal?lock=12237",
-        "https://loremflickr.com/3840/2160/animal?lock=12238",
-        "https://loremflickr.com/2160/3840/animal?lock=12239"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12232",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12233",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12234",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12235",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12236",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12237",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12238",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12239"
       ]
     },
     {
@@ -6644,14 +6644,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #42.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12240",
-        "https://loremflickr.com/2160/3840/animal?lock=12241",
-        "https://loremflickr.com/3840/2160/animal?lock=12242",
-        "https://loremflickr.com/2160/3840/animal?lock=12243",
-        "https://loremflickr.com/3840/2160/animal?lock=12244",
-        "https://loremflickr.com/2160/3840/animal?lock=12245",
-        "https://loremflickr.com/3840/2160/animal?lock=12246",
-        "https://loremflickr.com/2160/3840/animal?lock=12247"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12240",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12241",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12242",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12243",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12244",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12245",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12246",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12247"
       ]
     },
     {
@@ -6744,14 +6744,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #46.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12272",
-        "https://loremflickr.com/2160/3840/animal?lock=12273",
-        "https://loremflickr.com/3840/2160/animal?lock=12274",
-        "https://loremflickr.com/2160/3840/animal?lock=12275",
-        "https://loremflickr.com/3840/2160/animal?lock=12276",
-        "https://loremflickr.com/2160/3840/animal?lock=12277",
-        "https://loremflickr.com/3840/2160/animal?lock=12278",
-        "https://loremflickr.com/2160/3840/animal?lock=12279"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12272",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12273",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12274",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12275",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12276",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12277",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12278",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12279"
       ]
     },
     {
@@ -6769,14 +6769,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #47.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12280",
-        "https://loremflickr.com/2160/3840/animal?lock=12281",
-        "https://loremflickr.com/3840/2160/animal?lock=12282",
-        "https://loremflickr.com/2160/3840/animal?lock=12283",
-        "https://loremflickr.com/3840/2160/animal?lock=12284",
-        "https://loremflickr.com/2160/3840/animal?lock=12285",
-        "https://loremflickr.com/3840/2160/animal?lock=12286",
-        "https://loremflickr.com/2160/3840/animal?lock=12287"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12280",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12281",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12282",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12283",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12284",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12285",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12286",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12287"
       ]
     },
     {
@@ -6869,14 +6869,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #51.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12312",
-        "https://loremflickr.com/2160/3840/animal?lock=12313",
-        "https://loremflickr.com/3840/2160/animal?lock=12314",
-        "https://loremflickr.com/2160/3840/animal?lock=12315",
-        "https://loremflickr.com/3840/2160/animal?lock=12316",
-        "https://loremflickr.com/2160/3840/animal?lock=12317",
-        "https://loremflickr.com/3840/2160/animal?lock=12318",
-        "https://loremflickr.com/2160/3840/animal?lock=12319"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12312",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12313",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12314",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12315",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12316",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12317",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12318",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12319"
       ]
     },
     {
@@ -6894,14 +6894,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #52.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12320",
-        "https://loremflickr.com/2160/3840/animal?lock=12321",
-        "https://loremflickr.com/3840/2160/animal?lock=12322",
-        "https://loremflickr.com/2160/3840/animal?lock=12323",
-        "https://loremflickr.com/3840/2160/animal?lock=12324",
-        "https://loremflickr.com/2160/3840/animal?lock=12325",
-        "https://loremflickr.com/3840/2160/animal?lock=12326",
-        "https://loremflickr.com/2160/3840/animal?lock=12327"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12320",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12321",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12322",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12323",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12324",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12325",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12326",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12327"
       ]
     },
     {
@@ -6994,14 +6994,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #56.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12352",
-        "https://loremflickr.com/2160/3840/animal?lock=12353",
-        "https://loremflickr.com/3840/2160/animal?lock=12354",
-        "https://loremflickr.com/2160/3840/animal?lock=12355",
-        "https://loremflickr.com/3840/2160/animal?lock=12356",
-        "https://loremflickr.com/2160/3840/animal?lock=12357",
-        "https://loremflickr.com/3840/2160/animal?lock=12358",
-        "https://loremflickr.com/2160/3840/animal?lock=12359"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12352",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12353",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12354",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12355",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12356",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12357",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12358",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12359"
       ]
     },
     {
@@ -7019,14 +7019,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #57.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12360",
-        "https://loremflickr.com/2160/3840/animal?lock=12361",
-        "https://loremflickr.com/3840/2160/animal?lock=12362",
-        "https://loremflickr.com/2160/3840/animal?lock=12363",
-        "https://loremflickr.com/3840/2160/animal?lock=12364",
-        "https://loremflickr.com/2160/3840/animal?lock=12365",
-        "https://loremflickr.com/3840/2160/animal?lock=12366",
-        "https://loremflickr.com/2160/3840/animal?lock=12367"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12360",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12361",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12362",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12363",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12364",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12365",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12366",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12367"
       ]
     },
     {
@@ -7119,14 +7119,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #61.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12392",
-        "https://loremflickr.com/2160/3840/animal?lock=12393",
-        "https://loremflickr.com/3840/2160/animal?lock=12394",
-        "https://loremflickr.com/2160/3840/animal?lock=12395",
-        "https://loremflickr.com/3840/2160/animal?lock=12396",
-        "https://loremflickr.com/2160/3840/animal?lock=12397",
-        "https://loremflickr.com/3840/2160/animal?lock=12398",
-        "https://loremflickr.com/2160/3840/animal?lock=12399"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12392",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12393",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12394",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12395",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12396",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12397",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12398",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12399"
       ]
     },
     {
@@ -7144,14 +7144,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #62.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12400",
-        "https://loremflickr.com/2160/3840/animal?lock=12401",
-        "https://loremflickr.com/3840/2160/animal?lock=12402",
-        "https://loremflickr.com/2160/3840/animal?lock=12403",
-        "https://loremflickr.com/3840/2160/animal?lock=12404",
-        "https://loremflickr.com/2160/3840/animal?lock=12405",
-        "https://loremflickr.com/3840/2160/animal?lock=12406",
-        "https://loremflickr.com/2160/3840/animal?lock=12407"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12400",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12401",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12402",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12403",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12404",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12405",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12406",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12407"
       ]
     },
     {
@@ -7244,14 +7244,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #66.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12432",
-        "https://loremflickr.com/2160/3840/animal?lock=12433",
-        "https://loremflickr.com/3840/2160/animal?lock=12434",
-        "https://loremflickr.com/2160/3840/animal?lock=12435",
-        "https://loremflickr.com/3840/2160/animal?lock=12436",
-        "https://loremflickr.com/2160/3840/animal?lock=12437",
-        "https://loremflickr.com/3840/2160/animal?lock=12438",
-        "https://loremflickr.com/2160/3840/animal?lock=12439"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12432",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12433",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12434",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12435",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12436",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12437",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12438",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12439"
       ]
     },
     {
@@ -7269,14 +7269,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #67.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12440",
-        "https://loremflickr.com/2160/3840/animal?lock=12441",
-        "https://loremflickr.com/3840/2160/animal?lock=12442",
-        "https://loremflickr.com/2160/3840/animal?lock=12443",
-        "https://loremflickr.com/3840/2160/animal?lock=12444",
-        "https://loremflickr.com/2160/3840/animal?lock=12445",
-        "https://loremflickr.com/3840/2160/animal?lock=12446",
-        "https://loremflickr.com/2160/3840/animal?lock=12447"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12440",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12441",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12442",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12443",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12444",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12445",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12446",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12447"
       ]
     },
     {
@@ -7369,14 +7369,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #71.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12472",
-        "https://loremflickr.com/2160/3840/animal?lock=12473",
-        "https://loremflickr.com/3840/2160/animal?lock=12474",
-        "https://loremflickr.com/2160/3840/animal?lock=12475",
-        "https://loremflickr.com/3840/2160/animal?lock=12476",
-        "https://loremflickr.com/2160/3840/animal?lock=12477",
-        "https://loremflickr.com/3840/2160/animal?lock=12478",
-        "https://loremflickr.com/2160/3840/animal?lock=12479"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12472",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12473",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12474",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12475",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12476",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12477",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12478",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12479"
       ]
     },
     {
@@ -7394,14 +7394,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #72.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12480",
-        "https://loremflickr.com/2160/3840/animal?lock=12481",
-        "https://loremflickr.com/3840/2160/animal?lock=12482",
-        "https://loremflickr.com/2160/3840/animal?lock=12483",
-        "https://loremflickr.com/3840/2160/animal?lock=12484",
-        "https://loremflickr.com/2160/3840/animal?lock=12485",
-        "https://loremflickr.com/3840/2160/animal?lock=12486",
-        "https://loremflickr.com/2160/3840/animal?lock=12487"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12480",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12481",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12482",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12483",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12484",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12485",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12486",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12487"
       ]
     },
     {
@@ -7494,14 +7494,14 @@
       },
       "description": "Elegant waterfowl forming long breeding pairs, with white feathers and curved necks. Specimen padding entry #76.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12512",
-        "https://loremflickr.com/2160/3840/animal?lock=12513",
-        "https://loremflickr.com/3840/2160/animal?lock=12514",
-        "https://loremflickr.com/2160/3840/animal?lock=12515",
-        "https://loremflickr.com/3840/2160/animal?lock=12516",
-        "https://loremflickr.com/2160/3840/animal?lock=12517",
-        "https://loremflickr.com/3840/2160/animal?lock=12518",
-        "https://loremflickr.com/2160/3840/animal?lock=12519"
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12512",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12513",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12514",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12515",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12516",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12517",
+        "https://loremflickr.com/3840/2160/fauna,swan?lock=12518",
+        "https://loremflickr.com/2160/3840/fauna,swan?lock=12519"
       ]
     },
     {
@@ -7519,14 +7519,14 @@
       },
       "description": "Taps tree trunks with its beak to find grubs and communicate via drumming. Specimen padding entry #77.",
       "images": [
-        "https://loremflickr.com/3840/2160/animal?lock=12520",
-        "https://loremflickr.com/2160/3840/animal?lock=12521",
-        "https://loremflickr.com/3840/2160/animal?lock=12522",
-        "https://loremflickr.com/2160/3840/animal?lock=12523",
-        "https://loremflickr.com/3840/2160/animal?lock=12524",
-        "https://loremflickr.com/2160/3840/animal?lock=12525",
-        "https://loremflickr.com/3840/2160/animal?lock=12526",
-        "https://loremflickr.com/2160/3840/animal?lock=12527"
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12520",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12521",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12522",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12523",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12524",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12525",
+        "https://loremflickr.com/3840/2160/fauna,woodpecker?lock=12526",
+        "https://loremflickr.com/2160/3840/fauna,woodpecker?lock=12527"
       ]
     },
     {
