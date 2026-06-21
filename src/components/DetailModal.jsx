@@ -142,7 +142,32 @@ export default function DetailModal({ animal, onClose, isLiked, onToggleLike }) 
                   src={getImageUrl(animal.images[currentImageIndex])} 
                   alt={`${animal.name} slide`} 
                   className={fadeState === 'out' ? 'fade-out' : ''}
-                  onError={(e) => { e.target.src = EMERGENCY_FALLBACKS[sector] || EMERGENCY_FALLBACKS.land; }}
+                  onError={(e) => { 
+                    e.target.onerror = null; // Prevent infinite loop on fallback
+                    const activeImage = animal.images[currentImageIndex];
+                    if (activeImage && !activeImage.startsWith('http')) {
+                      const cleanName = animal.name
+                        .split(' Extra-')[0]
+                        .split(' Type-')[0]
+                        .split(' v')[0]
+                        .toLowerCase()
+                        .replace(/ /g, '-');
+                      
+                      let tag = cleanName;
+                      if (animal.id.startsWith('marine') && !cleanName.includes('fish') && !cleanName.includes('whale') && !cleanName.includes('shark')) {
+                        tag = `${cleanName},marine-life`;
+                      } else if (animal.id.startsWith('birds') && !cleanName.includes('bird') && !cleanName.includes('owl') && !cleanName.includes('eagle')) {
+                        tag = `${cleanName},bird`;
+                      }
+                      
+                      const seed = animal.name.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0) + currentImageIndex + 25000;
+                      const width = currentImageIndex % 2 === 0 ? 3840 : 2160;
+                      const height = currentImageIndex % 2 === 0 ? 2160 : 3840;
+                      e.target.src = `https://loremflickr.com/${width}/${height}/${tag}?lock=${seed}`;
+                    } else {
+                      e.target.src = EMERGENCY_FALLBACKS[sector] || EMERGENCY_FALLBACKS.land;
+                    }
+                  }}
                 />
                 <div className="image-overlay-index">
                   <span>{currentImageIndex + 1} / {animal.images.length}</span>

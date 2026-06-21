@@ -40,14 +40,37 @@ export default function AnimalCard({ animal, onCardClick, isLiked, onToggleLike 
     return getImageUrl(resolvedUrl);
   };
 
-  const handleImageError = () => {
-    const nextIndex = fallbackIndex + 1;
-    if (animal.images && nextIndex < animal.images.length) {
-      setFallbackIndex(nextIndex);
-      setImageSrc(animal.images[nextIndex]);
-    } else {
-      setImageSrc(EMERGENCY_FALLBACKS[getSector()]);
+  const handleImageError = (e) => {
+    // If it's a local image path, fall back to a dynamic LoremFlickr image for this specific animal!
+    if (imageSrc && !imageSrc.startsWith('http')) {
+      const cleanName = animal.name
+        .split(' Extra-')[0]
+        .split(' Type-')[0]
+        .split(' v')[0]
+        .toLowerCase()
+        .replace(/ /g, '-');
+      
+      let tag = cleanName;
+      if (animal.id.startsWith('marine') && !cleanName.includes('fish') && !cleanName.includes('whale') && !cleanName.includes('shark')) {
+        tag = `${cleanName},marine-life`;
+      } else if (animal.id.startsWith('birds') && !cleanName.includes('bird') && !cleanName.includes('owl') && !cleanName.includes('eagle')) {
+        tag = `${cleanName},bird`;
+      }
+
+      const seed = animal.name.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0) + fallbackIndex + 25000;
+      const width = fallbackIndex % 2 === 0 ? 3840 : 2160;
+      const height = fallbackIndex % 2 === 0 ? 2160 : 3840;
+      const fallbackUrl = `https://loremflickr.com/${width}/${height}/${tag}?lock=${seed}`;
+      
+      setImageSrc(fallbackUrl);
+      return;
     }
+
+    // If it's already an online URL and it fails, load the emergency sector fallback
+    if (e && e.target) {
+      e.target.onerror = null; // Prevent infinite loop
+    }
+    setImageSrc(EMERGENCY_FALLBACKS[getSector()]);
   };
 
   const handleDownload = async (e, format) => {
